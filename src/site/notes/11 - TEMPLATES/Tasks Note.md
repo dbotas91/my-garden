@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-templates/tasks-note/","noteIcon":""}
 ---
 
-<%* await tp.file.move(`06-DAILY-WEEKLY RASKS/${tp.file.title}`) %>
+<%* await tp.file.move(`06 - DAILY-WEEKLY TASKS/${tp.file.title}`) %>
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 Tags: [[<% tp.date.now("YYYY-MM") %>\|<% tp.date.now("YYYY-MM") %>]], 
