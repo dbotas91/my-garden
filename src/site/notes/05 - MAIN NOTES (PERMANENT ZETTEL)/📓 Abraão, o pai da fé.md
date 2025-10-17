@@ -4,8 +4,8 @@
 
 2025-10-14 18:12
 
-Status: [[09 - STATUS NOTES/Teen\|Teen]]
-
+Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]
+Local: [[10 - TAGS/Fontainhas\|Fontainhas]]
 Tags: [[10 - TAGS/Abraão\|Abraão]]
 
 # Abraão, o pai da fé
