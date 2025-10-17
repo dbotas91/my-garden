@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/11-templates/index-note/","noteIcon":""}
 ---
 
-
 # [Nome]
 
 ## General Description
