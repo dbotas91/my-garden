@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/selados/","noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/selados/","tags":["#EspíritoSanto"],"noteIcon":""}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
