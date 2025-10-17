@@ -3,7 +3,6 @@
 ---
 
 <%* await tp.file.move(`06 - DAILY-WEEKLY TASKS/${tp.file.title}`) %>
-Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 Tags: [[<% tp.date.now("YYYY-MM") %>\|<% tp.date.now("YYYY-MM") %>]], 
  
