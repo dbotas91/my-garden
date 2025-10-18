@@ -14,7 +14,7 @@ Depois de falar do secularismo e a maldição das nações, espero que a histór
 
 Na Bíblia não existe nenhuma expressão ou passagem que diga diretamente que Abraão é o pai da fé.
 
-As passagens que dão a entender a Abraão como o pai da fé são [[#(Romanos 4 11 - NVI, ênfase adicionada) |Romanos 4:9-12]]; [[#Gálatas 3 6-9]]
+As passagens que dão a entender a Abraão como o pai da fé são [[#(Romanos 4 11 - NVI, ênfase adicionada) |Romanos 4:9-12]]; [[#Gálatas 3 6-9 |Gálatas 3:6-9]]
 
 Independentemente de Abraão ser ou não o pai da fé ou nosso pai da fé, como descrito nas passagens acima, espero que possamos perceber que temos muito em comum com Abraão e muito mais a ganhar do que ele.
 
