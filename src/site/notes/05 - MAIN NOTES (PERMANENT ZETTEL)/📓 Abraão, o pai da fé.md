@@ -14,7 +14,7 @@ Depois de falar do secularismo e a maldição das nações, espero que a histór
 
 Na Bíblia não existe nenhuma expressão ou passagem que diga diretamente que Abraão é o pai da fé.
 
-As passagens que dão a entender a Abraão como o pai da fé são [[#(Romanos 4 11 - NVI, ênfase adicionada) |Romanos 4:9-12]]; [[#Gálatas 3 6-9]]; [[05 - MAIN NOTES (PERMANENT ZETTEL)/📓 Abraão, o pai da fé#Gálatas 3 6-9\|📓 Abraão, o pai da fé#Gálatas 3 6-9]]
+As passagens que dão a entender a Abraão como o pai da fé são [[#(Romanos 4 11 - NVI, ênfase adicionada)]]; [[#Gálatas 3 6-9]]; [[05 - MAIN NOTES (PERMANENT ZETTEL)/📓 Abraão, o pai da fé#Gálatas 3 6-9\|📓 Abraão, o pai da fé#Gálatas 3 6-9]]
 
 Independentemente de Abraão ser ou não o pai da fé ou nosso pai da fé, como descrito nas passagens acima, espero que possamos perceber que temos muito em comum com Abraão e muito mais a ganhar do que ele.
 
@@ -75,6 +75,8 @@ Independentemente de Abraão ser ou não o pai da fé ou nosso pai da fé, como 
 "Como lhe foi, pois, imputada? Estando na circuncisão ou na incircuncisão? Não na circuncisão, mas na incircuncisão. 11 E [Abraão] recebeu o sinal da circuncisão, selo da justiça da fé, quando estava na incircuncisão, para que fosse pai de todos os que creem (estando eles também na incircuncisão, a fim de que também a justiça lhes seja imputada), 12 e fosse pai da circuncisão, daqueles que não somente são da circuncisão, mas que também andam nas pisadas daquela fé de Abraão, nosso pai, que tivera na incircuncisão."
 
 #### Gálatas 3:6-9
+{ #100296}
+
 
 ##### Almeida Revista e Corrigida 2009
 
