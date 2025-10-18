@@ -4,9 +4,8 @@
 
 2025-10-15 18:12
 
-Status: [[09 - STATUS NOTES/Child\|Child]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: 2025-10-15 18:13
-
 Tags: [[2025-10\|2025-10]], 
  
 # Músicas 
@@ -16,7 +15,7 @@ Marcos 14:29-32, 66-72; Lucas 22:60-62 
 
 # Motivos de oração 
 
-- [ ] Cirurgia da Sara Gomes -  
+- [ ] Cirurgia da Sara Gomes -
 - [ ] Rui Palma e família 
 - [ ] Rafael e família (O rafael faz anos hoje)
 - [ ] Erik + Joyce 
