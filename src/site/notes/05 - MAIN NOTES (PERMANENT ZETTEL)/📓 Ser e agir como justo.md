@@ -8,11 +8,6 @@ Tags: [[10 - TAGS/justo\|justo]]
 
 # Ser e agir como justo
 
-|                                                        |                              |
-| ------------------------------------------------------ | ---------------------------- |
-| ![](Dashboard/Attachments/clock_gray%20232.svg)Created | @September 13, 2024 11:21 AM |
-| ![](Dashboard/Attachments/list_gray%20966.svg)Tags     | Done                         |
-
 O nosso termo “justificação” **vem** de duas palavras latinas: justus + facere = tornar **justos**. Biblicamente, justificar é Deus declarar alguém **justo** segundo o seu conceito de justiça.
 
 # **justo**
