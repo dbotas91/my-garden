@@ -11,4 +11,4 @@
 ![Currículo](../img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)
 
 [![Currículo](../img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)](../img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)
-[![Currículo](/img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)](O%20meu%20curriculo/Untitled%2016.png)
+[![Currículo](/img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)](08%20-%20ATTACHMENTS/Attachments/Untitled%2016.png)
