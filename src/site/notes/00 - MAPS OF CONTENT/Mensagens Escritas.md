@@ -27,3 +27,19 @@ No Column Lines: true
 
 --- end-multi-column
 
+> [!multi-column]
+> [!column]
+> Conteúdo da coluna 1
+>
+> [!column]
+> Conteúdo da coluna 2
+
+
+> [!multi-column]
+> ### Coluna 1
+> Texto, imagens, links…
+>
+> ---
+>
+> ### Coluna 2
+> Mais conteúdo…
