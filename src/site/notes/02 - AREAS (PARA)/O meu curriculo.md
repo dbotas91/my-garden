@@ -4,4 +4,6 @@
 
 # O meu curriculo
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/Untitled 16.png)](O%20meu%20curriculo/Untitled.png)
+[[08%20-%20ATTACHMENTS/Attachments/Untitled%2016.png\|200]]
+
+[![](08%20-%20ATTACHMENTS/Attachments/Untitled%2016.png|200)](O%20meu%20curriculo/Untitled%2016.png)
