@@ -6,8 +6,8 @@
 --- start-multi-column: ID_iamv
 ```column-settings
 Number of Columns: 2
-Largest Column: standard
-No Column Lines: true
+Largest Column: left
+Border: off
 ```
 
 # 📜 Mensagens de Domingo
@@ -43,3 +43,5 @@ No Column Lines: true
 >
 > ### Coluna 2
 > Mais conteúdo…
+
+<iframe src="[Attachments/minha-apresentacao.html](file:///export/Minha%2520apresenta%25C3%25A7%25C3%25A3o/index.html)" width="800" height="450" frameborder="0" allowfullscreen></iframe>[]
