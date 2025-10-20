@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-maps-of-content/minha-apresentacao-2/","title":{"{ Minha apresentação 2 }":null},"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-maps-of-content/minha-apresentacao-2/","title":"Minha apresentação 2","noteIcon":""}
 ---
 
   
