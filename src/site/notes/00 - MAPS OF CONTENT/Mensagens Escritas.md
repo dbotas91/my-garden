@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-maps-of-content/mensagens-escritas/","tags":["gardenEntry"],"dgShowLocalGraph":"true","noteIcon":""}
+{"dg-publish":true,"permalink":"/00-maps-of-content/mensagens-escritas/","noteIcon":""}
 ---
 
-
+[[00 - MAPS OF CONTENT/Home\|Back home]]
 > [!Topicos]
 > # 📜 Mensagens de Domingo
 > # 📚 Estudos Bíblicos
