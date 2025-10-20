@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","tags":["#excelência"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","tags":["#excelência"],"noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

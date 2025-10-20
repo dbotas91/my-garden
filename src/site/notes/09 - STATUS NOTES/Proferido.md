@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/09-status-notes/proferido/","noteIcon":""}
+{"dg-publish":true,"permalink":"/09-status-notes/proferido/","noteIcon":"outgoing"}
 ---
 

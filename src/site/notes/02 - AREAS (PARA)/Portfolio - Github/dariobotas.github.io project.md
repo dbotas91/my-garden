@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-para/portfolio-github/dariobotas-github-io-project/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02-areas-para/portfolio-github/dariobotas-github-io-project/","noteIcon":"outgoing"}
 ---
 
 

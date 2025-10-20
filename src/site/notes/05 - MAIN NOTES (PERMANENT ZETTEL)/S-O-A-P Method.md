@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","noteIcon":"outgoing"}
 ---
 
  

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/10-tags/wroclaw/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tags/wroclaw/","noteIcon":"outgoing"}
 ---
 

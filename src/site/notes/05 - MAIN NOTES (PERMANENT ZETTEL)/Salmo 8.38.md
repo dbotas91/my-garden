@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","tags":["salmo8"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","tags":["salmo8"],"noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

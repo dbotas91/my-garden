@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","noteIcon":"outgoing"}
 ---
 
 2025-10-14 18:12

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","noteIcon":""}
+{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

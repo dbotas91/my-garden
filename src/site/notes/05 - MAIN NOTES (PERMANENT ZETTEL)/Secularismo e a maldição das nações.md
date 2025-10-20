@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","tags":["torre-de-babel","genesis11","abraão","ninrode"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","tags":["torre-de-babel","genesis11","abraão","ninrode"],"noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]

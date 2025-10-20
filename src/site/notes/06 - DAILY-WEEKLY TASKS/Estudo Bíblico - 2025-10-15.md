@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/estudo-biblico-2025-10-15/","noteIcon":""}
+{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/estudo-biblico-2025-10-15/","noteIcon":"outgoing"}
 ---
 
 2025-10-15 18:12

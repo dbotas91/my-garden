@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/culto-de-domingo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/culto-de-domingo/","noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-maps-of-content/mensagens-escritas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/00-maps-of-content/mensagens-escritas/","noteIcon":"outgoing"}
 ---
 
 [[00 - MAPS OF CONTENT/Home\|Back home]]

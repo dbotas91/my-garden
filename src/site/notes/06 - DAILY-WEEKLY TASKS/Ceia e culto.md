@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/ceia-e-culto/","noteIcon":""}
+{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/ceia-e-culto/","noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

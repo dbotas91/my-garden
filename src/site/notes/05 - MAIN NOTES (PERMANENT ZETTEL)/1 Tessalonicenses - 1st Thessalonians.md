@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/1-tessalonicenses-1st-thessalonians/","tags":["1tessalonicenses"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/1-tessalonicenses-1st-thessalonians/","tags":["1tessalonicenses"],"noteIcon":"outgoing"}
 ---
 
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]

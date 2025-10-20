@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/11-templates/index-note/","noteIcon":""}
+{"dg-publish":true,"permalink":"/11-templates/index-note/","noteIcon":"outgoing"}
 ---
 
 # [Nome]

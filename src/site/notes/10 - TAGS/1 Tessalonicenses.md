@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/10-tags/1-tessalonicenses/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tags/1-tessalonicenses/","noteIcon":"outgoing"}
 ---
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/10-tags/investigation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tags/investigation/","noteIcon":"outgoing"}
 ---
 

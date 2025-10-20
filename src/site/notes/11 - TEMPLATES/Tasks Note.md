@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/11-templates/tasks-note/","noteIcon":""}
+{"dg-publish":true,"permalink":"/11-templates/tasks-note/","noteIcon":"outgoing"}
 ---
 
 <%* await tp.file.move(`06 - DAILY-WEEKLY TASKS/${tp.file.title}`) %>
