@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/11-templates/presentation-note/","title":"{{Title}}","tags":["presentation"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/11-templates/presentation-note/","tags":["presentation"],"noteIcon":""}
 ---
 
 ---
