@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-maps-of-content/mensagens-escritas/","noteIcon":"outgoing"}
 ---
 
-[[00 - MAPS OF CONTENT/Home\|Back home]]
+[[Home\|Back home]]
 > [!Topicos]
 > # 📜 Mensagens de Domingo
 > # 📚 Estudos Bíblicos
