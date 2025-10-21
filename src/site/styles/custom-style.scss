@@ -256,7 +256,7 @@ body {
       width: auto;
     }
 
-    #theme-switch {
+    #theme-change {
       .light {
         display: none;
       }
@@ -270,19 +270,19 @@ body {
       }
     }
 
-    #theme-switch.light {
+    #theme-change.light {
       .light {
         display: inline;
       }
     }
 
-    #theme-switch.dark {
+    #theme-change.dark {
       .dark {
         display: inline;
       }
     }
 
-    #theme-switch.auto {
+    #theme-change.auto {
       .auto {
         display: inline;
       }
