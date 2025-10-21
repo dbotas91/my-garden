@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-13T20:17:14.032+01:00","updated":"2025-10-21T15:10:20.603+01:00","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/11-templates/index-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":null,"created":"2025-10-13T20:17:14.032+01:00","updated":"2025-10-21T15:25:27.459+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/11-templates/index-note/"}
 ---
 
 # [Nome]
