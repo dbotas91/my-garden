@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","dgPassFrontmatter":true,"dg-home-link":"true","permalink":"/00-maps-of-content/mensagens-escritas/","dgHomeLink":"true","created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-21T19:08:00.301+01:00"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-21T19:18:09.803+01:00"}
 ---
 
-
+[[0. Home\|Back home]]
 
 > [!Topicos]
 > # 📜 Mensagens de Domingo

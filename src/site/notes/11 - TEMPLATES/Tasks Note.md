@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"tags":null,"mature-status":"Stone","created":"2025-10-13T20:17:13.910+01:00","dg-note-icon":"stone","noteI":"stone","updated":"2025-10-21T18:28:52.372+01:00","title":"<% tp.file.title %>","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/","noteIcon":"stone"}
+{"dg-publish":true,"tags":null,"mature-status":"Stone","created":"2025-10-13T20:17:13.910+01:00","dg-note-icon":"stone","noteI":"stone","updated":"2025-10-21T19:19:20.055+01:00","title":"<% tp.file.title %>","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/","noteIcon":"stone"}
 ---
 
+[[0. Home\|Back home]]
 <%* await tp.file.move(`06 - DAILY-WEEKLY TASKS/${tp.file.title}`) %>
 
 Status: [[09 - STATUS NOTES/Stone\|Stone]]
