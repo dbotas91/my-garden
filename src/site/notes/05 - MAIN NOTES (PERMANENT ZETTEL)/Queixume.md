@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/queixume/","tags":["queixume"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:41.507+01:00","tags":["queixume"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/queixume/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:28:12.571+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

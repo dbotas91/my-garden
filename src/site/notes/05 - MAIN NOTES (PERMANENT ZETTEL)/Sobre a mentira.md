@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/sobre-a-mentira/","tags":["sobreamentira"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:30:07.456+01:00","tags":["sobreamentira"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/sobre-a-mentira/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:13:02.848+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/resolucoes-de-ano-novo/","tags":["anonovo"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:42.458+01:00","tags":["anonovo"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/resolucoes-de-ano-novo/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:26:36.136+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

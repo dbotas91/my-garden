@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-para/o-meu-curriculo/","noteIcon":"outgoing"}
+{"dg-publish":true,"permalink":"/02-areas-para/o-meu-curriculo/","dgPassFrontmatter":true,"noteIcon":"child","created":"2025-10-16T10:21:08.604+01:00","updated":"2025-10-19T21:16:18.658+01:00"}
 ---
 
 # O meu currículo

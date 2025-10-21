@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/ser-e-agir-como-justo/","tags":["justo"],"noteIcon":"outgoing"}
+{"dg-publish":true,"tags":["justo"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:46.387+01:00","permalink":"/05-main-notes-permanent-zettel/ser-e-agir-como-justo/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T15:22:51.167+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

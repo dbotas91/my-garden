@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","tags":["#excelência"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:53.409+01:00","tags":["#excelência"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:15:33.496+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

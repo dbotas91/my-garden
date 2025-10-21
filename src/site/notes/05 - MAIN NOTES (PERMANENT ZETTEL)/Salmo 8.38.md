@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","tags":["salmo8"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:28:10.307+01:00","tags":["salmo8"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:24:10.264+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

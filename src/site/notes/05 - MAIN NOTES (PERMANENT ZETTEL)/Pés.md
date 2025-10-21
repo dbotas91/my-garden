@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/pes/","tags":["ministeriodareconciliação"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:37.321+01:00","tags":["ministeriodareconciliação"],"mature-status":"Adult","message_category":"Evangelização","permalink":"/05-main-notes-permanent-zettel/pes/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:32:57.570+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

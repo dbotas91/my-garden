@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/qual-a-nossa-motivacao/","tags":["motivação"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:40.945+01:00","tags":["motivação"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/qual-a-nossa-motivacao/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:29:41.215+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

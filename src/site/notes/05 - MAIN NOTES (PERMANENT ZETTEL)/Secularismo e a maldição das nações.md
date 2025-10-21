@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","tags":["torre-de-babel","genesis11","abraão","ninrode"],"noteIcon":"outgoing"}
+{"dg-publish":true,"created":"2025-10-16T10:29:43.510+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:10:43.176+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]
