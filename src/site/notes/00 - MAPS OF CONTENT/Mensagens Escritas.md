@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-note-icon":"child","noteIcon":"child","permalink":"/00-maps-of-content/mensagens-escritas/","dgPassFrontmatter":true,"created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-21T15:50:17.561+01:00"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/00-maps-of-content/mensagens-escritas/","dgPassFrontmatter":true,"created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-21T17:14:02.503+01:00"}
 ---
 
 [[0. Home\|Back home]]
+
 > [!Topicos]
 > # 📜 Mensagens de Domingo
 > # 📚 Estudos Bíblicos
