@@ -75,20 +75,6 @@ body {
     font-weight: bolder !important;
   }
 
-  // table {
-  //     width: 100% !important;
-  //     border: 1px solid lightgray !important;
-
-  //     td,
-  //     th {
-  //         padding: 5px 10px !important;
-
-  //         hr {
-  //             margin: 5px !important;
-  //         }
-  //     }
-  // }
-
   .graph {
     flex: unset !important;
 
@@ -240,7 +226,7 @@ body {
   #floating-control {
     position: fixed;
     color: var(--link-color);
-    bottom: 1vmax;
+    top: 1vmax;
     right: 1vmax;
     font-size: 24px;
     z-index: 999999;
@@ -480,11 +466,6 @@ body {
               padding: 0;
             }
           }
-
-          // td:nth-child(2) {
-          //     min-height: 70px;
-          // }
-
           td {
             svg {
               width: 14px;
