@@ -15,7 +15,7 @@
     const span = document.getElementById('theme-change');
     // Normalize
     const allowed = ['dark', 'light', 'auto'];
-    if (!allowed.includes(theme)) theme = 'light';
+    if (!allowed.includes(theme)) theme = 'dark';
 
     // Update span classes (keep only one of dark/light/auto)
     span.classList.remove('dark', 'light', 'auto');
