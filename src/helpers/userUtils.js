@@ -2,12 +2,9 @@
 
 // Shuffle, chunk, grid position helpers (kept from your code)
 function shuffle(a) {
-  var j, x, i;
   for (i = a.length - 1; i > 0; i--) {
-    j = Math.floor(Math.random() * (i + 1));
-    x = a[i];
-    a[i] = a[j];
-    a[j] = x;
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 }
@@ -35,9 +32,7 @@ function getPositions(items) {
       });
     items = items.concat(blanks);
   }
-  items = shuffle(items.slice());
-  let levels = sliceIntoChunks(items, maxInRow);
-  return levels;
+  return sliceIntoChunks(shuffle(items.slice()), maxInRow);
 }
 
 // Maturity order → controls icon size scaling (height = 5 + 10 * factor)
@@ -79,42 +74,52 @@ const noteLabels = {
 function resolveIconSlug(n) {
   // Prefer noteIcon; fall back to dg-note-icon
   const raw = n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "";
-  const slug = String(raw).toLowerCase().trim() || "signpost";
-
-  return {
-    icon: slug,
-    factor: maturityScale[slug] ?? 3
-  };
+  const slug = String(raw).toLowerCase().trim();
+  const icon = slug || "child";
+  const factor = Number.isFinite(maturityScale[icon]) ? maturityScale[icon] : 2;
+  
+  return { icon, factor };
 }
 
 function crowdData(data) {
+  / Pick a collection that actually contains your published notes
+  const itemsSrc =
+    data.collections?.note ||
+    data.collections?.pages ||
+    data.collections?.posts ||
+    data.collections?.all ||
+    [];
+  
   const counts = JSON.parse(JSON.stringify(noteLabels));
-  const itemsSrc = (data.collections?.note || data.collections?.pages || data.collections?.all || []);
-  const items = itemsSrc.map((n) => {
-    const { icon, factor } = resolveIconSlug(n);
+  
+  const items = itemsSrc
+    .map((n) => {
+      const { icon, factor } = resolveIconSlug(n);
+      // Count legend
+      if (!counts[icon]) {
+        counts[icon] = { label: icon[0].toUpperCase() + icon.slice(1), count: 0, icon }; //plane
+      }
+      counts[icon].count++;
 
-    // Count legend
-    if (!icon) return { icon: 0, url: "", factor: 2 }; //plane
-
-    counts[icon] = counts[icon] || { label: icon[0].toUpperCase() + icon.slice(1), count: 0, icon };
-    counts[icon].count++;
+      const url = n.url || "";
+      const title = (n.data && n.data.title) || n.fileSlug || icon;
     
-    return {
-      icon,                                        // ex: "child"
-      url: n.url || "",                            // ex: "/11-templates/message-note/"
-      title: n.data?.title || n.fileSlug || "",     // título limpo
-      factor: Number.isFinite(factor) ? factor : 2 // garante número
-    };
-  });
+      return {
+        icon,                                        // ex: "child"
+        url,                            // ex: "/11-templates/message-note/"
+        title,     // título limpo
+        factor: Number.isFinite(factor) ? factor : 2 // garante número
+      };
+    });
 
-  const legends = Object.values(counts).filter(c => c.count > 0)
+  const legends = Object.values(counts)
+    .filter((c) => c.count > 0)
     .sort((a, b) => b.count - a.count);
 
   return {
     people: getPositions(items),
     legends
   };
-  
 }
 
 function userComputed(data) {
