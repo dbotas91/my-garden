@@ -37,7 +37,7 @@ const maturityScale = {
   legacy: 5,
   canon: 5,        // optional terminal; same scale as legacy
   // Non-growth types get a mid/constant size or custom:
-  withered: 3,     // subdued but readable
+  lackluster: 3,     // subdued but readable
   signpost: 3,     // navigational
   stone: 3,        // inert/extracted
   chest: 3         // tool/how-to
