@@ -82,7 +82,7 @@ function resolveIconSlug(n) {
 }
 
 function crowdData(data) {
-  / Pick a collection that actually contains your published notes
+  // Pick a collection that actually contains your published notes
   const itemsSrc =
     data.collections?.note ||
     data.collections?.pages ||
