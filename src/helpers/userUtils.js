@@ -74,6 +74,26 @@ function resolveIconSlug(n) {
   return { icon, factor };
 }
 
+// Distribute items around a circle by assigning angle (deg) and radius (px) per item.
+// rows: array of arrays (your people grid), centerRadius: max radius from center,
+// ringStep: distance between rings.
+function distributePolar(rows, centerRadius = 220, ringStep = 40, startAngle = -90) {
+  return rows.map((row, ringIndex) => {
+    const N = row.length;
+    const R = centerRadius - ringIndex * ringStep;
+    return row.map((item, i) => {
+      // Keep blank planes untouched
+      if (Array.isArray(item) && item[0] === 0) return item;
+      const angle = startAngle + (360 / Math.max(N, 1)) * i;
+      // Append angle and radius to the item without breaking your template shape:
+      // [icon, url, title, factor, angle, radius]
+      const icon = item[0], url = item[1], title = item[2], factor = item[3];
+      return [icon, url, title, factor, angle, R];
+    });
+  });
+}
+
+
 function crowdData(data) {
   // Pick a collection that actually contains your published notes
   const itemsSrc =
@@ -111,10 +131,12 @@ function crowdData(data) {
     .filter((c) => c.count > 0)
     .sort((a, b) => b.count - a.count);
 
-  return {
+  const result = {
     people: getPositions(items),
     legends
   };
+  result.people = distributePolar(result.people, /* centerRadius */220, /*ring Step*/40, /*starAngle*/ -90);
+  return result;
 }
 
 function userComputed(data) {
