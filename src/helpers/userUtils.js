@@ -162,7 +162,7 @@ function crowdData(data) {
   legends.sort((a, b) => b.count - a.count);
 
   return {
-    crowd: getPositions(canvasCrowd),
+    people: getPositions(canvasCrowd),
     legends,
   };
 }
