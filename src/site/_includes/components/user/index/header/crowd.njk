@@ -13,9 +13,9 @@
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people.url | default('#') }}" title="{{ people.title | default('child') }}">
-              <img src="/img/{{ people.icon | default('child') }}.svg" 
-                   alt="{{ people.icon || default('child')}}" 
+            <a class="people" href="{{ people.url | # }}" title="{{ people.title | default(child) }}">
+              <img src="/img/{{ people.icon | default(child) }}.svg" 
+                   alt="{{ people.icon || default(child)}}" 
                    style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
             </a>
           {% endif %}
@@ -33,9 +33,9 @@
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people.url | default('#') }}" title="{{ people.title | default('child') }}">
-              <img src="/img/{{ peopleicon | default('child') }}.svg" 
-                   alt="{{ people.icon | default('child') }}" 
+            <a class="people" href="{{ people.url | # }}" title="{{ people.title | default(child) }}">
+              <img src="/img/{{ peopleicon | default(child) }}.svg" 
+                   alt="{{ people.icon | default(child) }}" 
                    style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
             </a>
           {% endif %}
