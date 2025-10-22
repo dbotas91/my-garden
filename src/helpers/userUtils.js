@@ -15,8 +15,7 @@ function shuffle(a) {
 function sliceIntoChunks(arr, chunkSize) {
   const res = [];
   for (let i = 0; i < arr.length; i += chunkSize) {
-    const chunk = arr.slice(i, i + chunkSize);
-    res.push(chunk);
+    res.push(arr.slice(i, i + chunkSize););
   }
   return res;
 }
@@ -26,11 +25,17 @@ function getPositions(items) {
   let minInRow = Math.floor(Math.sqrt(items.length));
   let maxInRow = Math.ceil(Math.sqrt(items.length));
   if (minInRow < maxInRow) {
-    items = items.concat(
-      Array(Math.pow(maxInRow, 2) - items.length).fill([0, "", ""])
-    );
+    const fillCount = Math.pow(maxInRow, 2) - items.length;
+    const blanks = Array(fillCount).fill(
+      {
+        icon: 0, 
+        url: "", 
+        title: "",
+        factor: 0
+      });
+    items = items.concat(blanks);
   }
-  items = shuffle([...items]);
+  items = shuffle(items.slice());
   let levels = sliceIntoChunks(items, maxInRow);
   return levels;
 }
@@ -50,31 +55,75 @@ const maturityScale = {
 };
 
 // Icon slug mapping (filenames under /img/*.svg, per your NJK)
-function iconSlugFor(note) {
+/*function iconSlugFor(note) {
   // Prefer maturity, fall back to type
   const key = String(note.maturity || note.type || "").toLowerCase();
   // Sanity fallback
   if (!key) return "signpost";
   return key;
-}
+}*/
 
 // Legend labels (people-centric set)
 const noteLabels = {
-  child:    { label: "Child",    count: 0, icon: "child" },
-  teen:     { label: "Teen",     count: 0, icon: "teen" },
-  adult:    { label: "Adult",    count: 0, icon: "adult" },
-  legacy:   { label: "Legacy",   count: 0, icon: "legacy" },
-  canon:    { label: "Canon",    count: 0, icon: "canon" },
-
-  withered: { label: "Lackluster", plural: "Lackluster", count: 0, icon: "lackluster" },
-  signpost: { label: "Signpost", count: 0, icon: "signpost" },
-  stone:    { label: "Stone",    count: 0, icon: "stone" },
-  chest:    { label: "Chest",    count: 0, icon: "chest" }
+  child:      { label: "Child",    count: 0, icon: "child" },
+  teen:       { label: "Teen",     count: 0, icon: "teen" },
+  adult:      { label: "Adult",    count: 0, icon: "adult" },
+  legacy:     { label: "Legacy",   count: 0, icon: "legacy" },
+  canon:      { label: "Canon",    count: 0, icon: "canon" },
+  lackluster: { label: "Lackluster", count: 0, icon: "lackluster" },
+  signpost:   { label: "Signpost", count: 0, icon: "signpost" },
+  stone:      { label: "Stone",    count: 0, icon: "stone" },
+  chest:      { label: "Chest",    count: 0, icon: "chest" }
 };
+
+function resolveIconSlug(n) {
+  const raw = n.data.noteIcon;
+  
+  if (raw !== undefined && raw !== null && raw !== "") {
+    const vNum = parseInt(raw, 10);
+    if (!Number.isNaN(vNum)) {
+      return { icon: 'child', factor: vNum };
+    }
+    
+    const slug = String(raw).toLowerCase().trim();
+    return { icon: slug, factor: maturityScale[slug] ?? 2 };
+  }
+
+  const slug = String(n.data.maturity || n.data.type || "").toLowerCase().trim() || "signpost";
+  return { icon: slug, factor: maturityScale[slug] ?? 2 };
+}
+
+function crowdData(data) {
+  const counts = JSON.parse(JSON.stringify(noteLabels));
+  const items = data.collections.note.map((n) => {
+    const { icon, factor } = resolveIconSlug(n);
+    // Contagem de legenda
+    if (!counts[icon]) {
+      counts[icon] = { label: icon.charAt(0).toUpperCase() + icon.slice(1), count: 0, icon };
+    }
+    counts[icon].count += 1;
+
+    //Objeto por item (sem CSV)
+    return {
+      icon,                                        // ex: "child"
+      url: n.url,                                  // ex: "/11-templates/message-note/"
+      title: n.data.title || n.fileSlug || "",     // título limpo
+      factor: Number.isFinite(factor) ? factor : 2 // garante número
+    };
+  });
+
+  const legends = Objetc.values(counts).filter(c => c.count > 0)
+    .sort((a, b) => b.count - a.count);
+
+  return {
+    people: getPositions(items),
+    legends
+  };
+}
 
 // Build crowd data from notes
 // Each note: { url: "/path/", title: "Note Title", maturity: "child|teen|adult|legacy|canon", type: "withered|stone|signpost|chest" }
-function buildCrowdData(notes) {
+/*function buildCrowdData(notes) {
   const items = [];
   const legends = JSON.parse(JSON.stringify(noteLabels)); // deep copy counts
 
@@ -165,12 +214,12 @@ function crowdData(data) {
     people: getPositions(canvasCrowd),
     legends,
   };
-}
+}*/
 
 
 function userComputed(data) {
   return {
-    crowd: crowdData(data),
+    crowd: crowdData(data)
   };
 }
 
