@@ -16,7 +16,7 @@
             <a class="people" href="{{ people.url }}" title="{{ people.title }}">
               <img src="/img/{{ people.icon }}.svg" 
                    alt="{{ people.icon }}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor or 0)) }}px;" />
+                   style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
@@ -36,7 +36,7 @@
             <a class="people" href="{{ people.url }}" title="{{ people.title }}">
               <img src="/img/{{ peopleicon }}.svg" 
                    alt="{{ people.icon }}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor or 0)) }}px;" />
+                   style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
