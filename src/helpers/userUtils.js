@@ -89,7 +89,7 @@ function resolveIconSlug(n) {
     return { icon: slug, factor: maturityScale[slug] ?? 4 };
   }
 
-  const slug = String(n.data.maturity || n.data.type || "").toLowerCase().trim() || "signpost";
+  const slug = String(n.data.noteIcon || "").toLowerCase().trim() || "signpost";
   return { icon: slug, factor: maturityScale[slug] ?? 4 };
 }
 
