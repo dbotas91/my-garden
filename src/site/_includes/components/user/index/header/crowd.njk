@@ -2,15 +2,15 @@
   {% for row in rows %}
     <div class="crowd-row">
       {% for people in row %}
-        {% if people.icon == 0 %}
+        {% if people[0] == 0 %}
           <span class="people plane}"><span></span></span>
         {% else %}
           <a class="people"
-             href="{{ people.url | default('#') }}"
-             title="{{ people.title | default(people.icon) }}">
-            <img src="/img/{{ people.icon | default('child') }}.svg"
-                 alt="{{ people.icon | default('child') }}"
-                 style="width:auto;height:{{ 5 + (10 * (people.factor | default(2))) }}px;" />
+             href="{{ people[1] | default('#') }}"
+             title="{{ people[2] | default(people[0]) }}">
+            <img src="/img/{{ people[0] | default('child') }}.svg"
+                 alt="{{ people[0] | default('child') }}"
+                 style="width:auto;height:{{ 5 + (10 * (people[3] | default(2))) }}px;" />
           </a>
         {% endif %}
       {% endfor %}
