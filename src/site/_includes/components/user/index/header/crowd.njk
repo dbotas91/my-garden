@@ -1,47 +1,33 @@
-<div id="crowd-graph">
-  <div class="crowd-body">
-    {# Compute split index #}
-    {% set total = userComputed.crowd.people | length %}
-    {% set split = (total // 2) | int %}
-
-    <div class="crowd-page crowd-left">
-      {% for row in userComputed.crowd.people | slice(0, split) %}
-      <div class="crowd-row">
-        {% for people in row %}
-          {% if people.icon == 0 %}
-            <span class="people plane">
-              <span></span>
-            </span>
-          {% else %}
-            <a class="people" href="{{ people.url | # }}" title="{{ people.title | default(child) }}">
-              <img src="/img/{{ people.icon | default(child) }}.svg" 
-                   alt="{{ people.icon || default(child)}}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
+{% macro render_rows(rows) %}
+  {% for row in rows %}
+    <div class="crowd-row">
+      {% for people in row %}
+        {% if people.icon == 0 %}
+          <span class="people plane"><span></span></span>
+        {% else %}
+          <a class="people"
+             href="{{ people.url | default('#') }}"
+             title="{{ people.title | default(people.icon) }}">
+            <img src="/img/{{ people.icon | default('child') }}.svg"
+                 alt="{{ people.icon | default('child') }}"
+                 style="width:auto;height:{{ 5 + (10 * (people.factor | default(4))) }}px;" />
+          </a>
+        {% endif %}
       {% endfor %}
     </div>
+  {% endfor %}
+{% endmacro %}
 
+{% set total = userComputed.crowd.people | length %}
+{% set split = (total // 2) | int %}
+
+<div id="crowd-graph">
+  <div class="crowd-body">
+    <div class="crowd-page crowd-left">
+      {{ render_rows(userComputed.crowd.people | slice(0, split)) }}
+    </div>
     <div class="crowd-page crowd-right">
-      {% for row in userComputed.crowd.people | slice(split, total - split) %}
-      <div class="crowd-row">
-        {% for people in row %}
-          {% if people.icon == 0 %}
-            <span class="people plane">
-              <span></span>
-            </span>
-          {% else %}
-            <a class="people" href="{{ people.url | # }}" title="{{ people.title | default(child) }}">
-              <img src="/img/{{ peopleicon | default(child) }}.svg" 
-                   alt="{{ people.icon | default(child) }}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
-      {% endfor %}
+      {{ render_rows(userComputed.crowd.people | slice(split, total - split)) }}
     </div>
   </div>
 
@@ -51,11 +37,7 @@
         <img src="/img/{{ count.icon }}.svg" alt="{{ count.label }}" />
         {{ count.count }}
         {% if count.count > 1 %}
-          {% if count.plural %}
-            {{ count.plural }}
-          {% else %}
-            {{ count.label }}s
-          {% endif %}
+          {% if count.plural %}{{ count.plural }}{% else %}{{ count.label }}s{% endif %}
         {% else %}
           {{ count.label }}
         {% endif %}
