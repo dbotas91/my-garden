@@ -335,6 +335,7 @@ body {
   align-items: flex-start;
   position: relative;*/
 }
+#crowd-graph .people img { transform: none; }
 
 /* Optional inner padding ring */
 #crowd-graph .crowd-body::before {
