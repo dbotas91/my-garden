@@ -69,7 +69,7 @@ function resolveIconSlug(n) {
   // Prefer noteIcon; fall back to dg-note-icon
   const raw = (n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "").toString().toLowerCase().trim();
   const icon = raw || "child";
-  const factor = Number.isFinite(maturityScale[icon]) ? maturityScale[icon] : 2;
+  const factor = maturityScale[icon] ?? 2;
   
   return { icon, factor };
 }
@@ -97,13 +97,13 @@ function crowdData(data) {
 
       const url = n.url || "";
       const title = (n.data && n.data.title) || n.fileSlug || icon;
-      // const factor = Number.isFinite(factor) ? factor : 2;
+      const sizeFactor = Number.isFinite(factor) ? factor : 2;
       
       return [
         icon,                                        // ex: "child"
         url,                            // ex: "/11-templates/message-note/"
         title,     // título limpo
-        factor // garante número
+        sizeFactor // garante número
       ];
     });
 
