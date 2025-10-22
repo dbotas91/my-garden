@@ -8,13 +8,15 @@
       {% for row in userComputed.crowd.people | slice(0, split) %}
       <div class="crowd-row">
         {% for people in row %}
-          {% if people[0] == 0 %}
+          {% if people.icon == 0 %}
             <span class="people plane">
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people[1] }}" title="{{ people[2] }}">
-              <img src="/img/{{ people[0] }}.svg" alt="{{ people[2] | default('') }}" style="width: auto; height: {{ 5 + (10 * people[3]) }}px;" />
+            <a class="people" href="{{ people.url }}" title="{{ people.title }}">
+              <img src="/img/{{ people.icon }}.svg" 
+                   alt="{{ people.icon }}" 
+                   style="width: auto; height: {{ 5 + (10 * people.factor) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
@@ -26,13 +28,15 @@
       {% for row in userComputed.crowd.people | slice(split, total - split) %}
       <div class="crowd-row">
         {% for people in row %}
-          {% if people[0] == 0 %}
+          {% if people.icon == 0 %}
             <span class="people plane">
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people[1] }}" title="{{ people[2] }}">
-              <img src="/img/{{ people[0] }}.svg" alt="{{ people[2] | default('') }}" style="width: auto; height: {{ 5 + (10 * people[3]) }}px;" />
+            <a class="people" href="{{ people.url }}" title="{{ people.title }}">
+              <img src="/img/{{ peopleicon }}.svg" 
+                   alt="{{ people.icon }}" 
+                   style="width: auto; height: {{ 5 + (10 * people.factor) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
