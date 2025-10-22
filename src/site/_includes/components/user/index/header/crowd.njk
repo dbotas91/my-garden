@@ -13,10 +13,10 @@
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people.url }}" title="{{ people.title }}">
-              <img src="/img/{{ people.icon or child }}.svg" 
-                   alt="{{ people.icon }}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
+            <a class="people" href="{{ people.url | default('#') }}" title="{{ people.title | default('child') }}">
+              <img src="/img/{{ people.icon | default('child') }}.svg" 
+                   alt="{{ people.icon || default('child')}}" 
+                   style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
@@ -33,10 +33,10 @@
               <span></span>
             </span>
           {% else %}
-            <a class="people" href="{{ people.url }}" title="{{ people.title }}">
-              <img src="/img/{{ peopleicon }}.svg" 
-                   alt="{{ people.icon or child }}" 
-                   style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
+            <a class="people" href="{{ people.url | default('#') }}" title="{{ people.title | default('child') }}">
+              <img src="/img/{{ peopleicon | default('child') }}.svg" 
+                   alt="{{ people.icon | default('child') }}" 
+                   style="width: auto; height: {{ 5 + (10 * (people.factor | default(3))) }}px;" />
             </a>
           {% endif %}
         {% endfor %}
