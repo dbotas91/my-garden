@@ -42,16 +42,16 @@ function getPositions(items) {
 
 // Maturity order → controls icon size scaling (height = 5 + 10 * factor)
 const maturityScale = {
-  child: 1,
-  teen: 2,
-  adult: 3,
-  legacy: 4,
-  canon: 4,        // optional terminal; same scale as legacy
+  child: 3,
+  teen: 4,
+  adult: 5,
+  legacy: 6,
+  canon: 6,        // optional terminal; same scale as legacy
   // Non-growth types get a mid/constant size or custom:
-  withered: 2,     // subdued but readable
-  signpost: 2,     // navigational
-  stone: 2,        // inert/extracted
-  chest: 2         // tool/how-to
+  withered: 4,     // subdued but readable
+  signpost: 4,     // navigational
+  stone: 4,        // inert/extracted
+  chest: 4         // tool/how-to
 };
 
 // Icon slug mapping (filenames under /img/*.svg, per your NJK)
@@ -86,11 +86,11 @@ function resolveIconSlug(n) {
     }
     
     const slug = String(raw).toLowerCase().trim();
-    return { icon: slug, factor: maturityScale[slug] ?? 2 };
+    return { icon: slug, factor: maturityScale[slug] ?? 4 };
   }
 
   const slug = String(n.data.maturity || n.data.type || "").toLowerCase().trim() || "signpost";
-  return { icon: slug, factor: maturityScale[slug] ?? 2 };
+  return { icon: slug, factor: maturityScale[slug] ?? 4 };
 }
 
 function crowdData(data) {
@@ -108,7 +108,7 @@ function crowdData(data) {
       icon,                                        // ex: "child"
       url: n.url,                                  // ex: "/11-templates/message-note/"
       title: n.data.title || n.fileSlug || "",     // título limpo
-      factor: Number.isFinite(factor) ? factor : 2 // garante número
+      factor: Number.isFinite(factor) ? factor : 4 // garante número
     };
   });
 
