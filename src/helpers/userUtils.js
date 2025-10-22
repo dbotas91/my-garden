@@ -23,13 +23,7 @@ function getPositions(items) {
   let maxInRow = Math.ceil(Math.sqrt(items.length));
   if (minInRow < maxInRow) {
     const fillCount = Math.pow(maxInRow, 2) - items.length;
-    const blanks = Array(fillCount).fill(
-      {
-        icon: 0, 
-        url: "", 
-        title: "",
-        factor: 0
-      });
+    const blanks = Array(fillCount).fill([0, "", "", 0]);
     items = items.concat(blanks);
   }
   return sliceIntoChunks(shuffle(items.slice()), maxInRow);
@@ -73,9 +67,8 @@ const noteLabels = {
 
 function resolveIconSlug(n) {
   // Prefer noteIcon; fall back to dg-note-icon
-  const raw = n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "";
-  const slug = String(raw).toLowerCase().trim();
-  const icon = slug || "child";
+  const raw = (n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "").toString().toLowerCase().trim();
+  const icon = raw || "child";
   const factor = Number.isFinite(maturityScale[icon]) ? maturityScale[icon] : 2;
   
   return { icon, factor };
@@ -95,6 +88,7 @@ function crowdData(data) {
   const items = itemsSrc
     .map((n) => {
       const { icon, factor } = resolveIconSlug(n);
+      
       // Count legend
       if (!counts[icon]) {
         counts[icon] = { label: icon[0].toUpperCase() + icon.slice(1), count: 0, icon }; //plane
@@ -104,12 +98,12 @@ function crowdData(data) {
       const url = n.url || "";
       const title = (n.data && n.data.title) || n.fileSlug || icon;
     
-      return {
+      return [
         icon,                                        // ex: "child"
         url,                            // ex: "/11-templates/message-note/"
         title,     // título limpo
         factor: Number.isFinite(factor) ? factor : 2 // garante número
-      };
+      ];
     });
 
   const legends = Object.values(counts)
