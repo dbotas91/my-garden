@@ -116,7 +116,6 @@ function crowdData(data) {
       };
     }
     counts[icon].count++;
-  }
    return {
       icon,                                        // ex: "child"
       url: n.url || "",                            // ex: "/11-templates/message-note/"
