@@ -316,70 +316,62 @@ body {
   align-items: center;
   padding-bottom: 20px;
   flex-direction: column;
+  position: relative;
 }
 
 #forest-graph .forest-body {
   display: inline-flex;
-  flex-direction: row;           /* two-page spread */
-  gap: 40px;                     /* gutter between pages */
+  flex-direction: row;         /* two-page spread */
+  gap: 40px;                   /* gutter between pages */
   margin: 40px;
   align-items: flex-start;
+  position: relative;
 }
 
-#forest-graph .forest-body::before {
-  /* spine */
+/* Spine between pages */
+#forest-graph .forest-body::after {
   content: "";
   position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
   width: 2px;
-  height: calc(100% - 80px);
   background: var(--background-modifier-border);
-  /* center align: place using container center (approximate) */
-  transform: translateX(0);
+  transform: translateX(-20px); /* shift by half gap to sit in gutter; tweak as needed */
 }
 
-@media (max-width: 575.99px) {
-  #forest-graph .forest-body {
-    gap: 24px;
-    margin: 24px;
-    transform: none;             /* no rotation on mobile */
-  }
-}
-
-/* Each page (left/right) is a column of rows */
-#forest-graph .forest-body .forest-page {
+/* Pages */
+#forest-graph .forest-page {
   display: flex;
   flex-direction: column;
-  gap: 12px;                     /* vertical spacing between lines */
+  gap: 12px;                   /* vertical spacing between rows */
   align-items: flex-start;
 }
 
-/* Rows on a page: horizontal line of items */
-#forest-graph .forest-body .forest-row {
+/* Rows (no rotation) */
+#forest-graph .forest-row {
   display: flex;
   flex-direction: row;
   align-items: center;
   gap: 8px;
 }
 
-/* Items (links/icons) upright, no rotation */
-#forest-graph .forest-body .forest-row a {
-  width: 20px;
-  height: 20px;
-  cursor: pointer;
+/* Items upright */
+#forest-graph .forest-row a.tree,
+#forest-graph .forest-row .tree.plane {
+  width: auto;
+  height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#forest-graph .forest-body .forest-row a img {
-  transform: none;               /* remove -45deg */
+#forest-graph .forest-row a.tree img {
+  transform: none;             /* ensure no rotation */
+  width: auto;                 /* respect inline style from template */
 }
 
-#forest-graph .forest-body .forest-row .plane {
-  cursor: inherit;
-}
-
-/* Legends below unchanged */
+/* Legends unchanged */
 #forest-graph .forest-legends {
   margin-top: 10px;
   display: flex;
@@ -396,6 +388,14 @@ body {
   width: auto;
   margin-right: 5px;
 }
+
+@media (max-width: 575.99px) {
+  #forest-graph .forest-body {
+    gap: 24px;
+    margin: 24px;
+  }
+}
+
 
   .toc-container li::before {
     content: "" !important;
