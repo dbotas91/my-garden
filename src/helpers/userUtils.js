@@ -97,12 +97,13 @@ function crowdData(data) {
 
       const url = n.url || "";
       const title = (n.data && n.data.title) || n.fileSlug || icon;
-    
+      // const factor = Number.isFinite(factor) ? factor : 2;
+      
       return [
         icon,                                        // ex: "child"
         url,                            // ex: "/11-templates/message-note/"
         title,     // título limpo
-        factor: Number.isFinite(factor) ? factor : 2 // garante número
+        factor // garante número
       ];
     });
 
