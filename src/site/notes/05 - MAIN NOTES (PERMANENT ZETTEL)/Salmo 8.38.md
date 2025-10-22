@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:28:10.307+01:00","tags":["salmo8"],"mature-status":"Adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:24:10.264+01:00"}
+{"dg-publish":true,"created":"2025-10-16T10:28:10.307+01:00","tags":["salmo8"],"noteIcon":"adult","dg-note-icon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/salmo-8-38/","dgPassFrontmatter":true,"updated":"2025-10-22T13:29:21.864+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

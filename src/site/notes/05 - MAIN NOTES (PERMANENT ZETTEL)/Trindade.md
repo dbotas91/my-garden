@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["trindade"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:30:07.707+01:00","permalink":"/05-main-notes-permanent-zettel/trindade/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:20:12.148+01:00"}
+{"dg-publish":true,"tags":["trindade"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Doutrinal","created":"2025-10-16T10:30:07.707+01:00","permalink":"/05-main-notes-permanent-zettel/trindade/","dgPassFrontmatter":true,"updated":"2025-10-22T13:31:03.689+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

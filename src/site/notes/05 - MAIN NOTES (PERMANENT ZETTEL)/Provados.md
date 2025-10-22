@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:29:40.024+01:00","tags":["provação"],"mature-status":"Adult","message_category":"Doutrinal","permalink":"/05-main-notes-permanent-zettel/provados/","dgPassFrontmatter":true,"noteIcon":"child","updated":"2025-10-18T20:30:19.819+01:00"}
+{"dg-publish":true,"created":"2025-10-16T10:29:40.024+01:00","tags":["provação"],"message_category":"Doutrinal","noteIcon":"adult","dg-note-icon":"adult","permalink":"/05-main-notes-permanent-zettel/provados/","dgPassFrontmatter":true,"updated":"2025-10-22T13:27:08.240+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
