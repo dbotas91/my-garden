@@ -77,7 +77,7 @@ function resolveIconSlug(n) {
 // Distribute items around a circle by assigning angle (deg) and radius (px) per item.
 // rows: array of arrays (your people grid), centerRadius: max radius from center,
 // ringStep: distance between rings.
-function distributePolar(rows, centerRadius = 220, ringStep = 40, startAngle = -90) {
+/*function distributePolar(rows, centerRadius = 220, ringStep = 40, startAngle = -90) {
   return rows.map((row, ringIndex) => {
     const N = row.length;
     const R = centerRadius - ringIndex * ringStep;
@@ -89,6 +89,78 @@ function distributePolar(rows, centerRadius = 220, ringStep = 40, startAngle = -
       // [icon, url, title, factor, angle, radius]
       const icon = item[0], url = item[1], title = item[2], factor = item[3];
       return [icon, url, title, factor, angle, R];
+    });
+  });
+}*/
+
+// rows: array of rows (each row = array of [icon, url, title, factor])
+// circleDiameter: container diameter in px
+function distributePolar(rows, circleDiameter = 520, padding = 24, innerGap = 28) {
+  const cx = circleDiameter / 2;
+  const maxRadius = cx - padding;                 // keep inside circle border
+  const minRadius = Math.max(innerGap, 0);        // keep away from exact center
+  const ringCount = rows.length;
+  const rowsSafe = rows.map(r => r.filter(item => !(Array.isArray(item) && item[0] === 0)));
+
+  return rowsSafe.map((row, ringIndex) => {
+    const N = Math.max(row.length, 1);
+    // Linear mapping of ring index to radius across full range:
+    const t = ringCount > 1 ? ringIndex / (ringCount - 1) : 1; // 0..1
+    const R = minRadius + t * (maxRadius - minRadius);
+    // Stagger starting angle per ring to reduce overlaps:
+    const startAngle = -90 + (ringIndex % 2 ? 10 : -10); // degrees
+    return row.map((item, i) => {
+      const angle = startAngle + (360 / N) * i;          // degrees
+      // Append angle/radius at indices 4/5 for NJK
+      return [item[0], item[1], item[2], item[3], angle, R];
+    });
+  });
+}
+
+function redistributeByCapacity(rows, circleDiameter = 520, padding = 24, innerGap = 28, targetRings = 6, avgItemWidth = 28, angularPaddingDeg = 8) {
+  // Flatten items
+  const items = rows.flat().filter(item => !(Array.isArray(item) && item[0] === 0));
+  const cx = circleDiameter / 2;
+  const maxRadius = cx - padding;
+  const minRadius = innerGap;
+
+  // Build ring radii evenly
+  const radii = Array.from({ length: targetRings }, (_, k) => {
+    const t = targetRings > 1 ? k / (targetRings - 1) : 1;
+    return minRadius + t * (maxRadius - minRadius);
+  });
+
+  // Capacity per ring ~ circumference / (avg item width + angular padding in radians)
+  const ringCaps = radii.map(R => {
+    const circumference = 2 * Math.PI * R;
+    return Math.max(1, Math.floor(circumference / (avgItemWidth * 1.2)));
+  });
+
+  // Allocate items across rings
+  const rings = radii.map(() => []);
+  let idx = 0;
+  for (let r = 0; r < radii.length; r++) {
+    const cap = ringCaps[r];
+    for (let c = 0; c < cap && idx < items.length; c++, idx++) {
+      rings[r].push(items[idx]);
+    }
+  }
+
+  // If leftovers remain, keep filling cyclically
+  let ringPtr = 0;
+  while (idx < items.length) {
+    rings[ringPtr % rings.length].push(items[idx++]);
+    ringPtr++;
+  }
+
+  // Place per ring with evenly spaced angles
+  return rings.map((ringItems, ringIndex) => {
+    const N = ringItems.length || 1;
+    const R = radii[ringIndex];
+    const startAngle = -90 + (ringIndex % 2 ? 10 : -10);
+    return ringItems.map((item, i) => {
+      const angle = startAngle + (360 / N) * i;
+      return [item[0], item[1], item[2], item[3], angle, R];
     });
   });
 }
@@ -135,7 +207,8 @@ function crowdData(data) {
     people: getPositions(items),
     legends
   };
-  result.people = distributePolar(result.people, /* centerRadius */220, /*ring Step*/40, /*starAngle*/ -90);
+  //result.people = distributePolar(result.people, /* centerRadius */520, /*ring Step*/24, /*starAngle*/ 28);
+  result.people = redistributeByCapacity(result.people, 520, 24, 36, 6, 28, 8);
   return result;
 }
 
