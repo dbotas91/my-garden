@@ -99,18 +99,19 @@ function crowdData(data) {
     const { icon, factor } = resolveIconSlug(n);
     // Contagem de legenda
     if (!counts[icon]) {
-      counts[icon] = { label: icon.charAt(0).toUpperCase() + icon.slice(1), count: 0, icon };
+      counts[icon] = counts[icon] || 
+      { label: icon.[0].toUpperCase() + icon.slice(1), count: 0, icon };
     }
-    counts[icon].count += 1;
+    counts[icon].count++;
 
     //Objeto por item (sem CSV)
     return {
       icon,                                        // ex: "child"
-      url: n.url,                                  // ex: "/11-templates/message-note/"
+      url: n.url || "",                            // ex: "/11-templates/message-note/"
       title: n.data.title || n.fileSlug || "",     // título limpo
       factor: Number.isFinite(factor) ? factor : 4 // garante número
     };
-  });
+  }).filter(i => i.icon !== 0 || i.url || i.title);
 
   const legends = Object.values(counts).filter(c => c.count > 0)
     .sort((a, b) => b.count - a.count);
