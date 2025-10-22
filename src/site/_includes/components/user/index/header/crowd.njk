@@ -10,7 +10,7 @@
              title="{{ people.title | default(people.icon) }}">
             <img src="/img/{{ people.icon | default('child') }}.svg"
                  alt="{{ people.icon | default('child') }}"
-                 style="width:auto;height:{{ 5 + (10 * (people.factor | default(4))) }}px;" />
+                 style="width:auto;height:{{ 5 + (10 * (people.factor | default(2))) }}px;" />
           </a>
         {% endif %}
       {% endfor %}
