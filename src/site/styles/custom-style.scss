@@ -310,7 +310,7 @@ body {
     display: block;
   }
 
-#forest-graph {
+#crowd-graph {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -319,7 +319,7 @@ body {
   position: relative;
 }
 
-#forest-graph .forest-body {
+#crowd-graph .crowd-body {
   display: inline-flex;
   flex-direction: row;         /* two-page spread */
   gap: 40px;                   /* gutter between pages */
@@ -329,7 +329,7 @@ body {
 }
 
 /* Spine between pages */
-#forest-graph .forest-body::after {
+#crowd-graph .crowd-body::after {
   content: "";
   position: absolute;
   top: 0;
@@ -341,7 +341,7 @@ body {
 }
 
 /* Pages */
-#forest-graph .forest-page {
+#crowd-graph .crowd-page {
   display: flex;
   flex-direction: column;
   gap: 12px;                   /* vertical spacing between rows */
@@ -349,7 +349,7 @@ body {
 }
 
 /* Rows (no rotation) */
-#forest-graph .forest-row {
+#crowd-graph .crowd-row {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -357,8 +357,8 @@ body {
 }
 
 /* Items upright */
-#forest-graph .forest-row a.tree,
-#forest-graph .forest-row .tree.plane {
+#crowd-graph .crowd-row a.people,
+#crowd-graph .crowd-row .people.plane {
   width: auto;
   height: auto;
   display: flex;
@@ -366,13 +366,13 @@ body {
   align-items: center;
 }
 
-#forest-graph .forest-row a.tree img {
+#crowd-graph .crowd-row a.people img {
   transform: none;             /* ensure no rotation */
   width: auto;                 /* respect inline style from template */
 }
 
 /* Legends unchanged */
-#forest-graph .forest-legends {
+#crowd-graph .crowd-legends {
   margin-top: 10px;
   display: flex;
   gap: 10px;
@@ -383,14 +383,14 @@ body {
   color: var(--text-muted);
 }
 
-#forest-graph .forest-legends img {
+#crowd-graph .crowd-legends img {
   height: 1.5em;
   width: auto;
   margin-right: 5px;
 }
 
 @media (max-width: 575.99px) {
-  #forest-graph .forest-body {
+  #crowd-graph .crowd-body {
     gap: 24px;
     margin: 24px;
   }
