@@ -3,7 +3,7 @@
     <div class="crowd-row">
       {% for people in row %}
         {% if people[0] == 0 %}
-          <span class="people plane}"><span></span></span>
+          <span class="people plane"><span></span></span>
         {% else %}
           <a class="people"
              href="{{ people[1] | default('#') }}"
@@ -18,29 +18,16 @@
   {% endfor %}
 {% endmacro %}
 
-{% set total = userComputed.crowd.people | length %}
-{% set split = (total // 2) | int %}
-
 <div id="crowd-graph">
   <div class="crowd-body">
-    <div class="crowd-page crowd-left">
-      {{ render_rows(userComputed.crowd.people | slice(0, split)) }}
-    </div>
-    <div class="crowd-page crowd-right">
-      {{ render_rows(userComputed.crowd.people | slice(split, total - split)) }}
-    </div>
+    {{ render_rows(userComputed.crowd.people) }}
   </div>
-
+  
   <div class="crowd-legends">
     {% for count in userComputed.crowd.legends %}
       <div class="stat">
         <img src="/img/{{ count.icon }}.svg" alt="{{ count.label }}" />
-        {{ count.count }}
-        {% if count.count > 1 %}
-          {% if count.plural %}{{ count.plural }}{% else %}{{ count.label }}s{% endif %}
-        {% else %}
-          {{ count.label }}
-        {% endif %}
+        {{ count.count }} {{ count.label }}{% if count.count > 1 %}s{% endif %}
       </div>
     {% endfor %}
   </div>
