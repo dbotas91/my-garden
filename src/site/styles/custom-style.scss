@@ -320,60 +320,77 @@ body {
 }
 
 #crowd-graph .crowd-body {
-  display: inline-flex;
-  flex-direction: row;         /* two-page spread */
-  gap: 40px;                   /* gutter between pages */
-  margin: 40px;
-  align-items: flex-start;
   position: relative;
+  width: 520px;               /* outer diameter */
+  height: 520px;
+  border-radius: 50%;
+  border: 2px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  overflow: hidden;           /* clip anything outside circle */
+  margin: 20px auto;
+  /*display: inline-flex;
+  flex-direction: row;         /* two-page spread */
+  /*gap: 40px;                   /* gutter between pages */
+  /*margin: 40px;
+  align-items: flex-start;
+  position: relative;*/
 }
 
-/* Spine between pages */
-#crowd-graph .crowd-body::after {
+* Optional inner padding ring */
+#crowd-graph .crowd-body::before {
   content: "";
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  width: 2px;
-  background: var(--background-modifier-border);
-  transform: translateX(-20px); /* shift by half gap to sit in gutter; tweak as needed */
+  inset: 12px;                /* inner margin */
+  border-radius: 50%;
+  border: 1px dashed var(--background-modifier-border);
+  pointer-events: none;
 }
 
-/* Pages */
-#crowd-graph .crowd-page {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;                   /* vertical spacing between rows */
-  align-items: flex-start;
-}
-
-/* Rows (no rotation) */
+/* Lay out rows as concentric bands, centered in the circle */
 #crowd-graph .crowd-row {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); /* start at center; each row will offset radially */
   display: flex;
-  flex-direction: row;
+  gap: 10px;
   align-items: center;
-  gap: 8px;
+  justify-content: center;
 }
 
-/* Items upright */
+/* Assign radial positions to rows (N = number of rows in your computed data)
+   These offsets place rows at different radii from the center.
+   Adjust the translateY values to fit your dataset (more rows → smaller step).
+*/
+#crowd-graph .crowd-row:nth-child(1)  { transform: translate(-50%, calc(-50% - 180px)); }
+#crowd-graph .crowd-row:nth-child(2)  { transform: translate(-50%, calc(-50% - 135px)); }
+#crowd-graph .crowd-row:nth-child(3)  { transform: translate(-50%, calc(-50% - 90px)); }
+#crowd-graph .crowd-row:nth-child(4)  { transform: translate(-50%, calc(-50% - 45px)); }
+#crowd-graph .crowd-row:nth-child(5)  { transform: translate(-50%, calc(-50%)); }
+#crowd-graph .crowd-row:nth-child(6)  { transform: translate(-50%, calc(-50% + 45px)); }
+#crowd-graph .crowd-row:nth-child(7)  { transform: translate(-50%, calc(-50% + 90px)); }
+#crowd-graph .crowd-row:nth-child(8)  { transform: translate(-50%, calc(-50% + 135px)); }
+#crowd-graph .crowd-row:nth-child(9)  { transform: translate(-50%, calc(-50% + 180px)); }
+
+/* Items inside rows */
 #crowd-graph .crowd-row a.people,
 #crowd-graph .crowd-row .people.plane {
-  width: auto;
-  height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: auto;
+  height: auto;
 }
 
+/* Let template height control the icon size; no rotations */
 #crowd-graph .crowd-row a.people img {
-  transform: none;             /* ensure no rotation */
-  width: auto;                 /* respect inline style from template */
+  transform: none;
+  width: auto;
 }
 
-/* Legends unchanged */
+/* Legends under the circle */
 #crowd-graph .crowd-legends {
-  margin-top: 10px;
+  margin-top: 12px;
   display: flex;
   gap: 10px;
   width: 100%;
@@ -389,13 +406,25 @@ body {
   margin-right: 5px;
 }
 
+/* Responsive: shrink the circle and row radii on small screens */
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
-    gap: 24px;
-    margin: 24px;
+    width: 360px;
+    height: 360px;
+    margin: 12px auto;
   }
-}
+  #crowd-graph .crowd-body::before { inset: 10px; }
 
+  #crowd-graph .crowd-row:nth-child(1)  { transform: translate(-50%, calc(-50% - 120px)); }
+  #crowd-graph .crowd-row:nth-child(2)  { transform: translate(-50%, calc(-50% - 90px)); }
+  #crowd-graph .crowd-row:nth-child(3)  { transform: translate(-50%, calc(-50% - 60px)); }
+  #crowd-graph .crowd-row:nth-child(4)  { transform: translate(-50%, calc(-50% - 30px)); }
+  #crowd-graph .crowd-row:nth-child(5)  { transform: translate(-50%, calc(-50%)); }
+  #crowd-graph .crowd-row:nth-child(6)  { transform: translate(-50%, calc(-50% + 30px)); }
+  #crowd-graph .crowd-row:nth-child(7)  { transform: translate(-50%, calc(-50% + 60px)); }
+  #crowd-graph .crowd-row:nth-child(8)  { transform: translate(-50%, calc(-50% + 90px)); }
+  #crowd-graph .crowd-row:nth-child(9)  { transform: translate(-50%, calc(-50% + 120px)); }
+}
 
   .toc-container li::before {
     content: "" !important;
