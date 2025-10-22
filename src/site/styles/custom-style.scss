@@ -310,66 +310,92 @@ body {
     display: block;
   }
 
-  #forest-graph {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 20px;
-    flex-direction: column;
+#forest-graph {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  flex-direction: column;
+}
 
-    .forest-body {
-      display: inline-flex;
-      flex-direction: column;
-      transform: rotate(45deg);
-      margin: 60px;
-      align-items: flex-end;
+#forest-graph .forest-body {
+  display: inline-flex;
+  flex-direction: row;           /* two-page spread */
+  gap: 40px;                     /* gutter between pages */
+  margin: 40px;
+  align-items: flex-start;
+}
 
-      @media (max-width: 575.99px) {
-        transform: rotate(45deg) scale(0.9);
-      }
+#forest-graph .forest-body::before {
+  /* spine */
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: calc(100% - 80px);
+  background: var(--background-modifier-border);
+  /* center align: place using container center (approximate) */
+  transform: translateX(0);
+}
 
-      .forest-row {
-        display: flex;
-        flex-direction: row;
-        align-items: flex-end;
-
-        a {
-          width: 20px;
-          height: 20px;
-          cursor: pointer;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-
-          img {
-            transform: rotate(-45deg);
-          }
-        }
-
-        .plane {
-          cursor: inherit;
-        }
-      }
-    }
-
-    .forest-legends {
-      margin-top: 10px;
-      display: flex;
-      gap: 10px;
-      width: 100%;
-      justify-content: center;
-      flex-wrap: wrap;
-
-      font-size: 0.8em;
-      color: var(--text-muted);
-
-      img {
-        height: 1.5em;
-        width: auto;
-        margin-right: 5px;
-      }
-    }
+@media (max-width: 575.99px) {
+  #forest-graph .forest-body {
+    gap: 24px;
+    margin: 24px;
+    transform: none;             /* no rotation on mobile */
   }
+}
+
+/* Each page (left/right) is a column of rows */
+#forest-graph .forest-body .forest-page {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;                     /* vertical spacing between lines */
+  align-items: flex-start;
+}
+
+/* Rows on a page: horizontal line of items */
+#forest-graph .forest-body .forest-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Items (links/icons) upright, no rotation */
+#forest-graph .forest-body .forest-row a {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#forest-graph .forest-body .forest-row a img {
+  transform: none;               /* remove -45deg */
+}
+
+#forest-graph .forest-body .forest-row .plane {
+  cursor: inherit;
+}
+
+/* Legends below unchanged */
+#forest-graph .forest-legends {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: 0.8em;
+  color: var(--text-muted);
+}
+
+#forest-graph .forest-legends img {
+  height: 1.5em;
+  width: auto;
+  margin-right: 5px;
+}
 
   .toc-container li::before {
     content: "" !important;
