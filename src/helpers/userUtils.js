@@ -77,7 +77,15 @@ const noteLabels = {
 };
 
 function resolveIconSlug(n) {
-  const raw = n.data.noteIcon;
+  // Prefer noteIcon; fall back to dg-note-icon
+  const raw = n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "";
+  const slug = String(raw).toLowerCase().trim() || "signpost";
+
+  return {
+    icon: slug,
+    factor: maturityScale[slug] ?? 4
+  };
+  /*const raw = n.data.noteIcon;
   
   if (raw !== undefined && raw !== null && raw !== "") {
     const vNum = parseInt(raw, 10);
@@ -90,11 +98,41 @@ function resolveIconSlug(n) {
   }
 
   const slug = String(n.data.noteIcon || "").toLowerCase().trim() || "signpost";
-  return { icon: slug, factor: maturityScale[slug] ?? 4 };
+  return { icon: slug, factor: maturityScale[slug] ?? 4 };*/
 }
 
 function crowdData(data) {
   const counts = JSON.parse(JSON.stringify(noteLabels));
+  const itemsSrc = (data.collections?.note || data.collections?.pages || data.collections?.all || []);
+  const items = itemsSrc.map((n) => {
+    const { icon, factor } = resolveIconSlug(n);
+
+    // Count legend
+    if (!counts[icon]) {
+      counts[icon] = { 
+        label: icon[0].toUpperCase() + icon.slice(1),
+        count: 0,
+        icon
+      };
+    }
+    counts[icon].count++;
+  }
+   return {
+      icon,                                        // ex: "child"
+      url: n.url || "",                            // ex: "/11-templates/message-note/"
+      title: n.data.title || n.fileSlug || "",     // título limpo
+      factor: Number.isFinite(factor) ? factor : 4 // garante número
+    };
+  });
+
+  const legends = Object.values(counts).filter(c => c.count > 0)
+    .sort((a, b) => b.count - a.count);
+
+  return {
+    people: getPositions(items),
+    legends
+  };
+  /*const counts = JSON.parse(JSON.stringify(noteLabels));
   const items = data.collections.note.map((n) => {
     const { icon, factor } = resolveIconSlug(n);
     // Contagem de legenda
@@ -119,7 +157,7 @@ function crowdData(data) {
   return {
     people: getPositions(items),
     legends
-  };
+  };*/
 }
 
 // Build crowd data from notes
