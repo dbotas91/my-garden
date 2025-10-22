@@ -108,18 +108,15 @@ function crowdData(data) {
     const { icon, factor } = resolveIconSlug(n);
 
     // Count legend
-    if (!counts[icon]) {
-      counts[icon] = { 
-        label: icon[0].toUpperCase() + icon.slice(1),
-        count: 0,
-        icon
-      };
-    }
+    if (!icon) return { icon: 0, url: "", factor: 3 }; //plane
+
+    counts[icon] = counts[icon] || { label: icon[0].toUpperCase() + icon.slice(1), count: 0, icon };
     counts[icon].count++;
-   return {
+    
+    return {
       icon,                                        // ex: "child"
       url: n.url || "",                            // ex: "/11-templates/message-note/"
-      title: n.data.title || n.fileSlug || "",     // título limpo
+      title: n.data?.title || n.fileSlug || "",     // título limpo
       factor: Number.isFinite(factor) ? factor : 4 // garante número
     };
   });
