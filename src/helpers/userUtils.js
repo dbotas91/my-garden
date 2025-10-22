@@ -112,7 +112,7 @@ function crowdData(data) {
     };
   });
 
-  const legends = Objetc.values(counts).filter(c => c.count > 0)
+  const legends = Object.values(counts).filter(c => c.count > 0)
     .sort((a, b) => b.count - a.count);
 
   return {
