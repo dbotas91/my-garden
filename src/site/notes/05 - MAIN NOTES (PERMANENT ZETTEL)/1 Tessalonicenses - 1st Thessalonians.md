@@ -3,7 +3,7 @@
 ---
 
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]
-Local: [[10 - TAGS/IQC\|IQC]], [[10 - TAGS/Wroclaw\|Wroclaw]]
+Local: [[09 - STATUS NOTES/IQC\|IQC]], [[09 - STATUS NOTES/Wroclaw\|Wroclaw]]
 Tags: [[10 - TAGS/1 Tessalonicenses\|1 Tessalonicenses]]
 # 1 Tessalonicenses - 1st Thessalonians
 

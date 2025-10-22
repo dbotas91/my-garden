@@ -3,7 +3,7 @@
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]
-Local: [[10 - TAGS/IQC\|IQC]], [[10 - TAGS/Fontainhas\|Fontainhas]]
+Local: [[09 - STATUS NOTES/IQC\|IQC]], [[09 - STATUS NOTES/Fontainhas\|Fontainhas]]
 Tags: [[10 - TAGS/torre de babel\|torre de babel]], [[10 - TAGS/genesis 11\|genesis 11]], [[10 - TAGS/Abraão\|Abraão]], [[10 - TAGS/Ninrode\|Ninrode]]
 
 ## Leitura: [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações#Génesis 10-11\|Génesis 10-11]]

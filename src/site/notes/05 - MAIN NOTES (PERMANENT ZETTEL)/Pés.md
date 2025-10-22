@@ -3,7 +3,7 @@
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
-Local: [[10 - TAGS/IQC\|IQC]]
+Local: [[09 - STATUS NOTES/IQC\|IQC]]
 Tags: [[10 - TAGS/ministério da reconciliação\|ministério da reconciliação]], [[10 - TAGS/evangelização\|evangelização]]
 # 📓 Pés
 

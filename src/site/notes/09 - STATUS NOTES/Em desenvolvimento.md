@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-status-notes/em-desenvolvimento/","dgPassFrontmatter":true,"noteIcon":"child","created":"2025-10-18T13:02:15.193+01:00","updated":"2025-10-18T13:02:34.597+01:00"}
+{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/09-status-notes/em-desenvolvimento/","created":"2025-10-18T13:02:15.193+01:00","updated":"2025-10-21T19:55:03.108+01:00"}
 ---
 
+[[0. Home\|Back home]]

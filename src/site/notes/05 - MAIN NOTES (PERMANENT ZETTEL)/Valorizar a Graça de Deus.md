@@ -3,7 +3,7 @@
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
-Local: [[10 - TAGS/IQC\|IQC]]
+Local: [[09 - STATUS NOTES/IQC\|IQC]]
 Tags: [[10 - TAGS/graça de Deus\|graça de Deus]]
 # Valorizar a Graça de Deus
 Pretendo que meditemos hoje nas razões de valorizarmos a Graça de Deus.
