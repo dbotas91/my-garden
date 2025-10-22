@@ -14,7 +14,7 @@
             </span>
           {% else %}
             <a class="people" href="{{ people.url }}" title="{{ people.title }}">
-              <img src="/img/{{ people.icon }}.svg" 
+              <img src="/img/{{ people.icon or child }}.svg" 
                    alt="{{ people.icon }}" 
                    style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
             </a>
@@ -35,7 +35,7 @@
           {% else %}
             <a class="people" href="{{ people.url }}" title="{{ people.title }}">
               <img src="/img/{{ peopleicon }}.svg" 
-                   alt="{{ people.icon }}" 
+                   alt="{{ people.icon or child }}" 
                    style="width: auto; height: {{ 5 + (10 * (people.factor or 4)) }}px;" />
             </a>
           {% endif %}
