@@ -78,7 +78,7 @@ function resolveIconSlug(n) {
 
 function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
   const groups = {};
-  for (const slug of RING_ORDER) groups[slug] ? [];
+  for (const slug of RING_ORDER) groups[slug] = [];
   for (const it of items) {
     const slug = it.icon;
     if (!groups[slug]) groups[slug] = [];
