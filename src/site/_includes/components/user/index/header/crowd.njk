@@ -1,17 +1,19 @@
-{% set order = userComputed.crowd.order %}
-{% set radii = userComputed.crowd.radii %}
-
 <div id="crowd-graph">
   <div class="crowd-body">
-    {# Ring bands (background circles), inner → outer #}
-    {% for slug in order %}
-      {% set idx = loop.index0 %}
-      {% set R = radii[idx] %}
-      <div class="ring ring-{{ slug }}"
-           style="width: {{ R * 2 }}px; height: {{ R * 2 }}px; left: calc(50% - {{ R }}px); top: calc(50% - {{ R }}px);"></div>
+    {# Decorative icon rings: each item has slug, angle, radius, size #}
+    {% for ring in userComputed.crowd.ringDecor %}
+      {% for deco in ring %}
+        <img class="ring-icon"
+             src="/img/{{ deco.slug }}.svg"
+             alt="{{ deco.slug }}"
+             style="position:absolute;left:50%;top:50%;
+                    transform-origin:0 0;
+                    transform: rotate({{ deco.angle }}deg) translate({{ deco.radius }}px) rotate(-{{ deco.angle }}deg);
+                    height: {{ deco.size }}px; width: auto;" />
+      {% endfor %}
     {% endfor %}
 
-    {# Place people around each ring #}
+    {# Notes around their corresponding rings #}
     {% for row in userComputed.crowd.people %}
       {% for people in row %}
         {% if people[0] != 0 %}
