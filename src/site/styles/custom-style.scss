@@ -321,14 +321,24 @@ body {
 }
 
 #crowd-graph .crowd-body {
-  position: relative;
-  width: 520px;               /* outer diameter */
-  height: 520px;
-  border-radius: 16px; /* not a circle anymore; slight rounding looks nice */
-  border: 2px solid var(--background-modifier-border);
-  background: var(--background-secondary);
-  overflow: hidden;           /* clip anything outside circle */
-  margin: 20px auto;
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  //position: relative;
+  //width: 520px;               /* outer diameter */
+  //height: 520px;
+  //border-radius: 16px; /* not a circle anymore; slight rounding looks nice */
+  //border: 2px solid var(--background-modifier-border);
+  //background: var(--background-secondary);
+  //overflow: hidden;           /* clip anything outside circle */
+  //margin: 20px auto;
   /*display: inline-flex;
   flex-direction: row;         /* two-page spread */
   /*gap: 40px;                   /* gutter between pages */
