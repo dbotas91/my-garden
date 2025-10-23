@@ -1,35 +1,19 @@
 <div id="crowd-graph">
   <div class="crowd-body">
-    {# Decorative icon rings: each item has slug, angle, radius, size #}
-    {% for ring in userComputed.crowd.ringDecor %}
-      {% for deco in ring %}
-        <img class="ring-icon"
-             src="/img/{{ deco.slug }}.svg"
-             alt="{{ deco.slug }}"
-             style="position:absolute;left:50%;top:50%;
-                    transform-origin:0 0;
-                    transform: rotate({{ deco.angle }}deg) translate({{ deco.radius }}px) rotate(-{{ deco.angle }}deg);
-                    height: {{ deco.size }}px; width: auto;" />
-      {% endfor %}
-    {% endfor %}
-
-    {# Notes around their corresponding rings #}
-    {% for row in userComputed.crowd.people %}
-      {% for people in row %}
-        {% if people[0] != 0 %}
-          {% set angle = people[4] | default(-90) %}
-          {% set radius = people[5] | default(200) %}
-          <a class="people"
-             href="{{ people[1] | default('#') }}"
-             title="{{ people[2] | default(people[0]) }}"
-             style="position:absolute;left:50%;top:50%;
-                    transform-origin:0 0;
-                    transform: rotate({{ angle }}deg) translate({{ radius }}px) rotate(-{{ angle }}deg);">
-            <img src="/img/{{ people[0] | default('child') }}.svg"
-                 alt="{{ people[0] | default('child') }}"
-                 style="width:auto;height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
-          </a>
-        {% endif %}
+    {% for ring in userComputed.crowd.people %}
+      {% for people in ring %}
+        {% set angle = people[4] | default(-90) %}
+        {% set radius = people[5] | default(200) %}
+        <a class="people"
+           href="{{ people[1] | default('#') }}"
+           title="{{ people[2] | default(people[0]) }}"
+           style="position:absolute;left:50%;top:50%;
+                  transform-origin:0 0;
+                  transform: rotate({{ angle }}deg) translate({{ radius }}px) rotate(-{{ angle }}deg);">
+          <img src="/img/{{ people[0] | default('child') }}.svg"
+               alt="{{ people[0] | default('child') }}"
+               style="width:auto;height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
+        </a>
       {% endfor %}
     {% endfor %}
   </div>
