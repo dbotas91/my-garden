@@ -337,10 +337,12 @@ body {
 }
 
   #crowd-graph .ring-icon { z-index: 1; }
-  #crowd-graph .people { z-index: 2; }
+  //#crowd-graph .people { z-index: 2; }
   //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; }
-  #crowd-graph .people img { transform: none; width: auto; }
-
+  //#crowd-graph .people img { transform: none; width: auto; }
+#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; z-index: 2; }
+#crowd-graph .people img { transform: none; width: auto; }
+  
 /* Optional inner padding ring */
 #crowd-graph .crowd-body::before {
   content: "";
