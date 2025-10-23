@@ -312,11 +312,11 @@ body {
   }
 
 #crowd-graph {
-  display: flex;
+  /*display: flex;
   justify-content: center;
   align-items: center;
   padding-bottom: 20px;
-  flex-direction: column;
+  flex-direction: column;*/
   position: relative;
 }
 
@@ -329,7 +329,8 @@ body {
   border: 0;
   background: transparent;
   border-radius: 0;
-  overflow: hidden;
+  overflow: visible;
+  z-index: 10;
   //position: relative;
   //width: 520px;               /* outer diameter */
   //height: 520px;
@@ -351,7 +352,7 @@ body {
   //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; }
   //#crowd-graph .people img { transform: none; width: auto; }
 //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; z-index: 2; }
-  #crowd-graph .people { position: absolute; left: 0; top: 0; transform-origin: 0 0; z-index: 1}
+  #crowd-graph .people { position: absolute; left: 0; top: 0; transform-origin: 0 0; z-index: 11}
   #crowd-graph .people img { transform: none; width: auto; }
   
 /* Optional inner padding ring */
@@ -416,6 +417,9 @@ body {
   flex-wrap: wrap;
   font-size: 0.8em;
   color: var(--text-muted);
+  position: relative;
+  z-index: 1;
+  margin-top: 16px;
 }
 
 #crowd-graph .crowd-legends img {
