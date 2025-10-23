@@ -357,59 +357,99 @@ body {
   
 /* Optional inner padding ring */
 #crowd-graph .crowd-body::before {
-  content: "";
-  position: absolute;
-  inset: 12px;                /* inner margin */
-  border-radius: 50%;
-  border: 1px dashed var(--background-modifier-border);
-  pointer-events: none;
-}
-
-/* Lay out rows as concentric bands, centered in the circle */
-#crowd-graph .crowd-row {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%); /* start at center; each row will offset radially */
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Assign radial positions to rows (N = number of rows in your computed data)
-   These offsets place rows at different radii from the center.
-   Adjust the translateY values to fit your dataset (more rows → smaller step).
-*/
-#crowd-graph .crowd-row:nth-child(1)  { transform: translate(-50%, calc(-50% - 180px)); }
-#crowd-graph .crowd-row:nth-child(2)  { transform: translate(-50%, calc(-50% - 135px)); }
-#crowd-graph .crowd-row:nth-child(3)  { transform: translate(-50%, calc(-50% - 90px)); }
-#crowd-graph .crowd-row:nth-child(4)  { transform: translate(-50%, calc(-50% - 45px)); }
-#crowd-graph .crowd-row:nth-child(5)  { transform: translate(-50%, calc(-50%)); }
-#crowd-graph .crowd-row:nth-child(6)  { transform: translate(-50%, calc(-50% + 45px)); }
-#crowd-graph .crowd-row:nth-child(7)  { transform: translate(-50%, calc(-50% + 90px)); }
-#crowd-graph .crowd-row:nth-child(8)  { transform: translate(-50%, calc(-50% + 135px)); }
-#crowd-graph .crowd-row:nth-child(9)  { transform: translate(-50%, calc(-50% + 180px)); }
-
-/* Items inside rows */
-#crowd-graph .crowd-row a.people,
-#crowd-graph .crowd-row .people.plane {
-  display: flex;
+#crowd-graph {
+  /*display: flex;
   justify-content: center;
   align-items: center;
-  width: auto;
+  padding-bottom: 20px;
+  flex-direction: column;*/
+  position: relative;
+}
+
+#crowd-graph .crowd-body {
+  position: relative;
+  //width: auto;
+  //height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  overflow: visible;
+  z-index: 10;
+  //position: relative;
+  //width: 520px;               /* outer diameter */
+  //height: 520px;
+  //border-radius: 16px; /* not a circle anymore; slight rounding looks nice */
+  //border: 2px solid var(--background-modifier-border);
+  //background: var(--background-secondary);
+  //overflow: hidden;           /* clip anything outside circle */
+  //margin: 20px auto;
+  /*display: inline-flex;
+  flex-direction: row;         /* two-page spread */
+  /*gap: 40px;                   /* gutter between pages */
+  /*margin: 40px;
+  align-items: flex-start;
+  position: relative;*/
+}
+
+  //#crowd-graph .ring-icon { z-index: 1; }
+  //#crowd-graph .people { z-index: 2; }
+  //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; }
+  //#crowd-graph .people img { transform: none; width: auto; }
+//#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; z-index: 2; }
+  #crowd-graph .people { position: absolute; left: 0; top: 0; transform-origin: 0 0; z-index: 11}
+  #crowd-graph .people img { transform: none; width: auto; }
+  
+/* Optional inner padding ring */
+#crowd-graph .crowd-body::before {
+/* Correção de layout: ícones em cima, legends abaixo, conteúdo depois */
+
+/* 1) Área do crowd antes do conteúdo */
+#crowd-graph {
+  position: relative;
+  z-index: 10;            /* acima do fluxo normal */
+  margin-bottom: 24px;    /* empurra o conteúdo para baixo */
+}
+
+/* 2) Container dos ícones sem formato visual */
+#crowd-graph .crowd-body {
+  position: relative;     /* âncora para posicionamento absoluto */
+  width: 100%;
   height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  overflow: visible;
+  z-index: 11;            /* acima das legends */
+  opacity: 1;
+  filter: none;
+  transform: none;
+  will-change: auto;
 }
 
-/* Let template height control the icon size; no rotations */
-#crowd-graph .crowd-row a.people img {
+/* 3) Ícones (anchors) por cima de tudo dentro do crowd */
+#crowd-graph .people {
+  position: absolute;     /* left/top vêm inline do NJK */
+  left: 0;                /* inline style irá sobrepor */
+  top: 0;
+  transform-origin: 0 0;
+  z-index: 12;            /* mais alto que .crowd-body e legends */
+  pointer-events: auto;   /* clicáveis */
+}
+
+#crowd-graph .people img {
   transform: none;
   width: auto;
 }
 
-/* Legends under the circle */
+/* 4) Legends logo abaixo dos ícones */
 #crowd-graph .crowd-legends {
-  margin-top: 12px;
+  position: relative;     /* não criar stacking context extra */
+  z-index: 9;             /* abaixo dos ícones, acima do conteúdo */
+  margin-top: 16px;
   display: flex;
   gap: 10px;
   width: 100%;
@@ -417,9 +457,6 @@ body {
   flex-wrap: wrap;
   font-size: 0.8em;
   color: var(--text-muted);
-  position: relative;
-  z-index: 1;
-  margin-top: 16px;
 }
 
 #crowd-graph .crowd-legends img {
@@ -428,50 +465,43 @@ body {
   margin-right: 5px;
 }
 
-  /* Ring backgrounds (bands); each ring positioned by inline style */
-#crowd-graph .ring {
-  position: absolute;
-  border-radius: 50%;
-  box-sizing: border-box;
-  pointer-events: none;
+/* 5) Conteúdo principal abaixo do crowd + legends */
+body .content,
+.markdown-preview-view,
+.page-content,
+main {
+  position: relative;
+  z-index: 1;             /* abaixo do crowd-graph e das legends */
 }
 
-/* Band thickness and color per ring. We use a semi-transparent border to draw the band. */
-//#crowd-graph .ring {
-//  border: 12px solid transparent; /* default thickness; overridden by per-ring color */
-//}
-  /* Colors per maturity/type */
-//#crowd-graph .ring-child      { border-color: #7EC8E3; } /* light blue */
-//#crowd-graph .ring-teen       { border-color: #F5A623; } /* orange */
-//#crowd-graph .ring-adult      { border-color: #4CAF50; } /* green */
-//#crowd-graph .ring-legacy     { border-color: #C9A227; } /* gold */
-//#crowd-graph .ring-canon      { border-color: #B8860B; } /* bronze */
-//#crowd-graph .ring-lackluster { border-color: #6B7280; } /* slate gray */
-//#crowd-graph .ring-signpost   { border-color: #3B82F6; } /* blue */
-//#crowd-graph .ring-stone      { border-color: #9CA3AF; } /* cool gray */
-//#crowd-graph .ring-chest      { border-color: #8B5CF6; } /* violet */
+/* 6) Neutralizar estilos antigos de círculo/centro (pirâmide usa left/top absolutos) */
+#crowd-graph .crowd-row {
+  position: static;
+  left: auto;
+  top: auto;
+  transform: none;
+  display: block;
+  gap: 0;
+  align-items: initial;
+  justify-content: initial;
+}
 
+/* 7) Remover pseudo-elementos do container (ex.: círculo tracejado antigo) */
+#crowd-graph .crowd-body::before {
+  content: none !important;
+}
 
-/* Responsive: shrink the circle and row radii on small screens */
+/* 8) Garantir que nenhum wrapper cria stacking context a bloquear z-index */
+#crowd-graph,
+#crowd-graph * {
+  mix-blend-mode: normal;
+}
+
+/* 9) Responsivo básico */
 @media (max-width: 575.99px) {
-  #crowd-graph .crowd-body {
-    width: 360px;
-    height: 480px;
-    // margin: 12px auto;
-  }
-  #crowd-graph .crowd-body::before { inset: 10px; }
-
-  #crowd-graph .crowd-row:nth-child(1)  { transform: translate(-50%, calc(-50% - 120px)); }
-  #crowd-graph .crowd-row:nth-child(2)  { transform: translate(-50%, calc(-50% - 90px)); }
-  #crowd-graph .crowd-row:nth-child(3)  { transform: translate(-50%, calc(-50% - 60px)); }
-  #crowd-graph .crowd-row:nth-child(4)  { transform: translate(-50%, calc(-50% - 30px)); }
-  #crowd-graph .crowd-row:nth-child(5)  { transform: translate(-50%, calc(-50%)); }
-  #crowd-graph .crowd-row:nth-child(6)  { transform: translate(-50%, calc(-50% + 30px)); }
-  #crowd-graph .crowd-row:nth-child(7)  { transform: translate(-50%, calc(-50% + 60px)); }
-  #crowd-graph .crowd-row:nth-child(8)  { transform: translate(-50%, calc(-50% + 90px)); }
-  #crowd-graph .crowd-row:nth-child(9)  { transform: translate(-50%, calc(-50% + 120px)); }
+  #crowd-graph { margin-bottom: 20px; }
+  #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
 }
-
   
 
   .toc-container li::before {
