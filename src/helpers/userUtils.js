@@ -77,6 +77,7 @@ function resolveIconSlug(n) {
 }
 
 function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
+  // Group notes by slug
   const groups = {};
   for (const slug of RING_ORDER) groups[slug] = [];
   for (const it of items) {
@@ -86,6 +87,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
   }
 
   // Radii: inner -> outer, evenly spaced
+  // Radii per ring
   const cx = circleDiameter / 2;
   const maxRadius = cx - padding;
   const ringCount = RING_ORDER.length;
@@ -97,7 +99,8 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
   //For each ring: shuffle items, place evenly by angle, append angle/radius for template
   const rings = RING_ORDER.map((slug, idx) => {
     const R = radii[idx];
-    const ringItems = shuffle(groups[slug].slice());
+    //const ringItems = shuffle(groups[slug].slice());
+    const ringItems = groups[slug].slice(); // already flat items
     const N = Math.max(ringItems.length, 1);
     const startAngle = -90 + (idx % 2 ? 8 : -8); // stagger starting angle per ring
     return ringItems.map((it, i) => {
@@ -107,7 +110,24 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
     });
   });
 
-  return { rings, radii };
+  // Build decorative ring icons for each ring (repeat the ring’s slug around the circumference)
+  // Tune these for density and size of decorative icons:
+  const decorIconSize = 18;         // px height for decorative ring icons
+  const angularGapPx = 6;           // extra spacing per icon
+  const ringDecor = RING_ORDER.map((slug, idx) => {
+    const R = radii[idx];
+    const circumference = 2 * Math.PI * R;
+    const capacity = Math.max(6, Math.floor(circumference / (decorIconSize + angularGapPx)));
+    const startAngle = -90 + (idx % 2 ? 6 : -6);
+    const items = [];
+    for (let i = 0; i < capacity; i++) {
+      const angle = startAngle + (360 / capacity) * i;
+      items.push({ slug, angle, radius: R, size: decorIconSize });
+    }
+    return items;
+  });
+
+  return { rings, radii, ringDecor };
 }
 
 // Distribute items around a circle by assigning angle (deg) and radius (px) per item.
@@ -223,7 +243,7 @@ function crowdData(data) {
       }
       counts[icon].count++;
 
-      const url = n.url || "";
+      const url = n.url || "#";
       const title = (n.data && n.data.title) || n.fileSlug || icon;
       const sizeFactor = Number.isFinite(factor) ? factor : 2;
       
@@ -236,13 +256,13 @@ function crowdData(data) {
     });
 
   // Build polar rings
-  const { rings, radii } = buildRings(items, 520, 24, 36);
+  const { rings, radii, ringDecor } = buildRings(items, 520, 24, 36);
 
   const legends = RING_ORDER
     .map(slug => counts[slug])
     .filter(Boolean);
 
-  return {people: rings, legends, radii, order: RING_ORDER};
+  return {people: rings, ringDecor, legends };
     
   /*const legends = Object.values(counts)
     .filter((c) => c.count > 0)
