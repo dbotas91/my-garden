@@ -316,7 +316,6 @@ body {
 /* 1) Área do crowd antes do conteúdo */
 #crowd-graph {
   position: relative;
-  z-index: 10;            /* acima do fluxo normal */
   margin-bottom: 24px;    /* empurra o conteúdo para baixo */
 }
 
@@ -324,18 +323,14 @@ body {
 #crowd-graph .crowd-body {
   position: relative;     /* âncora para posicionamento absoluto */
   width: 100%;
-  height: auto;
+  min-height: 520px;
   margin: 0;
   padding: 0;
   border: 0;
   background: transparent;
   border-radius: 0;
   overflow: visible;
-  z-index: 11;            /* acima das legends */
-  opacity: 1;
-  filter: none;
-  transform: none;
-  will-change: auto;
+  z-index: 2;            /* acima das legends */
 }
 
 /* 3) Ícones (anchors) por cima de tudo dentro do crowd */
@@ -344,8 +339,7 @@ body {
   left: 0;                /* inline style irá sobrepor */
   top: 0;
   transform-origin: 0 0;
-  z-index: 12;            /* mais alto que .crowd-body e legends */
-  pointer-events: auto;   /* clicáveis */
+  z-index: 3;            /* mais alto que .crowd-body e legends */
 }
 
 #crowd-graph .people img {
@@ -356,7 +350,7 @@ body {
 /* 4) Legends logo abaixo dos ícones */
 #crowd-graph .crowd-legends {
   position: relative;     /* não criar stacking context extra */
-  z-index: 9;             /* abaixo dos ícones, acima do conteúdo */
+  z-index: 1;             /* abaixo dos ícones, acima do conteúdo */
   margin-top: 16px;
   display: flex;
   gap: 10px;
@@ -379,19 +373,15 @@ body .content,
 .page-content,
 main {
   position: relative;
-  z-index: 1;             /* abaixo do crowd-graph e das legends */
+  z-index: auto;             /* abaixo do crowd-graph e das legends */
 }
 
 /* 6) Neutralizar estilos antigos de círculo/centro (pirâmide usa left/top absolutos) */
 #crowd-graph .crowd-row {
   position: static;
-  left: auto;
-  top: auto;
   transform: none;
   display: block;
-  gap: 0;
-  align-items: initial;
-  justify-content: initial;
+  left: auto; top: auto; gap: 0;
 }
 
 /* 7) Remover pseudo-elementos do container (ex.: círculo tracejado antigo) */
@@ -399,14 +389,13 @@ main {
   content: none !important;
 }
 
-/* 8) Garantir que nenhum wrapper cria stacking context a bloquear z-index */
-#crowd-graph,
-#crowd-graph * {
-  mix-blend-mode: normal;
+/* Avoid accidental stacking contexts that trap z-index */
+#crowd-graph .crowd-body {
+  opacity: 1; filter: none; transform: none; will-change: auto;
 }
 
-/* 9) Responsivo básico */
 @media (max-width: 575.99px) {
+  #crowd-graph .crowd-body { min-height: 440px; }  /* smaller reserved area on mobile */
   #crowd-graph { margin-bottom: 20px; }
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
 }
