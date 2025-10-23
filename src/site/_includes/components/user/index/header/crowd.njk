@@ -1,29 +1,37 @@
-{% macro render_polar(rows) %}
-  {% for row in rows %}
-    {% for people in row %}
-      {% if people[0] != 0 %}
-        {% set angle = people[4] | default(-90) %}
-        {% set radius = people[5] | default(200) %}
-        <a class="people"
-           href="{{ people[1] | default('#') }}"
-           title="{{ people[2] | default(people[0]) }}"
-           style="position:absolute;left:50%;top:50%;
-                  transform-origin:0 0;
-                  transform: rotate({{ angle }}deg) translate({{ radius }}px) rotate(-{{ angle }}deg);">
-          <img src="/img/{{ people[0] | default('child') }}.svg"
-               alt="{{ people[0] | default('child') }}"
-               style="width:auto;height:{{ 5 + (10 * (people[3] | default(2))) }}px;" />
-        </a>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endmacro %}
+{% set order = userComputed.crowd.order %}
+{% set radii = userComputed.crowd.radii %}
 
 <div id="crowd-graph">
   <div class="crowd-body">
-    {{ render_polar(userComputed.crowd.people) }}
+    {# Ring bands (background circles), inner → outer #}
+    {% for slug in order %}
+      {% set idx = loop.index0 %}
+      {% set R = radii[idx] %}
+      <div class="ring ring-{{ slug }}"
+           style="width: {{ R * 2 }}px; height: {{ R * 2 }}px; left: calc(50% - {{ R }}px); top: calc(50% - {{ R }}px);"></div>
+    {% endfor %}
+
+    {# Place people around each ring #}
+    {% for row in userComputed.crowd.people %}
+      {% for people in row %}
+        {% if people[0] != 0 %}
+          {% set angle = people[4] | default(-90) %}
+          {% set radius = people[5] | default(200) %}
+          <a class="people"
+             href="{{ people[1] | default('#') }}"
+             title="{{ people[2] | default(people[0]) }}"
+             style="position:absolute;left:50%;top:50%;
+                    transform-origin:0 0;
+                    transform: rotate({{ angle }}deg) translate({{ radius }}px) rotate(-{{ angle }}deg);">
+            <img src="/img/{{ people[0] | default('child') }}.svg"
+                 alt="{{ people[0] | default('child') }}"
+                 style="width:auto;height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   </div>
-  
+
   <div class="crowd-legends">
     {% for count in userComputed.crowd.legends %}
       <div class="stat">
