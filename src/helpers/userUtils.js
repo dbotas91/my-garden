@@ -9,6 +9,8 @@ function shuffle(a) {
   return a;
 }
 
+const RING_ORDER = ["child","teen","adult","legacy","canon","lackluster","signpost","stone","chest"];
+
 function sliceIntoChunks(arr, chunkSize) {
   const res = [];
   for (let i = 0; i < arr.length; i += chunkSize) {
@@ -72,6 +74,40 @@ function resolveIconSlug(n) {
   const factor = maturityScale[icon] ?? 2;
   
   return { icon, factor };
+}
+
+function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
+  const groups = {};
+  for (const slug of RING_ORDER) groups[slug] ? [];
+  for (const it of items) {
+    const slug = it.icon;
+    if (!groups[slug]) groups[slug] = [];
+    groups[slug].push(it);
+  }
+
+  // Radii: inner -> outer, evenly spaced
+  const cx = circleDiameter / 2;
+  const max Radius = cx - padding;
+  const ringCount = RING_ORDER.length;
+  const radii = RING_ORDER.map((_, idx) => {
+    const t = ringCount > 1 ? idx / (ringCount - 1) : 1;
+    return innerGap + t * (maxRadius - innerGap);
+  });
+
+  //For each ring: shuffle items, place evenly by angle, append angle/radius for template
+  const rings = RING_ORDER.map((slug, idx) => {
+    const R = radii[idx];
+    const ringItems = shuffle(groups[slug].slice());
+    const N = Math.max(ingItems.length, 1);
+    const startAngle = -90 + (idx % 2 ? 8 : -8); // stagger starting angle per ring
+    return ringItems.map((it, i) => {
+      const angle = startAngle º (360 / N) * i;
+      // Template item as array: [icon, url, title, factor, angle, radius]
+      return [it.icon, it.url, it.title, it.factor, angle, R];
+    });
+  });
+
+  return { rings, radii };
 }
 
 // Distribute items around a circle by assigning angle (deg) and radius (px) per item.
@@ -199,17 +235,26 @@ function crowdData(data) {
       ];
     });
 
-  const legends = Object.values(counts)
+  // Build polar rings
+  const { rings, radii } = buildRings(items, 520, 24, 36);
+
+  const legends = RING_ORDER
+    .map(slug => counts[slug])
+    .filter(Boolean);
+
+  return {people: rings, legends, radii, order: RING_ORDER};
+    
+  /*const legends = Object.values(counts)
     .filter((c) => c.count > 0)
     .sort((a, b) => b.count - a.count);
 
   const result = {
     people: getPositions(items),
     legends
-  };
+  };*/
   //result.people = distributePolar(result.people, /* centerRadius */520, /*ring Step*/24, /*starAngle*/ 28);
-  result.people = redistributeByCapacity(result.people, 520, 24, 36, 6, 28, 8);
-  return result;
+  /*result.people = redistributeByCapacity(result.people, 520, 24, 36, 6, 28, 8);
+  return result;*/
 }
 
 function userComputed(data) {
