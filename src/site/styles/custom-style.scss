@@ -321,16 +321,14 @@ body {
 }
 
 #crowd-graph .crowd-body {
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
-  clip: rect(0 0 0 0) !important;
-  clip-path: inset(50%) !important;
-  overflow: hidden !important;
-  white-space: nowrap !important;
+  position: relative;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: hidden;
   //position: relative;
   //width: 520px;               /* outer diameter */
   //height: 520px;
@@ -352,7 +350,8 @@ body {
   //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; }
   //#crowd-graph .people img { transform: none; width: auto; }
 //#crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; z-index: 2; }
-#crowd-graph .people img { transform: none; width: auto; }
+  #crowd-graph .people { position: absolute; left: 0; top: 0; transform-origin: 0 0; z-index: 1}
+  #crowd-graph .people img { transform: none; width: auto; }
   
 /* Optional inner padding ring */
 #crowd-graph .crowd-body::before {
