@@ -87,7 +87,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
 
   // Radii: inner -> outer, evenly spaced
   const cx = circleDiameter / 2;
-  const max Radius = cx - padding;
+  const maxRadius = cx - padding;
   const ringCount = RING_ORDER.length;
   const radii = RING_ORDER.map((_, idx) => {
     const t = ringCount > 1 ? idx / (ringCount - 1) : 1;
