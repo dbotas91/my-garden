@@ -1,19 +1,19 @@
 <div id="crowd-graph">
   <div class="crowd-body">
-    {% for ring in userComputed.crowd.people %}
-      {% for people in ring %}
-        {% set angle = people[4] | default(-90) %}
-        {% set radius = people[5] | default(200) %}
-        <a class="people"
-           href="{{ people[1] | default('#') }}"
-           title="{{ people[2] | default(people[0]) }}"
-           style="position:absolute;left:50%;top:50%;
-                  transform-origin:0 0;
-                  transform: rotate({{ angle }}deg) translate({{ radius }}px) rotate(-{{ angle }}deg);">
-          <img src="/img/{{ people[0] | default('child') }}.svg"
-               alt="{{ people[0] | default('child') }}"
-               style="width:auto;height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
-        </a>
+    {% for row in userComputed.crowd.people %}
+      {% for people in row %}
+        {% if people[0] != 0 %}
+          {% set x = people[4] | default(260) %}
+          {% set y = people[5] | default(60) %}
+          <a class="people"
+             href="{{ people[1] | default('#') }}"
+             title="{{ people[2] | default(people[0]) }}"
+             style="position:absolute; left:{{ x }}px; top:{{ y }}px;">
+            <img src="/img/{{ people[0] | default('child') }}.svg"
+                 alt="{{ people[0] | default('child') }}"
+                 style="width:auto; height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
+          </a>
+        {% endif %}
       {% endfor %}
     {% endfor %}
   </div>
