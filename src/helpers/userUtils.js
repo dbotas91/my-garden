@@ -110,9 +110,12 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
     });
   });
 
+  const legends = RING_ORDER.map(slug => ({ label: noteLabels[slug].label, count: groups[slug].length, icon: slug }));
+
+  return { rings, legends };
   // Build decorative ring icons for each ring (repeat the ring’s slug around the circumference)
   // Tune these for density and size of decorative icons:
-  const decorIconSize = 18;         // px height for decorative ring icons
+  /*const decorIconSize = 18;         // px height for decorative ring icons
   const angularGapPx = 6;           // extra spacing per icon
   const ringDecor = RING_ORDER.map((slug, idx) => {
     const R = radii[idx];
@@ -127,7 +130,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
     return items;
   });
 
-  return { rings, radii, ringDecor };
+  return { rings, radii, ringDecor };*/
 }
 
 // Distribute items around a circle by assigning angle (deg) and radius (px) per item.
@@ -221,8 +224,33 @@ function redistributeByCapacity(rows, circleDiameter = 520, padding = 24, innerG
   });
 }
 
-
 function crowdData(data) {
+  const src =
+    data.collections?.note ||
+    data.collections?.pages ||
+    data.collections?.posts ||
+    data.collections?.all ||
+    [];
+
+  const items = src.map((n) => {
+    const { icon, factor } = resolveIconSlug(n);
+    return {
+      icon,
+      url: n.url || "#",
+      title: (n.data && n.data.title) || n.fileSlug || icon,
+      factor: Number.isFinite(factor) ? factor : 3
+    };
+  });
+
+  const { rings, legends } = buildRings(items, 520, 24, 36);
+
+  return {
+    people: rings,   // array of rings; each ring is an array of [icon, url, title, factor, angle, radius]
+    legends
+  };
+}
+
+/*function crowdData(data) {
   // Pick a collection that actually contains your published notes
   const itemsSrc =
     data.collections?.note ||
@@ -253,16 +281,16 @@ function crowdData(data) {
         title,     // título limpo
         sizeFactor // garante número
       ];
-    });
+    });*/
 
   // Build polar rings
-  const { rings, radii, ringDecor } = buildRings(items, 520, 24, 36);
+  /*const { rings, radii, ringDecor } = buildRings(items, 520, 24, 36);
 
   const legends = RING_ORDER
     .map(slug => counts[slug])
     .filter(Boolean);
 
-  return {people: rings, ringDecor, legends };
+  return {people: rings, ringDecor, legends };*/
     
   /*const legends = Object.values(counts)
     .filter((c) => c.count > 0)
@@ -275,7 +303,7 @@ function crowdData(data) {
   //result.people = distributePolar(result.people, /* centerRadius */520, /*ring Step*/24, /*starAngle*/ 28);
   /*result.people = redistributeByCapacity(result.people, 520, 24, 36, 6, 28, 8);
   return result;*/
-}
+//}
 
 function userComputed(data) {
   return {
