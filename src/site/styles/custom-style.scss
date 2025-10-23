@@ -1,4 +1,4 @@
-/*body.theme-dark {
+body.theme-dark {
   --text-accent: #006f8b;
   --text-accent-hover: #0084a5;
   --interactive-accent: #006f8b;
@@ -10,38 +10,6 @@ body.theme-light {
   --text-accent-hover: #006f8b;
   --interactive-accent: #004d61;
   --h1-color: var(--interactive-accent);
-}*/
-
-/* Theme palettes */
-body.theme-dark {
-  --mint: #52eea3;
-  --cyan: #51e1e9;
-  --light-blue: #54b6f8;
-  --blue: #437cf3;
-  --violet: #9446f8;
-  --purple: #c952ed;
-  --magenta: #e54f9b;
-  --hot-red: #e3365e;
-  --cool-gray: #515768;
-
-  --contrast-color: #fff;
-  --default-text-color: #d0d0d0;
-}
-
-body.theme-light {
-  --shadow: #0b0c2c;
-  --mint: color-mix(in srgb, #52eea3 85%, var(--shadow));
-  --cyan: color-mix(in srgb, #51e1e9 85%, var(--shadow));
-  --light-blue: color-mix(in srgb, #54b6f8 90%, var(--shadow));
-  --blue: #437cf3;
-  --violet: #9446f8;
-  --purple: #c952ed;
-  --magenta: #e54f9b;
-  --hot-red: #e3365e;
-  --cool-gray: #515768;
-
-  --contrast-color: var(--shadow);
-  --default-text-color: var(--shadow);
 }
 
 body {
@@ -186,16 +154,6 @@ body {
       background-image: url(/img/logo.svg);
       background-position: center;
     }
-    /* Use variables in components */
-nav.filetree-sidebar .nav-folder-title[data-path^="00"] { color: var(--mint); }
-nav.filetree-sidebar .nav-folder-title[data-path^="01"] { color: var(--cyan); }
-nav.filetree-sidebar .nav-folder-title[data-path^="02"] { color: var(--light-blue); }
-nav.filetree-sidebar .nav-folder-title[data-path^="03"] { color: var(--blue); }
-nav.filetree-sidebar .nav-folder-title[data-path^="04"] { color: var(--violet); }
-nav.filetree-sidebar .nav-folder-title[data-path^="05"] { color: var(--purple); }
-nav.filetree-sidebar .nav-folder-title[data-path^="06"] { color: var(--magenta); }
-nav.filetree-sidebar .nav-folder-title[data-path^="07"] { color: var(--hot-red); }
-nav.filetree-sidebar .nav-folder-title[data-path^="99"] { color: var(--cool-gray); }
   }
 
   nav.toc {
