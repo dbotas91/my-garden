@@ -101,7 +101,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
     const N = Math.max(ingItems.length, 1);
     const startAngle = -90 + (idx % 2 ? 8 : -8); // stagger starting angle per ring
     return ringItems.map((it, i) => {
-      const angle = startAngle º (360 / N) * i;
+      const angle = startAngle + (360 / N) * i;
       // Template item as array: [icon, url, title, factor, angle, radius]
       return [it.icon, it.url, it.title, it.factor, angle, R];
     });
