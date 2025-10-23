@@ -322,12 +322,13 @@ body {
 
 #crowd-graph .crowd-body {
   position: relative;
-  width: auto;
-  height: auto;
+  //width: auto;
+  //height: auto;
   margin: 0;
   padding: 0;
   border: 0;
   background: transparent;
+  border-radius: 0;
   overflow: hidden;
   //position: relative;
   //width: 520px;               /* outer diameter */
