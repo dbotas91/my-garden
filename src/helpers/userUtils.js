@@ -224,7 +224,7 @@ function redistributeByCapacity(rows, circleDiameter = 520, padding = 24, innerG
   });
 }
 
-function crowData(data) {
+function crowdData(data) {
   const src =
     data.collections?.note ||
     data.collections?.pages ||
