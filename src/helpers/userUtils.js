@@ -224,7 +224,102 @@ function redistributeByCapacity(rows, circleDiameter = 520, padding = 24, innerG
   });
 }
 
-function crowdData(data) {
+function crowData(data) {
+  const src =
+    data.collections?.note ||
+    data.collections?.pages ||
+    data.collections?.posts ||
+    data.collections?.all ||
+    [];
+
+  const items = src.map((n) => {
+    const { icon, factor } = resolveIconSlug(n);
+    return {
+      icon,
+      url: n.url || "#",
+      title: (n.data && n.data.title) || n.fileSlug || icon,
+      factor: Number.isFinite(factor) ? factor : 3
+    };
+  });
+
+  // 2) Group by icon (ring key)
+  const groups = {};
+  for (const key of RING_ORDER) groups[key] = [];
+  for (const it of items) {
+    if (!groups[it.icon]) groups[it.icon] = [];
+    groups[it.icon].push(it);
+  }
+
+  // 3) Sort rings by count DESC; tie-break by RING_ORDER index ASC
+  const sortedRings = Object.keys(groups)
+    .map(k => ({ key: k, count: groups[k].length, order: RING_ORDER.indexOf(k) }))
+    .filter(r => r.count > 0) // ignore empty rings
+    .sort((a, b) => {
+      if (b.count !== a.count) return b.count - a.count;
+      return a.order - b.order;
+    });
+
+  // 4) Layout: inverted pyramid (top row widest), descending rows
+  // Container logical size (match CSS): 520x520
+  const width = 520;
+  const height = 520;
+  const padding = 24;
+  const usableWidth = width - padding * 2;
+  const usableHeight = height - padding * 2;
+
+  // Vertical spacing between rows
+  const rowGap = 48; // px between rows; tune as needed
+  const topY = padding + 40; // start a bit below top
+
+   // Compute per-row max width taper:
+  // Top row gets ~95% of usableWidth; bottom rows get smaller (to form pyramid).
+  const maxRows = Math.max(sortedRings.length, 1);
+
+  // 5) Build rows with x/y for each icon; even spacing horizontally within row width
+  const rows = [];
+  sortedRings.forEach((ring, idx) => {
+    const itemsInRow = groups[ring.key];
+    const N = itemsInRow.length;
+
+    // Row Y position: top to bottom
+    const y = topY + idx * rowGap;
+
+    // Row width taper factor: from 0.95 down to, say, 0.55 linearly
+    const t = maxRows > 1 ? idx / (maxRows - 1) : 0; // 0 at top, 1 at bottom
+    const rowWidth = usableWidth * (0.95 - t * 0.40); // 95% → 55%
+    const leftX = (width - rowWidth) / 2; // center row horizontally
+
+    // Horizontal spacing: distribute N icons across rowWidth
+    // Include small gutter between icons
+    const gutter = 8;
+    const segment = N > 1 ? (rowWidth - gutter * (N - 1)) / N : rowWidth;
+    const iconCenters = [];
+    for (let i = 0; i < N; i++) {
+      const xStart = leftX + i * (segment + gutter);
+      const xCenter = xStart + segment / 2;
+      iconCenters.push(xCenter);
+    }
+
+    // Convert to template array [icon, url, title, factor, x, y]
+    const row = itemsInRow.map((it, i) => {
+      const x = iconCenters[i];
+      return [it.icon, it.url, it.title, it.factor, x, y];
+    });
+
+    rows.push(row);
+  });
+
+  // 6) Legends preserving sorted order
+  const legends = sortedRings.map(r => ({ label: r.key.charAt(0).toUpperCase() + r.key.slice(1), count: r.count, icon: r.key }));
+
+  return {
+    // people: array of rows; each row is array of [icon, url, title, factor, x, y]
+    people: rows,
+    legends
+  };
+}
+
+/*function crowdData(data) {
   const src =
     data.collections?.note ||
     data.collections?.pages ||
@@ -248,7 +343,7 @@ function crowdData(data) {
     people: rings,   // array of rings; each ring is an array of [icon, url, title, factor, angle, radius]
     legends
   };
-}
+}*/
 
 /*function crowdData(data) {
   // Pick a collection that actually contains your published notes
