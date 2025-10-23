@@ -337,7 +337,7 @@ body {
 }
 
   #crowd-graph .people { position: absolute; left: 50%; top: 50%; transform-origin: 0 0; }
-  #crowd-graph .people img { transform: none; }
+  #crowd-graph .people img { transform: none; width: auto; }
 
 /* Optional inner padding ring */
 #crowd-graph .crowd-body::before {
@@ -409,12 +409,36 @@ body {
   margin-right: 5px;
 }
 
+  /* Ring backgrounds (bands); each ring positioned by inline style */
+#crowd-graph .ring {
+  position: absolute;
+  border-radius: 50%;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+/* Band thickness and color per ring. We use a semi-transparent border to draw the band. */
+#crowd-graph .ring {
+  border: 12px solid transparent; /* default thickness; overridden by per-ring color */
+}
+  /* Colors per maturity/type */
+#crowd-graph .ring-child      { border-color: #7EC8E3; } /* light blue */
+#crowd-graph .ring-teen       { border-color: #F5A623; } /* orange */
+#crowd-graph .ring-adult      { border-color: #4CAF50; } /* green */
+#crowd-graph .ring-legacy     { border-color: #C9A227; } /* gold */
+#crowd-graph .ring-canon      { border-color: #B8860B; } /* bronze */
+#crowd-graph .ring-lackluster { border-color: #6B7280; } /* slate gray */
+#crowd-graph .ring-signpost   { border-color: #3B82F6; } /* blue */
+#crowd-graph .ring-stone      { border-color: #9CA3AF; } /* cool gray */
+#crowd-graph .ring-chest      { border-color: #8B5CF6; } /* violet */
+
+
 /* Responsive: shrink the circle and row radii on small screens */
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
     width: 360px;
     height: 360px;
-    margin: 12px auto;
+    // margin: 12px auto;
   }
   #crowd-graph .crowd-body::before { inset: 10px; }
 
@@ -428,6 +452,8 @@ body {
   #crowd-graph .crowd-row:nth-child(8)  { transform: translate(-50%, calc(-50% + 90px)); }
   #crowd-graph .crowd-row:nth-child(9)  { transform: translate(-50%, calc(-50% + 120px)); }
 }
+
+  
 
   .toc-container li::before {
     content: "" !important;
