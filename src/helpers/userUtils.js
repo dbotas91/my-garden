@@ -98,7 +98,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
   const rings = RING_ORDER.map((slug, idx) => {
     const R = radii[idx];
     const ringItems = shuffle(groups[slug].slice());
-    const N = Math.max(ingItems.length, 1);
+    const N = Math.max(ringItems.length, 1);
     const startAngle = -90 + (idx % 2 ? 8 : -8); // stagger starting angle per ring
     return ringItems.map((it, i) => {
       const angle = startAngle + (360 / N) * i;
