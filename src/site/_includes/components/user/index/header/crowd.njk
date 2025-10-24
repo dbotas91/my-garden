@@ -1,27 +1,27 @@
 <div id="crowd-graph">
   <div class="crowd-body">
     {% for row in userComputed.crowd.people %}
-      {% set any = row[0] %}
-      {% set rowCenter = any[6] | default(260) %}
-      {% set rowWidth  = any[7] | default(520) %}
-      {% set rowTop    = any[5] | default(60) %}
-      <div class="crowd-row"
-           style="top: {{ rowTop }}px; width: {{ rowWidth }}px;">
-        {% for people in row %}
+      {% for people in row %}
         {% if people[0] != 0 %}
-          {% set x = people[4] | default(260) %}
-          {% set offsetX = x - (rowCenter | default(260)) %}
-          <a class="people"
-             href="{{ people[1] | default('#') }}"
-             title="{{ people[2] | default(people[0]) }}"
-             style="left:50%; top:0; transform: translateX({{ offsetX }}px);">
-            <img src="/img/{{ people[0] | default('child') }}.svg"
-                 alt="{{ people[0] | default('child') }}"
-                 style="width:auto; height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
+          {% set slug     = people[0] %}
+          {% set href     = people[1] | default('#') %}
+          {% set title    = people[2] | default(slug) %}
+          {% set sizePx   = people[3] | default(35) %}
+          {% set xAbs     = people[4] | default(260) %}
+          {% set yAbs     = people[5] | default(60) %}
+          {% set centerX  = people[6] | default(260) %}
+          {% set offsetX  = xAbs - centerX %}
+
+          <a class="people people-{{ slug }}"
+             href="{{ href }}"
+             title="{{ title }}"
+             style="position:absolute; top: {{ yAbs }}px; left: 50%; transform: translateX({{ offsetX }}px);">
+            <img src="/img/{{ slug }}.svg"
+                 alt="{{ slug }}"
+                 style="width:auto; height:{{ sizePx }}px;">
           </a>
         {% endif %}
       {% endfor %}
-     </div>
     {% endfor %}
   </div>
 
