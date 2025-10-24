@@ -14,7 +14,7 @@
           <a class="people"
              href="{{ people[1] | default('#') }}"
              title="{{ people[2] | default(people[0]) }}"
-             style="left:calc(50% + {{ offsetX }}px;">
+             style="left:50%; top:0; transform: translateX({{ offsetX }}px);">
             <img src="/img/{{ people[0] | default('child') }}.svg"
                  alt="{{ people[0] | default('child') }}"
                  style="width:auto; height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
