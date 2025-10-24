@@ -311,19 +311,18 @@ body {
     display: block;
   }
 
-/* Top-arc fan layout, centered container, icons above legends */
+/* Hemiciclo estilo assembleia (U invertido) — container centrado, ícones acima, legends abaixo */
 
-/* Crowd block before page content */
 #crowd-graph {
   position: relative;
   margin-bottom: 24px;
 }
 
-/* Fan container: fixed width, centered, reserve height for arc */
+/* Dimensões (casar com width no JS) e altura suficiente para 3 fileiras */
 #crowd-graph .crowd-body {
   position: relative;
-  width: 520px;         /* must match width used in JS */
-  min-height: 260px;    /* enough to house the top semicircle */
+  width: 520px;
+  min-height: 360px;   /* R_OUTER + padding + margem superior */
   margin: 0 auto;
   padding: 0;
   background: transparent;
@@ -333,7 +332,7 @@ body {
   z-index: 2;
 }
 
-/* Anchors: positioned by inline top/y and horizontal translate from center */
+/* Anchors posicionados por top/translateX( offsetX ) */
 #crowd-graph .people {
   position: absolute;
   left: 50%;
@@ -346,7 +345,7 @@ body {
   width: auto;
 }
 
-/* Legends under the fan */
+/* Legends sob o hemiciclo */
 #crowd-graph .crowd-legends {
   position: relative;
   z-index: 1;
@@ -365,13 +364,14 @@ body {
   margin-right: 5px;
 }
 
-/* Mobile: shrink icons to perceptible sizes (override inline height) */
+/* Mobile: reduzir tamanhos com override por slug */
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
     width: 360px;
-    min-height: 220px;
+    min-height: 300px;
   }
-  /* Override inline icon heights using !important per slug */
+
+  /* Override inline heights */
   #crowd-graph .people-child img      { height: 15px !important; }
   #crowd-graph .people-teen img       { height: 18px !important; }
   #crowd-graph .people-adult img,
@@ -386,9 +386,10 @@ body {
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
 }
 
-/* Ensure no accidental stacking/overlay */
+/* Garantir que não há overlays antigos */
 #crowd-graph .crowd-body::before { content: none !important; }
 #crowd-graph, #crowd-graph * { mix-blend-mode: normal; }
+
 
   
 
