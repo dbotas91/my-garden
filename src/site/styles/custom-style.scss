@@ -311,32 +311,47 @@ body {
     display: block;
   }
 
-/* Correção de layout: ícones em cima, legends abaixo, conteúdo depois */
+/* custom-style.scss — crowd layout (paste this block as-is) */
 
-/* 1) Área do crowd antes do conteúdo */
+/* 1) Crowd area sits before page content */
 #crowd-graph {
   position: relative;
-  margin-bottom: 24px;    /* empurra o conteúdo para baixo */
+  margin-bottom: 24px; /* push content down */
 }
 
-/* 2) Container dos ícones sem formato visual */
+/* 2) Icon container: fixed width and centered; reserves vertical space */
 #crowd-graph .crowd-body {
-  position: relative;     /* âncora para posicionamento absoluto */
-  width: 100%;
-  min-height: 520px;
-  margin: 0 auto;
-  border: 0;
+  position: relative;
+  width: 520px;         /* must match width used in JS computations */
+  min-height: 520px;    /* reserve height for the pyramid rows */
+  margin: 0 auto;       /* center horizontally */
+  padding: 0;
   background: transparent;
+  border: 0;
+  border-radius: 0;
   overflow: visible;
-  z-index: 2;            /* acima das legends */
+  z-index: 2;           /* above legends and below icons */
+  opacity: 1;
+  filter: none;
+  transform: none;
+  will-change: auto;
 }
 
-/* 3) Ícones (anchors) por cima de tudo dentro do crowd */
+/* 3) Each row is absolutely positioned and centered inside crowd-body */
+#crowd-graph .crowd-row {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%); /* center the row block */
+  height: auto;
+}
+
+/* 4) Note icons are absolutely positioned inside the row by inline offsets */
 #crowd-graph .people {
-  position: absolute;     /* left/top vêm inline do NJK */
+  position: absolute;   /* inline style sets left/top per icon */
   top: 0;
   transform-origin: 0 0;
-  z-index: 3;            /* mais alto que .crowd-body e legends */
+  z-index: 3;           /* above container and legends */
+  pointer-events: auto; /* clickable */
 }
 
 #crowd-graph .people img {
@@ -344,10 +359,10 @@ body {
   width: auto;
 }
 
-/* 4) Legends logo abaixo dos ícones */
+/* 5) Legends under the icon area */
 #crowd-graph .crowd-legends {
-  position: relative;     /* não criar stacking context extra */
-  z-index: 1;             /* abaixo dos ícones, acima do conteúdo */
+  position: relative;   /* normal flow under crowd-body */
+  z-index: 1;           /* below icons */
   margin-top: 16px;
   display: flex;
   gap: 10px;
@@ -364,36 +379,36 @@ body {
   margin-right: 5px;
 }
 
-/* 5) Conteúdo principal abaixo do crowd + legends */
+/* 6) Page content remains below crowd + legends */
 body .content,
 .markdown-preview-view,
 .page-content,
 main {
   position: relative;
-  z-index: auto;             /* abaixo do crowd-graph e das legends */
+  z-index: auto; /* ensure content stays below crowd */
 }
 
-/* 6) Neutralizar estilos antigos de círculo/centro (pirâmide usa left/top absolutos) */
-#crowd-graph .crowd-row {
-  position: absolute;
-  height: auto;
-}
-
-/* 7) Remover pseudo-elementos do container (ex.: círculo tracejado antigo) */
+/* 7) Remove old circle pseudo element (if present) */
 #crowd-graph .crowd-body::before {
   content: none !important;
 }
 
-/* Avoid accidental stacking contexts that trap z-index */
-#crowd-graph .crowd-body {
-  opacity: 1; filter: none; transform: none; will-change: auto;
+/* 8) Avoid accidental stacking contexts trapping z-index */
+#crowd-graph,
+#crowd-graph * {
+  mix-blend-mode: normal;
 }
 
+/* 9) Responsive: smaller container */
 @media (max-width: 575.99px) {
-  #crowd-graph .crowd-body { width: 100%; min-height: 440px; }  /* smaller reserved area on mobile */
+  #crowd-graph .crowd-body {
+    width: 360px;
+    min-height: 440px;
+  }
   #crowd-graph { margin-bottom: 20px; }
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
 }
+
   
 
   .toc-container li::before {
