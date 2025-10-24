@@ -1,8 +1,8 @@
-// userUtils.js — Top-arc fan layout with per-maturity icon sizes
+// userUtils.js — Hemiciclo estilo assembleia (U invertido) com múltiplas fileiras
 
 const ORDER = ["child","teen","adult","legacy","canon","lackluster","signpost","stone","chest"];
 
-// Desktop icon heights by maturity/type
+// Tamanhos desktop
 const ICON_SIZE_DESKTOP = {
   child: 25,
   teen: 30,
@@ -15,14 +15,17 @@ const ICON_SIZE_DESKTOP = {
   chest: 35
 };
 
-// Resolve slug from frontmatter
+// Resolve slug da nota (noteIcon/dg-note-icon)
 function resolveIconSlug(n) {
   const raw = (n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "").toString().toLowerCase().trim();
   return raw || "signpost";
 }
 
+// Util: clamp
+function clamp(v, min, max) { return Math.max(min, Math.min(max, v)); }
+
+// Main
 function crowdData(data) {
-  // Choose a collection that contains your published notes
   const src =
     data.collections?.note ||
     data.collections?.pages ||
@@ -30,10 +33,10 @@ function crowdData(data) {
     data.collections?.all ||
     [];
 
-  // Collect items
+  // Notas com slug e tamanho desktop
   const items = src.map((n) => {
     const icon = resolveIconSlug(n);
-    const size = ICON_SIZE_DESKTOP[icon] ?? 35; // default to 35px on desktop
+    const size = ICON_SIZE_DESKTOP[icon] ?? 35;
     return {
       icon,
       url: n.url || "#",
@@ -42,7 +45,7 @@ function crowdData(data) {
     };
   });
 
-  // Group by maturity/type in fixed ORDER
+  // Agrupar por maturidade/type na ordem fixa
   const groups = {};
   for (const key of ORDER) groups[key] = [];
   for (const it of items) {
@@ -50,58 +53,96 @@ function crowdData(data) {
     groups[it.icon].push(it);
   }
 
-  // Build arc fan geometry
-  const width = 520;              // must match CSS crowd-body width
+  // Parâmetros do hemiciclo
+  const width = 520;               // deve casar com o CSS
   const centerX = width / 2;
   const padding = 24;
-  const R = 180;                  // arc radius
-  const arcCenterY = R + padding; // center of the arc circle
-  const ARC_START = -90;          // degrees (left/top)
-  const ARC_END = 90;             // degrees (right/top)
-  const ARC_SPAN = ARC_END - ARC_START;
 
-  // Compute total notes to allocate segment spans proportionally
-  const totalCount = ORDER.reduce((acc, k) => acc + (groups[k]?.length || 0), 0);
-  let cursorAngle = ARC_START;
+  // Arco de assembleia: U invertido (mais fechado que semicirculo)
+  const ARC_START = -150;          // graus (mais para a esquerda e acima)
+  const ARC_END   = -30;           // graus (mais para a direita e acima)
+  const ARC_SPAN  = ARC_END - ARC_START;
 
-  const placed = [];
-  ORDER.forEach((slug) => {
-    const list = groups[slug];
-    const C = list.length;
-    if (C === 0) return;
+  // Raios das fileiras (outer, middle, inner)
+  const R_OUTER  = 200;
+  const R_MIDDLE = 165;
+  const R_INNER  = 130;
 
-    const segmentSpan = ARC_SPAN * (C / Math.max(totalCount, 1));
-    // Distribute C icons evenly inside this segment
-    for (let i = 0; i < C; i++) {
-      const frac = (i + 0.5) / C; // center icons inside their segment
-      const angleDeg = cursorAngle + frac * segmentSpan;
+  // Centro vertical dos círculos (mais abaixo, para reservar espaço acima)
+  const arcCenterY = R_OUTER + padding + 20;
+
+  // Capacidade aproximada por fila (controla densidade; ajuste fino conforme notas)
+  // Baseado em circunferência parcial: capacidade ~ arco em radianos * raio / spacing
+  const spacingPx = 20; // espaçamento alvo entre ícones no arco
+  const spanRad = (ARC_SPAN * Math.PI) / 180;
+  const capOuter  = Math.max(10, Math.floor(spanRad * R_OUTER  / spacingPx));
+  const capMiddle = Math.max(8,  Math.floor(spanRad * R_MIDDLE / spacingPx));
+  const capInner  = Math.max(6,  Math.floor(spanRad * R_INNER  / spacingPx));
+
+  // Flatten itens numa lista mantendo grupos pela ORDER
+  const orderedItems = ORDER.flatMap(slug => groups[slug]);
+
+  // Alocação às filas por capacidade (balancing): preenche outer, depois middle, depois inner, ciclando
+  const rowsAlloc = { outer: [], middle: [], inner: [] };
+  let i = 0;
+  for (const it of orderedItems) {
+    // round-robin com respeito à capacidade
+    if (rowsAlloc.outer.length < capOuter) {
+      rowsAlloc.outer.push(it);
+    } else if (rowsAlloc.middle.length < capMiddle) {
+      rowsAlloc.middle.push(it);
+    } else if (rowsAlloc.inner.length < capInner) {
+      rowsAlloc.inner.push(it);
+    } else {
+      // já ultrapassou tudo; insere na fila com menor densidade no momento
+      const sizes = [
+        { key: "outer",  len: rowsAlloc.outer.length,  cap: capOuter  },
+        { key: "middle", len: rowsAlloc.middle.length, cap: capMiddle },
+        { key: "inner",  len: rowsAlloc.inner.length,  cap: capInner  }
+      ].sort((a,b) => (a.len/a.cap) - (b.len/b.cap));
+      rowsAlloc[sizes[0].key].push(it);
+    }
+    i++;
+  }
+
+  // Placing: cada fila é distribuída uniformemente no arco ARC_START..ARC_END
+  function placeRow(list, R) {
+    const placed = [];
+    const N = list.length;
+    if (N === 0) return placed;
+    // Se poucos itens, aumenta “padding angular” para evitar colagem nas extremidades
+    const padDeg = clamp(12 - N, 2, 12);      // padding maior quando N pequeno
+    const start = ARC_START + padDeg;
+    const end   = ARC_END   - padDeg;
+    const span  = end - start;
+
+    // Distribuição uniforme dentro do span
+    for (let idx = 0; idx < N; idx++) {
+      const frac = (idx + 0.5) / N;
+      const angleDeg = start + frac * span;
       const angleRad = angleDeg * Math.PI / 180;
 
       const x = centerX + R * Math.cos(angleRad);
-      const y = arcCenterY - R * Math.sin(angleRad); // upper semicircle
+      const y = arcCenterY - R * Math.sin(angleRad);
 
-      placed.push({
-        icon: slug,
-        url: list[i].url,
-        title: list[i].title,
-        size: list[i].size,
-        x,
-        y,
-        centerX // provide for NJK offset
-      });
+      const it = list[idx];
+      placed.push([it.icon, it.url, it.title, it.size, x, y, centerX]);
     }
+    return placed;
+  }
 
-    cursorAngle += segmentSpan;
-  });
+  const rowOuter  = placeRow(rowsAlloc.outer,  R_OUTER);
+  const rowMiddle = placeRow(rowsAlloc.middle, R_MIDDLE);
+  const rowInner  = placeRow(rowsAlloc.inner,  R_INNER);
 
-  // One “row” containing all anchors (keeps NJK structure consistent)
-  const singleRow = placed.map(p => [p.icon, p.url, p.title, p.size, p.x, p.y, centerX]);
+  // Legends
   const legends = ORDER
     .map(k => ({ label: k.charAt(0).toUpperCase() + k.slice(1), count: (groups[k]?.length || 0), icon: k }))
     .filter(l => l.count > 0);
 
   return {
-    people: [singleRow],  // array with one row: [icon, url, title, sizePx, x, y, centerX]
+    // três “rows” (outer, middle, inner) — cada item: [icon, url, title, sizePx, xAbs, yAbs, centerX]
+    people: [rowOuter, rowMiddle, rowInner].filter(r => r.length > 0),
     legends
   };
 }
