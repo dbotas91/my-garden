@@ -1,7 +1,7 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-distribuicoes-teoricas/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:58.268+01:00","updated":"2025-10-24T12:36:47.129+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-distribuicoes-teoricas/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:58.268+01:00","updated":"2025-10-24T16:04:16.746+01:00"}
 ---
- 
+
 
 ![](Dashboard/Attachments/icons_graduate%2029.png)
 

@@ -1,11 +1,8 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/applied-data-science-with-python-specialization-aa3d16b0efca47dc82f6e3877abbee06/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:40.975+01:00","updated":"2025-10-24T13:20:44.671+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/applied-data-science-with-python-specialization-aa3d16b0efca47dc82f6e3877abbee06/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:40.975+01:00","updated":"2025-10-24T16:05:01.984+01:00"}
 ---
- 
 
-📈
-
-# Applied Data Science with Python Specialization
+# 📈 Applied Data Science with Python Specialization
 
 |   |   |
 |---|---|

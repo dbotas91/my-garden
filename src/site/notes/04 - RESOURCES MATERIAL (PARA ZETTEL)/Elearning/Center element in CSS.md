@@ -1,7 +1,6 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/center-element-in-css/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.028+01:00","updated":"2025-10-24T13:21:03.513+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/center-element-in-css/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.028+01:00","updated":"2025-10-24T16:05:15.355+01:00"}
 ---
- 
 
 # Center element in CSS
 

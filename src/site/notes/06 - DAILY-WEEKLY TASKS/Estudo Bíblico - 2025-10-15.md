@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/estudo-biblico-2025-10-15/","dgPassFrontmatter":true,"noteIcon":"child","created":"2025-10-15T18:12:37.955+01:00","updated":"2025-10-18T20:42:20.295+01:00"}
+{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-2025-10-15/","dgPassFrontmatter":true,"created":"2025-10-15T18:12:37.955+01:00","updated":"2025-10-24T16:32:46.676+01:00"}
 ---
 
 2025-10-15 18:12

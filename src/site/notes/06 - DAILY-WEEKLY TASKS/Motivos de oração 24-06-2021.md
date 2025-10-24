@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","dgPassFrontmatter":true,"noteIcon":"child","created":"2025-10-16T10:30:01.235+01:00","updated":"2025-10-18T21:18:52.345+01:00"}
+{"tags":["2025-06"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","dgPassFrontmatter":true,"created":"2025-10-16T10:30:01.235+01:00","updated":"2025-10-24T16:33:31.119+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

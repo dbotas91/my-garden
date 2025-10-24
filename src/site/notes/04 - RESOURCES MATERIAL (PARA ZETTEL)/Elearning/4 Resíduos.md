@@ -1,7 +1,7 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-residuos/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:29.314+01:00","updated":"2025-10-24T12:36:33.909+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-residuos/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:29.314+01:00","updated":"2025-10-24T16:04:21.538+01:00"}
 ---
- 
+
 
 ![](Dashboard/Attachments/icons_notes--sentence%2015.png)
 
