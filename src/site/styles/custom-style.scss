@@ -311,58 +311,45 @@ body {
     display: block;
   }
 
-/* custom-style.scss — crowd layout (paste this block as-is) */
+/* Top-arc fan layout, centered container, icons above legends */
 
-/* 1) Crowd area sits before page content */
+/* Crowd block before page content */
 #crowd-graph {
   position: relative;
-  margin-bottom: 24px; /* push content down */
+  margin-bottom: 24px;
 }
 
-/* 2) Icon container: fixed width and centered; reserves vertical space */
+/* Fan container: fixed width, centered, reserve height for arc */
 #crowd-graph .crowd-body {
   position: relative;
-  width: 520px;         /* must match width used in JS computations */
-  min-height: 520px;    /* reserve height for the pyramid rows */
-  margin: 0 auto;       /* center horizontally */
+  width: 520px;         /* must match width used in JS */
+  min-height: 260px;    /* enough to house the top semicircle */
+  margin: 0 auto;
   padding: 0;
   background: transparent;
   border: 0;
   border-radius: 0;
   overflow: visible;
-  z-index: 2;           /* above legends and below icons */
-  opacity: 1;
-  filter: none;
-  transform: none;
-  will-change: auto;
+  z-index: 2;
 }
 
-/* 3) Each row is absolutely positioned and centered inside crowd-body */
-#crowd-graph .crowd-row {
+/* Anchors: positioned by inline top/y and horizontal translate from center */
+#crowd-graph .people {
   position: absolute;
   left: 50%;
-  transform: translateX(-50%); /* center the row block */
-  height: auto;
-}
-
-/* 4) Note icons are absolutely positioned inside the row by inline offsets */
-#crowd-graph .people {
-  position: absolute;   /* inline style sets left/top per icon */
-  top: 0;
   transform-origin: 0 0;
-  z-index: 3;           /* above container and legends */
-  pointer-events: auto; /* clickable */
+  z-index: 3;
+  pointer-events: auto;
 }
-
 #crowd-graph .people img {
   transform: none;
   width: auto;
 }
 
-/* 5) Legends under the icon area */
+/* Legends under the fan */
 #crowd-graph .crowd-legends {
-  position: relative;   /* normal flow under crowd-body */
-  z-index: 1;           /* below icons */
+  position: relative;
+  z-index: 1;
   margin-top: 16px;
   display: flex;
   gap: 10px;
@@ -372,52 +359,36 @@ body {
   font-size: 0.8em;
   color: var(--text-muted);
 }
-
 #crowd-graph .crowd-legends img {
   height: 1.5em;
   width: auto;
   margin-right: 5px;
 }
 
-/* 6) Page content remains below crowd + legends */
-body .content,
-.markdown-preview-view,
-.page-content,
-main {
-  position: relative;
-  z-index: auto; /* ensure content stays below crowd */
-}
-
-/* 7) Remove old circle pseudo element (if present) */
-#crowd-graph .crowd-body::before {
-  content: none !important;
-}
-
-/* 8) Avoid accidental stacking contexts trapping z-index */
-#crowd-graph,
-#crowd-graph * {
-  mix-blend-mode: normal;
-}
-
-/* 9) Responsive: smaller container */
+/* Mobile: shrink icons to perceptible sizes (override inline height) */
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
     width: 360px;
-    min-height: 440px;
+    min-height: 220px;
   }
+  /* Override inline icon heights using !important per slug */
+  #crowd-graph .people-child img      { height: 15px !important; }
+  #crowd-graph .people-teen img       { height: 18px !important; }
+  #crowd-graph .people-adult img,
+  #crowd-graph .people-legacy img,
+  #crowd-graph .people-canon img,
+  #crowd-graph .people-lackluster img,
+  #crowd-graph .people-signpost img,
+  #crowd-graph .people-stone img,
+  #crowd-graph .people-chest img      { height: 20px !important; }
+
   #crowd-graph { margin-bottom: 20px; }
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
-  /* reduce horizontal spacing between icons */
-  #crowd-graph .crowd-row .people {
-    margin-left: -30px; /* compress spacing a bit */
-    margin-right: -30px;
-  }
-  
-  #crowd-graph .people img {
-    transform: scale(0.8);            /* reduz para metade */
-    transform-origin: top left;       /* mantém a âncora no topo da linha */
-  }
 }
+
+/* Ensure no accidental stacking/overlay */
+#crowd-graph .crowd-body::before { content: none !important; }
+#crowd-graph, #crowd-graph * { mix-blend-mode: normal; }
 
   
 
