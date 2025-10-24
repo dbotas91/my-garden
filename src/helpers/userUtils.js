@@ -136,9 +136,10 @@ function crowdData(data) {
   //const orderedItems = ORDER.flatMap(slug => groups[slug]); // keep original order
   // Fila central: últimos 5 ícones centrados dentro do hemiciclo, um pouco acima
   //const last5 = orderedItems.slice(-5);
-  const last5 = ORDER.flatMap(slug => groups[slug]).slice(-5);
+  //const last5 = ORDER.flatMap(slug => groups[slug]).slice(-5);
+  const last7 = ORDER.flatMap(slug => groups[slug]).slice(-7);
   let rowCenter = [];
-  if (last5.length > 0) {
+  if (last7.length > 0) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
     //const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
     //Move closer: reduce the inner gap from 20 -> 8 (brings them down towards inner arc)
@@ -146,10 +147,10 @@ function crowdData(data) {
     // offsets horizontais centrados (ajusta espaçamento conforme tamanhos; aqui ~32px)
     //const baseOffsets = [-64, -32, 0, 32, 64];
     // Tighter horizontal offsets: was [-64, -32, 0, 32, 64]
-    const baseOffsets = [-56, -28, 0, 28, 56];
+    const baseOffsets = [-84, -56, -28, 0, 28, 56, 84];
     // se menos de 5 ícones, recorta offsets ao comprimento atual
-    const offsets = baseOffsets.slice(0, last5.length);
-    rowCenter = last5.map((it, i) => {
+    const offsets = baseOffsets.slice(0, last7.length);
+    rowCenter = last7.map((it, i) => {
       const x = centerX + offsets[i];
       const size = ICON_SIZE_DESKTOP[it.icon] ?? 35;
       return [it.icon, it.url, it.title, size, x, yCenter, centerX];
