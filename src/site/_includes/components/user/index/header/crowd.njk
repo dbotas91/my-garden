@@ -10,7 +10,7 @@
           {% set xAbs     = people[4] | default(260) %}
           {% set yAbs     = people[5] | default(60) %}
           {% set centerX  = people[6] | default(260) %}
-          {% set offsetX  = xAbs - centerX %}
+          {% set offsetX  = xAbs - (centerX | default(260)) %}
 
           <a class="people people-{{ slug }}"
              href="{{ href }}"
