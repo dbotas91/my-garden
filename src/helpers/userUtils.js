@@ -69,7 +69,8 @@ function crowdData(data) {
   const arcCenterY = R_OUTER + padding - 10; // +40 para baixar um pouco o arco e evitar toque nas legends
     
   // Capacidades por fila (heurística)
-  const spacingPx = 22;
+  //const spacingPx = 22;
+  const spacingPx = 30;
   const spanRad = (ARC_SPAN * Math.PI) / 180;
   const capOuter  = Math.max(10, Math.floor(spanRad * R_OUTER  / spacingPx));
   const capMiddle = Math.max(8,  Math.floor(spanRad * R_MIDDLE / spacingPx));
@@ -103,7 +104,8 @@ function crowdData(data) {
     const placed = [];
     const N = list.length;
     if (N === 0) return placed;
-    const padDeg = clamp(12 - N, 2, 12);      // padding maior quando N é pequeno
+    //const padDeg = clamp(12 - N, 2, 12);      // padding maior quando N é pequeno
+    const padDeg = Math.max(2, Math.min(12, 12 - N));      // padding maior quando N é pequeno
     const start = ARC_START + padDeg;
     const end   = ARC_END   - padDeg;
     const span  = end - start;
@@ -126,19 +128,27 @@ function crowdData(data) {
   const rowMiddle = placeRow(rowsAlloc.middle, R_MIDDLE);
   const rowInner  = placeRow(rowsAlloc.inner,  R_INNER);
 
+  
+  // CENTRAL 5: closer to the hemicycle (lower vertical gap) and tighter horizontal spread
+  const orderedItems = ORDER.flatMap(slug => groups[slug]); // keep original order
   // Fila central: últimos 5 ícones centrados dentro do hemiciclo, um pouco acima
   const last5 = orderedItems.slice(-5);
   let rowCenter = [];
   if (last5.length > 0) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
-    const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
+    //const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
+    //Move closer: reduce the inner gap from 20 -> 8 (brings them down towards inner arc)
+    const yCenter = arcCenterY - (R_INNER - 8);
     // offsets horizontais centrados (ajusta espaçamento conforme tamanhos; aqui ~32px)
-    const baseOffsets = [-64, -32, 0, 32, 64];
+    //const baseOffsets = [-64, -32, 0, 32, 64];
+    // Tighter horizontal offsets: was [-64, -32, 0, 32, 64]
+    const baseOffsets = [-56, -28, 0, 28, 56];
     // se menos de 5 ícones, recorta offsets ao comprimento atual
     const offsets = baseOffsets.slice(0, last5.length);
     rowCenter = last5.map((it, i) => {
       const x = centerX + offsets[i];
-      return [it.icon, it.url, it.title, ICON_SIZE_DESKTOP[it.icon] ?? 35, x, yCenter, centerX];
+      CONST SIZE = ICON_SIZE_DESKTOP[it.icon] ?? 35;
+      return [it.icon, it.url, it.title, size, x, yCenter, centerX];
     });
   }
 
