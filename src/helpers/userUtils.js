@@ -70,7 +70,7 @@ function crowdData(data) {
     
   // Capacidades por fila (heurística)
   //const spacingPx = 22;
-  const spacingPx = 30;
+  const spacingPx = 40;
   const spanRad = (ARC_SPAN * Math.PI) / 180;
   const capOuter  = Math.max(10, Math.floor(spanRad * R_OUTER  / spacingPx));
   const capMiddle = Math.max(8,  Math.floor(spanRad * R_MIDDLE / spacingPx));
@@ -139,7 +139,7 @@ function crowdData(data) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
     //const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
     //Move closer: reduce the inner gap from 20 -> 8 (brings them down towards inner arc)
-    const yCenter = arcCenterY - (R_INNER - 8);
+    const yCenter = arcCenterY - (R_INNER - 4);
     // offsets horizontais centrados (ajusta espaçamento conforme tamanhos; aqui ~32px)
     //const baseOffsets = [-64, -32, 0, 32, 64];
     // Tighter horizontal offsets: was [-64, -32, 0, 32, 64]
