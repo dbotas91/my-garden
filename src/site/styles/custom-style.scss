@@ -323,9 +323,9 @@ body {
 #crowd-graph .crowd-body {
   position: relative;
   width: 520px;         /* deve casar com width no JS */
-  min-height: 420px;    /* aumentado para evitar que o hemiciclo "toque" nas legends */
+  min-height: 520px;    /* aumentado para evitar que o hemiciclo "toque" nas legends */
   margin: 0 auto;
-  padding: 0 0 8px;     /* ligeiro padding inferior */
+  padding: 0 0 24px;     /* ligeiro padding inferior */
   background: transparent;
   border: 0;
   border-radius: 0;
@@ -369,7 +369,8 @@ body {
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
     width: 360px;
-    min-height: 360px;   /* reservada para as 3 fileiras + fila central */
+    min-height: 420px;   /* reservada para as 3 fileiras + fila central */
+    padding-bottom: 20px;
   }
 
   /* Override por slug conforme pedido: child 15, teen 18, outros 20 */
@@ -384,7 +385,7 @@ body {
   #crowd-graph .people-chest img      { height: 20px !important; }
 
   #crowd-graph { margin-bottom: 20px; }
-  #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
+  #crowd-graph .crowd-legends { margin-top: 14px; font-size: 0.75em; gap: 8px; }
 }
 
 /* Garantir que não há overlays antigos */
