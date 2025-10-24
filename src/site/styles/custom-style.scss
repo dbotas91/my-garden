@@ -311,20 +311,21 @@ body {
     display: block;
   }
 
-/* Hemiciclo estilo assembleia (U invertido) — container centrado, ícones acima, legends abaixo */
+/* Hemiciclo centrado, icons por cima, legends abaixo; reserva altura para não sobrepor */
 
+/* Bloco do crowd antes do conteúdo */
 #crowd-graph {
   position: relative;
   margin-bottom: 24px;
 }
 
-/* Dimensões (casar com width no JS) e altura suficiente para 3 fileiras */
+/* Container: casar com width do JS e altura suficiente (evitar overlap com legends) */
 #crowd-graph .crowd-body {
   position: relative;
-  width: 520px;
-  min-height: 360px;   /* R_OUTER + padding + margem superior */
+  width: 520px;         /* deve casar com width no JS */
+  min-height: 420px;    /* aumentado para evitar que o hemiciclo "toque" nas legends */
   margin: 0 auto;
-  padding: 0;
+  padding: 0 0 8px;     /* ligeiro padding inferior */
   background: transparent;
   border: 0;
   border-radius: 0;
@@ -332,7 +333,7 @@ body {
   z-index: 2;
 }
 
-/* Anchors posicionados por top/translateX( offsetX ) */
+/* Anchors posicionados por top/translateX */
 #crowd-graph .people {
   position: absolute;
   left: 50%;
@@ -348,7 +349,7 @@ body {
 /* Legends sob o hemiciclo */
 #crowd-graph .crowd-legends {
   position: relative;
-  z-index: 1;
+  z-index: 1;           /* abaixo dos ícones */
   margin-top: 16px;
   display: flex;
   gap: 10px;
@@ -364,14 +365,14 @@ body {
   margin-right: 5px;
 }
 
-/* Mobile: reduzir tamanhos com override por slug */
+/* Mobile: reduzir tamanhos (override inline heights) e ajustar altura do container */
 @media (max-width: 575.99px) {
   #crowd-graph .crowd-body {
     width: 360px;
-    min-height: 300px;
+    min-height: 360px;   /* reservada para as 3 fileiras + fila central */
   }
 
-  /* Override inline heights */
+  /* Override por slug conforme pedido: child 15, teen 18, outros 20 */
   #crowd-graph .people-child img      { height: 15px !important; }
   #crowd-graph .people-teen img       { height: 18px !important; }
   #crowd-graph .people-adult img,
