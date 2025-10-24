@@ -409,12 +409,12 @@ main {
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
   /* reduce horizontal spacing between icons */
   #crowd-graph .crowd-row .people {
-    margin-left: -10px; /* compress spacing a bit */
-    margin-right: -10px;
+    margin-left: -20px; /* compress spacing a bit */
+    margin-right: -20px;
   }
   
   #crowd-graph .people img {
-    transform: scale(0.55);            /* reduz para metade */
+    transform: scale(0.7);            /* reduz para metade */
     transform-origin: top left;       /* mantém a âncora no topo da linha */
   }
 }
