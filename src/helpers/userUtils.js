@@ -73,7 +73,7 @@ function crowdData(data) {
     
   // Capacidades por fila (heurística)
   //const spacingPx = 22;
-  const spacingPx = 100;
+  const spacingPx = 200;
   const spanRad = (ARC_SPAN * Math.PI) / 180;
   const capOuter  = Math.max(10, Math.floor(spanRad * R_OUTER  / spacingPx));
   const capMiddle = Math.max(8,  Math.floor(spanRad * R_MIDDLE / spacingPx));
