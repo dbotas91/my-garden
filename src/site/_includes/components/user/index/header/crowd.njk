@@ -4,8 +4,9 @@
       {% set any = row[0] %}
       {% set rowCenter = any[6] | default(260) %}
       {% set rowWidth  = any[7] | default(520) %}
+      {% set rowTop    = any[5] | default(60) %}
       <div class="crowd-row"
-            style="position: absolute; left:50%; transform: translateX(-50%); top: {{ any[5] | default(60)px; width: {{rowWidth}}px;">
+           style="top: {{ rowTop }}px; width: {{ rowWidth }}px;">
         {% for people in row %}
         {% if people[0] != 0 %}
           {% set x = people[4] | default(260) %}
@@ -13,13 +14,14 @@
           <a class="people"
              href="{{ people[1] | default('#') }}"
              title="{{ people[2] | default(people[0]) }}"
-             style="position:absolute; left:calc(50% + {{ offsetX }}px; top:0;">
+             style="left:calc(50% + {{ offsetX }}px;">
             <img src="/img/{{ people[0] | default('child') }}.svg"
                  alt="{{ people[0] | default('child') }}"
                  style="width:auto; height:{{ 5 + (10 * (people[3] | default(3))) }}px;" />
           </a>
         {% endif %}
       {% endfor %}
+     </div>
     {% endfor %}
   </div>
 
