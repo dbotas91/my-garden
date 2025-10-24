@@ -66,7 +66,7 @@ function crowdData(data) {
   const R_INNER  = 230;
 
   // Centro vertical do círculo
-  const arcCenterY = R_OUTER + padding - 55; // +40 para baixar um pouco o arco e evitar toque nas legends
+  const arcCenterY = R_OUTER + padding - 255; // +40 para baixar um pouco o arco e evitar toque nas legends
     
   // Capacidades por fila (heurística)
   //const spacingPx = 22;
