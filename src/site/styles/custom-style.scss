@@ -325,10 +325,8 @@ body {
   width: 100%;
   min-height: 520px;
   margin: 0 auto;
-  padding: 0;
   border: 0;
   background: transparent;
-  border-radius: 0;
   overflow: visible;
   z-index: 2;            /* acima das legends */
 }
@@ -336,7 +334,6 @@ body {
 /* 3) Ícones (anchors) por cima de tudo dentro do crowd */
 #crowd-graph .people {
   position: absolute;     /* left/top vêm inline do NJK */
-  left: 0;                /* inline style irá sobrepor */
   top: 0;
   transform-origin: 0 0;
   z-index: 3;            /* mais alto que .crowd-body e legends */
@@ -378,10 +375,8 @@ main {
 
 /* 6) Neutralizar estilos antigos de círculo/centro (pirâmide usa left/top absolutos) */
 #crowd-graph .crowd-row {
-  position: static;
-  transform: none;
-  display: block;
-  left: auto; top: auto; gap: 0;
+  position: absolute;
+  height: auto;
 }
 
 /* 7) Remover pseudo-elementos do container (ex.: círculo tracejado antigo) */
@@ -395,7 +390,7 @@ main {
 }
 
 @media (max-width: 575.99px) {
-  #crowd-graph .crowd-body { min-height: 440px; }  /* smaller reserved area on mobile */
+  #crowd-graph .crowd-body { width: 100%; min-height: 440px; }  /* smaller reserved area on mobile */
   #crowd-graph { margin-bottom: 20px; }
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
 }
