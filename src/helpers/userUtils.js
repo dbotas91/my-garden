@@ -1,21 +1,5 @@
 // userUtils.js — Hemiciclo (U invertido) com 3 fileiras + fila central (últimos 5 ícones)
 
-// Arc (U invertido)
-const ARC_START = -150;
-const ARC_END   = -30;
-const ARC_SPAN  = ARC_END - ARC_START;
-
-// Row radii
-const R_OUTER  = 200;
-const R_MIDDLE = 165;
-const R_INNER  = 130;
-
-// Lift the whole arc upward to avoid touching legends
-// (previously: const arcCenterY = R_OUTER + padding + 40;)
-const arcCenterY = R_OUTER + padding - 10; // pull arc ~50px up relative to previous
-
-
-
 const ORDER = ["child","teen","adult","legacy","canon","lackluster","signpost","stone","chest"];
 
 // Tamanhos desktop
@@ -82,8 +66,8 @@ function crowdData(data) {
   const R_INNER  = 130;
 
   // Centro vertical do círculo
-  const arcCenterY = R_OUTER + padding + 40; // +40 para baixar um pouco o arco e evitar toque nas legends
-
+  const arcCenterY = R_OUTER + padding - 10; // +40 para baixar um pouco o arco e evitar toque nas legends
+    
   // Capacidades por fila (heurística)
   const spacingPx = 22;
   const spanRad = (ARC_SPAN * Math.PI) / 180;
