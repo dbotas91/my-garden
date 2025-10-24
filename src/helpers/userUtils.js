@@ -66,7 +66,7 @@ function crowdData(data) {
   const R_INNER  = 230;
 
   // Centro vertical do círculo
-  const arcCenterY = R_OUTER + padding - 5; // +40 para baixar um pouco o arco e evitar toque nas legends
+  const arcCenterY = R_OUTER + padding - 55; // +40 para baixar um pouco o arco e evitar toque nas legends
     
   // Capacidades por fila (heurística)
   //const spacingPx = 22;
@@ -139,7 +139,7 @@ function crowdData(data) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
     //const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
     //Move closer: reduce the inner gap from 20 -> 8 (brings them down towards inner arc)
-    const yCenter = arcCenterY - (R_INNER - 300);
+    const yCenter = arcCenterY - (R_INNER - 100);
     // offsets horizontais centrados (ajusta espaçamento conforme tamanhos; aqui ~32px)
     //const baseOffsets = [-64, -32, 0, 32, 64];
     // Tighter horizontal offsets: was [-64, -32, 0, 32, 64]
