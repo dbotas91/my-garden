@@ -130,9 +130,10 @@ function crowdData(data) {
 
   
   // CENTRAL 5: closer to the hemicycle (lower vertical gap) and tighter horizontal spread
-  const orderedItems = ORDER.flatMap(slug => groups[slug]); // keep original order
+  //const orderedItems = ORDER.flatMap(slug => groups[slug]); // keep original order
   // Fila central: últimos 5 ícones centrados dentro do hemiciclo, um pouco acima
-  const last5 = orderedItems.slice(-5);
+  //const last5 = orderedItems.slice(-5);
+  const last5 = ORDER.flatMap(slug => groups[slug]).slice(-5);
   let rowCenter = [];
   if (last5.length > 0) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
