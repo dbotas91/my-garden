@@ -1,7 +1,7 @@
 // Put your computations here.
 
 // Shuffle, chunk, grid position helpers (kept from your code)
-function shuffle(a) {
+/*function shuffle(a) {
   for (i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
@@ -55,7 +55,7 @@ const maturityScale = {
 }*/
 
 // Legend labels (people-centric set)
-const noteLabels = {
+/*const noteLabels = {
   child:      { label: "Child",    count: 0, icon: "child" },
   teen:       { label: "Teen",     count: 0, icon: "teen" },
   adult:      { label: "Adult",    count: 0, icon: "adult" },
@@ -131,7 +131,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
   });
 
   return { rings, radii, ringDecor };*/
-}
+//}
 
 // Distribute items around a circle by assigning angle (deg) and radius (px) per item.
 // rows: array of arrays (your people grid), centerRadius: max radius from center,
@@ -154,7 +154,7 @@ function buildRings(items, circleDiameter = 520, padding = 24, innerGap = 36) {
 
 // rows: array of rows (each row = array of [icon, url, title, factor])
 // circleDiameter: container diameter in px
-function distributePolar(rows, circleDiameter = 520, padding = 24, innerGap = 28) {
+/*function distributePolar(rows, circleDiameter = 520, padding = 24, innerGap = 28) {
   const cx = circleDiameter / 2;
   const maxRadius = cx - padding;                 // keep inside circle border
   const minRadius = Math.max(innerGap, 0);        // keep away from exact center
@@ -401,6 +401,134 @@ function crowdData(data) {
   return result;*/
 //}
 
+// userUtils.js — centered pyramid rows with centerX and rowWidth
+
+// Shuffle helper
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// Maturity/type order for tie-breaks (inner to outer preference, used only for ordering)
+const RING_ORDER = ["child","teen","adult","legacy","canon","lackluster","signpost","stone","chest"];
+
+// Height scaling factor (height = 5 + 10 * factor) — use as-is with your icons
+const maturityScale = {
+  child: 2,
+  teen: 3,
+  adult: 4,
+  legacy: 5,
+  canon: 5,
+  lackluster: 3,
+  signpost: 3,
+  stone: 3,
+  chest: 3
+};
+
+// Resolve slug from note frontmatter
+function resolveIconSlug(n) {
+  const raw = (n?.data?.noteIcon ?? n?.data?.["dg-note-icon"] ?? "").toString().toLowerCase().trim();
+  const icon = raw || "signpost"; // default if missing
+  const factor = maturityScale[icon] ?? 3;
+  return { icon, factor };
+}
+
+function crowdData(data) {
+  // Choose a collection that contains published notes
+  const src =
+    data.collections?.note ||
+    data.collections?.pages ||
+    data.collections?.posts ||
+    data.collections?.all ||
+    [];
+
+  // Collect items
+  const items = src.map((n) => {
+    const { icon, factor } = resolveIconSlug(n);
+    return {
+      icon,
+      url: n.url || "#",
+      title: (n.data && n.data.title) || n.fileSlug || icon,
+      factor: Number.isFinite(factor) ? factor : 3
+    };
+  });
+
+  // Group by icon (ring key)
+  const groups = {};
+  for (const key of RING_ORDER) groups[key] = [];
+  for (const it of items) {
+    if (!groups[it.icon]) groups[it.icon] = [];
+    groups[it.icon].push(it);
+  }
+
+  // Sort rings by count DESC; tie-break by RING_ORDER index ASC
+  const sortedRings = Object.keys(groups)
+    .map(k => ({ key: k, count: groups[k].length, order: RING_ORDER.indexOf(k) }))
+    .filter(r => r.count > 0)
+    .sort((a, b) => {
+      if (b.count !== a.count) return b.count - a.count;
+      return a.order - b.order;
+    });
+
+  // Layout: inverted pyramid (top row widest), centered rows
+  const width = 520;     // must match CSS crowd-body width
+  const height = 520;    // logical height for spacing (min-height in CSS)
+  const padding = 24;
+  const usableWidth = width - padding * 2;
+
+  const rowGap = 48;     // vertical spacing between rows
+  const topY = padding + 40; // starting Y offset
+  const maxRows = Math.max(sortedRings.length, 1);
+  const centerX = width / 2;
+
+  const rows = [];
+  sortedRings.forEach((ring, idx) => {
+    const itemsInRow = groups[ring.key];
+    const N = itemsInRow.length;
+
+    // Row Y position (top to bottom)
+    const y = topY + idx * rowGap;
+
+    // Row width taper: 95% → 55% of usableWidth linearly
+    const t = maxRows > 1 ? idx / (maxRows - 1) : 0; // 0..1
+    const rowWidth = usableWidth * (0.95 - t * 0.40);
+    const leftX = (width - rowWidth) / 2;
+
+    // Horizontal spacing across rowWidth (with small gutters)
+    const gutter = 8;
+    const segment = N > 1 ? (rowWidth - gutter * (N - 1)) / N : rowWidth;
+    const iconCenters = [];
+    for (let i = 0; i < N; i++) {
+      const xStart = leftX + i * (segment + gutter);
+      const xCenter = xStart + segment / 2;
+      iconCenters.push(xCenter);
+    }
+
+    // Build row items with centerX and rowWidth included
+    const row = itemsInRow.map((it, i) => {
+      const x = iconCenters[i];
+      // Return [icon, url, title, factor, x, y, centerX, rowWidth]
+      return [it.icon, it.url, it.title, it.factor, x, y, centerX, rowWidth];
+    });
+
+    rows.push(row);
+  });
+
+  // Legends in sorted order
+  const legends = sortedRings.map(r => ({
+    label: r.key.charAt(0).toUpperCase() + r.key.slice(1),
+    count: r.count,
+    icon: r.key
+  }));
+
+  return {
+    people: rows,  // array of rows; each row is array of [icon, url, title, factor, x, y, centerX, rowWidth]
+    legends
+  };
+}
 function userComputed(data) {
   return {
     crowd: crowdData(data)
