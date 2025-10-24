@@ -303,7 +303,8 @@ function crowdData(data) {
     // Convert to template array [icon, url, title, factor, x, y]
     const row = itemsInRow.map((it, i) => {
       const x = iconCenters[i];
-      return [it.icon, it.url, it.title, it.factor, x, y];
+      const centerX = width / 2;
+      return [it.icon, it.url, it.title, it.factor, x, y, centerX, rowWidth];
     });
 
     rows.push(row);
