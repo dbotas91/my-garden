@@ -1,75 +1,77 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-distribuicoes-teoricas-discretas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:27.184+01:00","updated":"2025-10-24T12:36:41.743+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/6-distribuicoes-teoricas-continuas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:55.511+01:00","updated":"2025-10-24T13:19:21.176+01:00"}
 ---
- 
 
-![](Dashboard/Attachments/icons_notes--sentence%2014.png)
 
-# 4. Distribuições Teóricas Discretas
+![](Dashboard/Attachments/icons_notes--sentence%2020.png)
+
+# 6. Distribuições Teóricas Contínuas
 
 |   |   |
 |---|---|
-|![](Dashboard/Attachments/arrow-northeast_gray%201185.svg)Subject|[![](Dashboard/Attachments/icons_graduate%2014.png)4. Distribuições Teóricas](../Subjects/4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%209a10eaba10f74467ae7119be5e92ac2f.html)|
-|![](Dashboard/Attachments/calendar_gray%201247.svg)Date Created|@June 16, 2022|
-|![](Dashboard/Attachments/checkmark-square_gray%20666.svg)To Review?||
-|![](Dashboard/Attachments/formula_gray%20485.svg)Review Due||
-|![](Dashboard/Attachments/clock_gray%20117.svg)Last Edited|@June 28, 2022 12:33 PM|
+|![](Dashboard/Attachments/arrow-northeast_gray%201191.svg)Subject|[![](Dashboard/Attachments/icons_graduate%2020.png)4. Distribuições Teóricas](../Subjects/4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%209a10eaba10f74467ae7119be5e92ac2f.html)|
+|![](Dashboard/Attachments/calendar_gray%201253.svg)Date Created|@June 16, 2022|
+|![](Dashboard/Attachments/checkmark-square_gray%20672.svg)To Review?||
+|![](Dashboard/Attachments/formula_gray%20491.svg)Review Due||
+|![](Dashboard/Attachments/clock_gray%20123.svg)Last Edited|@June 29, 2022 11:15 AM|
 
-[Distribuição Uniforme Discreta;](#e9ca5776-6730-4001-89f3-03809871e863)
+[Distribuição Exponencial](#66ce0dcb-8789-415a-8add-5536c55ce5c1)
 
-[Definição](#e5d20fa7-7606-4dc7-8e1a-ab53d8269171)
+[Definição](#5e1da7db-218f-4037-8d04-de5c6e167f28)
 
-[Teorema](#0f437911-e7f0-4f6a-b2a0-a65be20ff83c)
+[Teorema](#14b41f01-8c2d-4b8f-9a2b-8299a8d4fb7d)
 
-[Caso Particular](#91902e9f-9b2e-43cd-9d13-9ceb8c2fe84d)
+[Propriedade: “Falta de Memória”](#20a904c3-d738-448c-b73e-42cbb9e836a3)
 
-[Exemplo 10](#b201f231-022a-44ca-ab48-2be3c0719a71)
+[Exemplo 20](#ede851a3-3195-4dec-889c-4df64786c38c)
 
-[Exemplo 11](#5a7bc882-cc87-460c-bff7-b36770f2b828)
+[Relação entre a Distribuição Exponencial e a Distribuição de Poisson](#56c12f14-0286-4934-a4bd-4aac98d367c1)
 
-[Exemplo 12](#38e4159a-d9b4-4fcf-955a-6772e4a44fb0)
+[Exemplo 21](#2e90407c-8021-4eca-b4be-e9abffd6dd29)
 
-[Distribuição Binomial](#dc610500-25f2-465f-b7c8-6365c5a51935)
+[Exemplo 22](#0309bc63-377f-4d98-b1fe-3ffcf3065b1e)
 
-[Provas de Bernoulli](#7dc2c3b9-b062-4ecb-a51b-16fc95acaa97)
+[Distribuição Binomial](#0118be0e-c5b3-47fb-97eb-54cda1bc9963)
 
-[Exemplo 13](#d955bbd2-9f2f-4bc7-aac5-08e8dfda4087)
+[Provas de Bernoulli](#a357d23f-0029-4dd2-b65c-656d321bbc23)
 
-[Experiência Binomial](#6322cdbf-886a-4d71-bcc0-b116eb7fe07c)
+[Exemplo 13](#92af9b9e-9d0e-4265-a8ed-64400011f7d7)
 
-[Exemplo 14](#61b0ce9b-aa16-42be-a1d6-8bbeaad33998)
+[Experiência Binomial](#7fb2dca2-5c53-4f88-8dc4-fe180ca1b15b)
 
-[Definição](#5939a8b3-a8ec-4f70-8b7e-a3903f8e224b)
+[Exemplo 14](#f56e8876-da1f-4695-b828-c46c6c420a8e)
 
-[Exemplo 14](#3c86187d-18a7-4b7f-9958-ef0069558bfd)
+[Definição](#040c0be0-4ba8-460a-9528-a2e24b611baf)
 
-[Teorema](#360c1837-ccd4-44cb-95cc-ca7c73c2d5e6)
+[Exemplo 14](#91767461-67b8-4cf9-9b5c-2d4c9c8d1802)
 
-[Observação](#8acce574-0114-4799-8962-1ed741a7f97f)
+[Teorema](#15d02519-0b08-455c-8c18-47abe5df7de1)
 
-[Exemplo 14](#5f540bfe-ace5-4bcd-9a6a-5661ed39cc34)
+[Observação](#f787dea8-ddfd-4d74-ba90-5f13e201e562)
 
-[Propriedade: Aditividade da Binomial](#1b64bc5f-971f-46a2-9b60-5986354ea0bd)
+[Exemplo 14](#f59c364b-5629-4de3-b4dd-baf9f06ae873)
 
-[Exemplo 15](#6a680702-9b12-4208-8bfb-73068a061344)
+[Propriedade: Aditividade da Binomial](#1b499a95-a384-46dd-800c-cccc66fc5119)
 
-[Distribuição de Poisson](#ce78854d-ac7e-4e86-ab0f-f827e97cbf08)
+[Exemplo 15](#9cd7be4e-d118-4e8a-985e-860076a2c2a9)
 
-[Processo de Poisson](#8fa126ba-e4f1-49a7-bf49-9fc245702ca4)
+[Distribuição de Poisson](#c16fe4b7-1bf3-4f5f-8af3-e1810c263d61)
 
-[Definição](#f5dc1bbd-32f4-44cc-9fa6-51b0c0bb8ae7)
+[Processo de Poisson](#ac7c1de2-3d85-4d7f-8e46-648570b5f608)
 
-[Exemplo 16](#84c8887d-f17d-4b01-a7ae-912455402e10)
+[Definição](#5dfbb5ac-d6e1-45f0-a9d4-96020a7ae783)
 
-[Teorema](#c06bb310-53b1-4849-9f11-3b0273d8df70)
+[Exemplo 16](#46d4aadd-029f-4c28-9b21-0d90e21789b2)
 
-[Propriedade: Aditividade da Poisson](#0de5c5ef-bed1-48cd-bfaf-703d8cb4c077)
+[Teorema](#556cd56d-93fc-4f82-baeb-a0295cceea5b)
 
-[Exemplo 17](#3cf104f3-b4eb-4f75-be5a-ccf9fadd6792)
+[Propriedade: Aditividade da Poisson](#ae4feab4-8667-4d86-afb6-67663341f455)
 
-[Teorema](#dd23439e-0605-4886-ad5d-28a2617fede8)
+[Exemplo 17](#bdf1f039-5436-492e-9c17-587e259ac6f9)
 
-[Observação](#0b12e45e-4581-4cc5-8b64-f02a52ac96d5)
+[Teorema](#ad2dd2f8-3e38-420e-8495-1dd661ff6be8)
+
+[Observação](#451caf07-b114-436a-9080-d920a7350188)
 
 Vamos analisar pormenorizadamente três modelos probabilísticos ou, como é usual dizer, três Distribuições Teóricas Discretas:
 
@@ -79,161 +81,173 @@ Vamos analisar pormenorizadamente três modelos probabilísticos ou, como é usu
 
 - Distribuição de Poisson.
 
-# Distribuição Uniforme Discreta;
+# Distribuição Exponencial
 
 ## Definição
 
-Diz-se que uma variável aleatória discreta XXX﻿ definida em DX={x1,x2,…,xn}D_X = \{ x_1, x_2, …, x_n \}DX​={x1​,x2​,…,xn​}﻿ tem distribuição Uniforme Discreta e representa-se por  
-X∼U(n)X \sim U_{(n)}X∼U(n)​﻿
+Diz-se que uma variável aleatória discreta XXX﻿ tem **distribuição Exponencial** com o parâmetro θ\thetaθ﻿ (fixo),  
+X∼Exp(θ)X \sim Exp(\theta)X∼Exp(θ)﻿
 
-se ==assume em todos os== ==nnn==﻿ ==pontos do seu domínio a mesma probabilidade==, ou seja, se a sua função de probabilidade é dada por
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|xxx|x1x_1x1​|x2x_2x2​|…|xnx_nxn​|
-|f(x)f(x)f(x)|1n\frac {1}{n}n1​|1n\frac {1}{n}n1​|…|1n\frac {1}{n}n1​|
-
-ou, de forma análoga,
-
-f(x)=P(X=x)={1n  ,x∈DX0  , caso contraˊriof(x) = P(X=x)= \begin{cases} \frac {1}{n} \ \ , x \in D_X \\ 0 \ \ \text {, caso contrário} \end{cases}f(x)=P(X=x)={n1​  ,x∈DX​0  , caso contraˊrio​﻿
+se a sua função densidade de probabilidade é dada por f(x)={0        ,x<01θe−xθ ,x≥0f(x) = \begin{cases} 0 \ \ \ \ \ \ \ \ , x<0 \\ \frac{1}{\theta} e^{-\frac{x}{\theta}} \ , x≥0\end{cases} f(x)={0        ,x<0θ1​e−θx​ ,x≥0​﻿ ,θ>0, \theta >0,θ>0﻿
 
 e a sua função de distribuição é dada por
 
-F(x)=P(X≤x)=∑xi≤xf(xi)=∑xi≤x1n={0  , x<x11n  , x1≤x<x22n  , x2≤x<x33n  , x3≤x<x4…  …n−1n  , xn−1≤x<xn1  , x ≥xnF(x) = P(X ≤ x) = \sum_{x_i ≤ x} f(x_i) = \sum_{x_i≤x} \frac {1}{n} = \begin{cases} 0 \ \ \text{, $x<x_1$} \\ \frac {1}{n} \ \ \text {, $x_1 ≤ x < x_2$} \\ \frac {2}{n} \ \ \text{, $x_2 ≤ x < x_3$} \\ \frac {3}{n} \ \ \text{, $x_3 ≤ x < x_4$} \\ … \ \ … \\ \frac {n-1}{n} \ \ \text {, $x_{n-1} ≤ x < x_n$} \\ 1 \ \ \text{, $x$ $\geq x_n$} \end{cases}F(x)=P(X≤x)=∑xi​≤x​f(xi​)=∑xi​≤x​n1​=⎩⎨⎧​0  , x<x1​n1​  , x1​≤x<x2​n2​  , x2​≤x<x3​n3​  , x3​≤x<x4​…  …nn−1​  , xn−1​≤x<xn​1  , x ≥xn​​﻿
+F(x)=P(X≤x)={0  , x<x11−e−xθ  , x ≥xnF(x) = P(X ≤ x) = \begin{cases} 0 \ \ \text{, $x<x_1$}\\ 1-e^{-\frac{x}{\theta}} \ \ \text{, x $\geq x_n$} \end{cases}F(x)=P(X≤x)={0  , x<x1​1−e−θx​  , x ≥xn​​﻿ ,θ>0, \theta > 0,θ>0﻿
+
+Habitualmente diz-se apenas que a variável aleatória XXX﻿ tem Distribuição Exponencial de parâmetro θθθ﻿, X∼Exp(θ)X ∼ Exp(θ)X∼Exp(θ)﻿, mas é necessário ter em atenção que é **Distribuição Exponencial Negativa**, pois a sua função densidade de probabilidade é escrita à custa da função exponencial mas com expoente negativo:
+
+f(x)={0        ,x<01θe−xθ ,x≥0f(x) = \begin{cases} 0 \ \ \ \ \ \ \ \ , x<0 \\ \frac{1}{\theta} e^{-\frac{x}{\theta}} \ , x≥0\end{cases} f(x)={0        ,x<0θ1​e−θx​ ,x≥0​﻿ ,θ>0, \theta >0,θ>0﻿
+
+[![](Dashboard/Attachments/1441C83D-CD60-4450-8404-2675D353EE37.jpeg)](6%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Cont%C3%ADnuas/1441C83D-CD60-4450-8404-2675D353EE37.jpeg)
+
+A função de distribuição de uma variável aleatória contínua X∼Exp(θ)X ∼ Exp(θ)X∼Exp(θ)﻿, não tem o aspeto usual: o último ramo ser igual a 1.
+
+F(x)=P(X≤x)={0  , x<x11−e−xθ  , x ≥xnF(x) = P(X ≤ x) = \begin{cases} 0 \ \ \text{, $x<x_1$}\\ 1-e^{-\frac{x}{\theta}} \ \ \text{, x $\geq x_n$} \end{cases}F(x)=P(X≤x)={0  , x<x1​1−e−θx​  , x ≥xn​​﻿ ,θ>0, \theta > 0,θ>0﻿
+
+[![](Dashboard/Attachments/4D6E5F7A-D57B-4F6A-9BBE-92B63367F602.jpeg)](6%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Cont%C3%ADnuas/4D6E5F7A-D57B-4F6A-9BBE-92B63367F602.jpeg)
+
+Isso deve-se o facto do domínio (intervalo onde existe probabilidade diferente de zero) ser DX=[0,+∞[D_X = [0, +∞[DX​=[0,+∞[﻿, se calcularmos  
+lim⁡x→+∞F(x)=lim⁡x→+∞(1−e−xθ)=1−0=1\lim_{x → +\infty} F(x)= \lim_{x → +\infty} (1−e^{−\frac{x}{θ}} )=1−0=1 limx→+∞​F(x)=limx→+∞​(1−e−θx​)=1−0=1﻿  
+podemos ver que no ”valor máximo” do domínio a função de distribuição é 1.
 
 ## Teorema
 
-Se a variável aleatória XXX﻿ tem distribuição Uniforme Discreta, X∼U(n)X \sim U_{(n)}X∼U(n)​﻿, então  
-μ=E[X]=∑i=1nxif(xi)=∑i=1nxi×1n=1n∑i=1nxi\mu = E[X] = \sum_{i=1}^n x_if(x_i) = \sum_{i=1}^n x_i \times \frac {1}{n} = \frac {1}{n} \sum_{i=1}^n x_iμ=E[X]=∑i=1n​xi​f(xi​)=∑i=1n​xi​×n1​=n1​∑i=1n​xi​﻿  
+Se a variável aleatória XXX﻿ tem distribuição Uniforme Exponencial com parâmetro θ\thetaθ﻿, X∼Exp(θ)X \sim Exp(\theta)X∼Exp(θ)﻿,
+
+então  
+E[X]=θE[X] = \thetaE[X]=θ﻿  
 e  
-σ2=V[X]=∑i=1n(xi−μ)2f(xi)=∑i=1n(xi−μ)21n=1n∑i=1n(xi−μ)2=1n∑i=1nxi2−(1n∑i=1nxi)2\sigma^2 = V[X] = \sum_{i=1}^n (x_i - \mu)^2 f(x_i) = \sum_{i=1}^n (x_i - \mu)^2 \frac{1}{n} = \frac {1}{n} \sum_{i=1}^n (x_i - \mu)^2 = \frac {1}{n} \sum_{i=1}^n x_i^2 - (\frac {1}{n} \sum_{i=1}^n x_i)^2σ2=V[X]=∑i=1n​(xi​−μ)2f(xi​)=∑i=1n​(xi​−μ)2n1​=n1​∑i=1n​(xi​−μ)2=n1​∑i=1n​xi2​−(n1​∑i=1n​xi​)2﻿
+V[X]=θ2V[X] = \theta^2V[X]=θ2﻿
 
-E[X]=1n∑i=1nxiE[X] = \frac {1}{n} \sum_{i=1}^n x_iE[X]=n1​∑i=1n​xi​﻿ e V[X]=1n∑i=1nxi2−(1n∑i=1nxi)2V[X] = \frac {1}{n} \sum_{i=1}^n x_i^2 - (\frac {1}{n} \sum_{i=1}^n x_i)^2V[X]=n1​∑i=1n​xi2​−(n1​∑i=1n​xi​)2﻿
+## Propriedade: “Falta de Memória”
 
-## Caso Particular
+Seja X∼Exp(θ)X \sim Exp(\theta)X∼Exp(θ)﻿, então
 
-Se a variável aleatória XXX﻿, com distribuição Uniforme Discreta, está definida num conjunto de inteiros consecutivos, DX={a,a+1,a+2,…,b}D_X = \{ a, a+1, a+2, … , b \}DX​={a,a+1,a+2,…,b}﻿, então  
-E[X]=a+b2E[X] = \frac {a+b}{2}E[X]=2a+b​﻿ e V[X]=(b−a+1)2−112V[X] = \frac {(b - a + 1)^2 - 1}{12}V[X]=12(b−a+1)2−1​﻿
+P(X≥a+b∣X≥a)=P(X≥b),     a,b>0P(X≥a+b | X≥a)=P(X≥b),\ \ \ \ \ a,b>0P(X≥a+b∣X≥a)=P(X≥b),     a,b>0﻿.
 
-- Este método (definição clássica de probabilidade) só e possível por estarem a considerar (sem definir) que têm uma variável aleatória XXX﻿ que assume em todos os nnn﻿ pontos do seu domínio a mesma probabilidade, ou seja, uma variável aleatória XXX﻿ com distribuição Uniforme Discreta:  
-    X∼U(n)X \sim U_{(n)}X∼U(n)​﻿  
-    portanto todos esses exercícios foram feitos usando a distribuição uniforme discreta (só não foi usado este nome por estarem a trabalhar com acontecimentos em vez de variáveis aleatórias).
+Exemplo 20
 
-Exemplo 10
+O tempo de vida, em horas, de um certo tipo de componente eletrónico tem distribuição exponencial de parâmetro 100.
 
-Um sistema de comunicações de uma empresa possui 4 linhas externas. Admita que cada uma das possibilidades, em termos do numero de linhas externas em utilização, tem a mesma probabilidade de ocorrer.
+1. Qual o tempo de vida médio de um destes componentes?
 
-1. Indique e represente graficamente a função de probabilidade da variável aleatória numero de linhas externas em utilização.
+Considere a variável aleatória contínua:
 
-Seja XXX﻿ a variável aleatória discreta que representa o número de linhas externas em utilização, definida em DX={0,1,2,3,4}D_X = \{ 0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿.  
-O enunciado diz "Admita que cada uma das possibilidades, em termos do número de linhas externas em utilização, tem a mesma probabilidade de ocorrer", então XXX﻿ segue uma distribuição Uniforme Discreta com 5 elementos, ou seja,  
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿  
-Agora que identificámos o modelo, e fácil responder a questão:  
-XXX﻿ = número de linhas externas em utilização, com DX={0,1,2,3,4}D_X = \{ 0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿  
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿
+X=X =X=﻿ tempo de vida, em horas, de certo componente eletrónico
 
-função de probabilidade:
+com
 
-f(x)=P(X=x)f(x) = P(X=x)f(x)=P(X=x)﻿
+X∼Exp(100)X \sim Exp(100)X∼Exp(100)﻿
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|xxx|0|1|2|3|4|
-|f(x)f(x)f(x)|15\frac {1}{5}51​|15\frac {1}{5}51​|15\frac {1}{5}51​|15\frac {1}{5}51​|15\frac {1}{5}51​|
+pois θ=100\theta = 100θ=100﻿.
 
-⇔  f(x)={15  x∈DX0  , caso contraˊrio\Harr \ \ f(x)= \begin{cases} \frac {1}{5} \ \ x \in D_X \\ 0 \ \ \text{, caso contrário} \end{cases}⇔  f(x)={51​  x∈DX​0  , caso contraˊrio​﻿
+Portanto
 
-[![](Dashboard/Attachments/Untitled%2019.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled.png)
+E[X]=θ=100 horasE[X]=\theta = 100\ \text{horas}E[X]=θ=100 horas﻿
 
-2. Indique e represente graficamente a função de distribuição da variável aleatória número de linhas externas em utilização.
+2. Qual o desvio padrão do tempo de vida desses componentes?
 
-XXX﻿ = número de linhas externas em utilização, com DX={0,1,2,3,4}D_X = \{ 0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿
+X=X=X=﻿ tempo de vida, em horas, de certo componente eletrónico
 
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿
+X∼Exp(100)X \sim Exp(100)X∼Exp(100)﻿
 
-Função de distribuição: F(x)=P(X≤x)F(x) = P(X ≤ x)F(x)=P(X≤x)﻿
+Portanto σ2=V[X]=θ2=1002=10000\sigma^2 = V[X] = \theta^2 = 100^2=10000σ2=V[X]=θ2=1002=10000﻿ Horas2^22﻿
 
-[![](Dashboard/Attachments/Untitled%201%207.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%201.png)
+σ=V[X]=θ=100\sigma = \sqrt{V[X]} = \theta = 100σ=V[X]​=θ=100﻿ horas.
 
-Observação: Todos os "degraus" do gráfico da função de distribuição de uma distribuição Uniforme Discreta têm sempre a mesma altura. Neste caso 15\frac{1}{5}51​﻿.
+3. Qual a probabilidade de um destes componentes funcionar, sem falhas, pelo menos 200 horas?
 
-3. Qual a probabilidade do número de linhas externas em utilização ser inferior a 3 sabendo que existem linhas externas em utilização?
+Considere a variável aleatória contínua:
 
-P(X<3∣X>0)=P(X<3∧X>0)P(X>0)=P(0<X<3)1−P(X≤0)=f(1)+f(2)1−F(0)1−F(0)=15+151−15=12P (X < 3|X > 0) = \frac{P(X < 3 \wedge X > 0)}{P(X > 0)} = \frac{P(0 < X < 3)}{1 - P (X ≤ 0)} = \frac{f(1) + f(2)}{1- F(0)}{1 - F(0)} = \frac{\frac{1}{5} + \frac{1}{5}}{1 - \frac{1}{5}} = \frac{1}{2}P(X<3∣X>0)=P(X>0)P(X<3∧X>0)​=1−P(X≤0)P(0<X<3)​=1−F(0)f(1)+f(2)​1−F(0)=1−51​51​+51​​=21​﻿
+X=X=X=﻿ tempo de vida, em horas, de certo componente eletrónico
 
-4. Qual o número médio de linhas externas em utilização?
+X∼Exp(100)X\sim Exp(100)X∼Exp(100)﻿
 
-XXX﻿ = número de linhas externas em utilização, com DX={0,1,2,3,4}D_X = \{ 0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿
+Portanto
 
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿
+F(x)=P(X≤x)={0               ,x<01−e−x100 ,x≥0F(x) = P(X≤x) = \begin{cases} 0 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ , x<0 \\ 1-e^{-\frac{x}{100}} \ ,x≥0 \end{cases}F(x)=P(X≤x)={0               ,x<01−e−100x​ ,x≥0​﻿
 
-Como DX={0,1,2,3,4}D_X = \{ 0,1,2,3,4 \}DX​={0,1,2,3,4}﻿ são inteiros consecutivos, então podemos recorrer ao caso particular com a=0a=0a=0﻿ e b=4b=4b=4﻿:
+Pretende-se
 
-Se a variável aleatória X, com distribuição Uniforme Discreta, esta definida num conjunto de ==inteiros consecutivos==,  
-DX={a,a+1,a+2,…,b}D_X = \{ a, a + 1, a + 2, … , b \}DX​={a,a+1,a+2,…,b}﻿, então
+P(X≥200)=1−P(X<200)=v.a. Contıˊnua1−F(200)=1−0.8647=0.1353P(X≥200) = 1- P(X<200) =_{\text{v.a. Contínua}} 1-F(200) = 1- 0.8647 = 0.1353P(X≥200)=1−P(X<200)=v.a. Contıˊnua​1−F(200)=1−0.8647=0.1353﻿
 
-E[X]=a+b2E[X] = \frac{a + b}{2}E[X]=2a+b​﻿ e V[X]=(b−a+1)2−112V[X] = \frac {(b-a+1)^2 - 1}{12}V[X]=12(b−a+1)2−1​﻿
+[![](Dashboard/Attachments/B52ECF2B-775F-487A-AAFA-DA2A3606A07C.jpeg)](6%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Cont%C3%ADnuas/B52ECF2B-775F-487A-AAFA-DA2A3606A07C.jpeg)
 
-E[X]=0+42=42=2E[X] = \frac {0+4}{2} = \frac{4}{2} = 2E[X]=20+4​=24​=2﻿ linhas externas
+4. Qual a probabilidade de um destes componentes funcionar, sem falhas, pelo menos 500 horas sabendo que já está a funcionar há pelo menos 300 horas?
 
-5. Qual o desvio padrão do número de linhas externas em utilização?
+Considere a variável aleatória contínua:
 
-XXX﻿ = número de linhas externas em utilização, com DX={0,1,2,3,4}D_X = \{ 0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿
+X=X=X=﻿ tempo de vida, em horas, de certo componente eletrónico
 
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿
+X∼Exp(100)X \sim Exp(100)X∼Exp(100)﻿
 
-Como DX={0,1,2,3,4}D_X = \{ 0,1,2,3,4 \}DX​={0,1,2,3,4}﻿ são inteiros consecutivos, então podemos recorrer ao caso particular com a=0a=0a=0﻿ e b=4b=4b=4﻿:
+Portanto
 
-Se a variável aleatória X, com distribuição Uniforme Discreta, esta definida num conjunto de ==inteiros consecutivos==,  
-DX={a,a+1,a+2,…,b}D_X = \{ a, a + 1, a + 2, … , b \}DX​={a,a+1,a+2,…,b}﻿, então
+F(x)=P(X≤x)={0               ,x<01−e−x100 ,x≥0F(x) = P(X≤x) = \begin{cases} 0 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ , x<0 \\ 1-e^{-\frac{x}{100}} \ ,x≥0 \end{cases}F(x)=P(X≤x)={0               ,x<01−e−100x​ ,x≥0​﻿
 
-E[X]=a+b2E[X] = \frac{a + b}{2}E[X]=2a+b​﻿ e V[X]=(b−a+1)2−112V[X] = \frac {(b-a+1)^2 - 1}{12}V[X]=12(b−a+1)2−1​﻿
+Logo
 
-variância: V[X]=(4−0+1)2−112=2412=2V[X] = \frac{(4-0+1)^2-1}{12} = \frac{24}{12} = 2V[X]=12(4−0+1)2−1​=1224​=2﻿ linhas externas2^22﻿
+P(X≥500∣X≥300)=(∗)P(X≥500−300)=P(X≥200)=0.1353P(X ≥ 500 | X≥300) =_{(*)} P(X≥500-300)=P(X≥200) = 0.1353P(X≥500∣X≥300)=(∗)​P(X≥500−300)=P(X≥200)=0.1353﻿
 
-desvio padrão: V[X]=2=1.414\sqrt{V[X]} = \sqrt{2} = 1.414V[X]​=2​=1.414﻿ linhas externas
+(∗)(*)(∗)﻿ Propriedade “Falta de memória” da distribuição Exponencial.
 
-Claro que as alíneas anteriores podiam ter sido calculadas com recurso as definições e propriedades que vimos para as Variáveis Aleatórias Discretas.  
-X∼U(5)X \sim U_{(5)}X∼U(5)​﻿, com DX={0,1,2,3,4}D_X = \{0, 1, 2, 3, 4 \}DX​={0,1,2,3,4}﻿  
-função de probabilidade:
+Claro que era possível calcular a probabilidade recorrendo à definição de probabilidade condicional:
 
-f(x)={15  ,x∈DX0  , caso contraˊriof(x) = \begin{cases} \frac{1}{5} \ \ , x \in D_X \\ 0 \ \ \text{, caso contrário} \end{cases}f(x)={51​  ,x∈DX​0  , caso contraˊrio​﻿
+P(X≥500∣X≥300)=P(X≥500∧X≥300)P(X≥300)=P(X≥500)P(X≥300)=1−P(X<500)1−P(X<300)=v.a. Contıˊnua1−F(500)1−F(300)=1−(1−e−500100)1−(1−e−300100)=0.1353P(X≥500|X≥300) = \frac{P(X≥500 \wedge X≥300)}{P(X≥300)}=\frac{P(X≥500)}{P(X≥300)}=\frac{1-P(X<500)}{1-P(X<300)} =_{\text{v.a. Contínua}}\frac{1-F(500)}{1-F(300)}=\frac{1-(1-e^{-\frac{500}{100}})}{1-(1-e^{-\frac{300}{100}})}=0.1353P(X≥500∣X≥300)=P(X≥300)P(X≥500∧X≥300)​=P(X≥300)P(X≥500)​=1−P(X<300)1−P(X<500)​=v.a. Contıˊnua​1−F(300)1−F(500)​=1−(1−e−100300​)1−(1−e−100500​)​=0.1353﻿
 
-[![](Dashboard/Attachments/Untitled%202%205.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%202.png)﻿Exemplo 11
+Recorrendo ao R:
 
-Seja XXX﻿ uma variável aleatória com distribuição Uniforme Discreta, definida no conjunto DX={3,6,9}D_X = \{ 3,6,9 \}DX​={3,6,9}﻿. Calcule o valor esperado e a variância da variável aleatória XXX﻿.
+F(300)=pexp(300,1100)=0.9502F(300) = pexp(300, \frac{1}{100}) = 0.9502F(300)=pexp(300,1001​)=0.9502﻿
 
-X∼U(3)X \sim U{(3)}X∼U(3)﻿ , com DX={3,6,9}D_X = \{ 3,6,9 \}DX​={3,6,9}﻿
+F(500)=pexp(500,1100)=0.9933F(500) = pexp(500, \frac{1}{100})=0.9933F(500)=pexp(500,1001​)=0.9933﻿
 
-Neste caso não e possível utilizar o "caso particular" pois DX={3,6,9}D_X = \{ 3, 6, 9 \}DX​={3,6,9}﻿, embora seja formado por inteiros, não são inteiros consecutivos.  
-No entanto como e possível escrever:
+## Relação entre a Distribuição Exponencial e a Distribuição de Poisson
 
-- 3=3×13 = 3 \times 13=3×1﻿
+Se
 
-- 3=3×23 = 3 \times 23=3×2﻿
+X∼P(λ)X \sim P(\lambda)X∼P(λ)﻿
 
-- 9=3×39 = 3 \times 39=3×3﻿
+X−X -X−﻿ número de ocorrências num intervalo de tempo ttt﻿
 
-então e possível considerar que X=3YX = 3YX=3Y﻿ e a variável aleatória YYY﻿ tem um comportamento probabilístico igual à variável XXX﻿, ou seja  
-Y∼U(3)Y \sim U_{(3)}Y∼U(3)​﻿
+λ=\lambda =λ=﻿ número médio de ocorrências num intervalo de tempo ttt﻿
 
-mas DY={1,2,3}D_Y = \{ 1,2,3 \}DY​={1,2,3}﻿.
+e
 
-Y∼U(3)Y \sim U_{(3)}Y∼U(3)​﻿, com DY={1,2,3}D_Y = \{1,2,3 \}DY​={1,2,3}﻿
+Y∼Exp(θ)Y \sim Exp(\theta)Y∼Exp(θ)﻿
 
-[![](Dashboard/Attachments/Untitled%203%204.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%203.png)
+Y−Y -Y−﻿ tempo de espera entre ocorrências sucessivas
 
-Claro que podia ter sido calculado por definição e com as propriedades que vimos nas Variáveis Aleatórias Discretas.
+θ=\theta=θ=﻿ tempo de espera médio entre ocorrências sucessivas,
 
-[![](Dashboard/Attachments/Untitled%204%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%204.png)
+Então
 
-Exemplo 12
+θ=tλ⇔λ=tθ\theta = \frac{t}{\lambda} \Harr \lambda = \frac{t}{\theta}θ=λt​⇔λ=θt​﻿
 
-Considere uma variável aleatória XXX﻿ que assume a mesma probabilidade em todos os pontos do conjunto {2,5,7,11}\{ 2, 5, 7, 11 \}{2,5,7,11}﻿. Calcule o valor esperado e a variância da variável aleatória XXX﻿.
+[![](Dashboard/Attachments/6DD85F79-3BD4-4AF8-A91B-996F89BEA132.jpeg)](6%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Cont%C3%ADnuas/6DD85F79-3BD4-4AF8-A91B-996F89BEA132.jpeg)
 
-[![](Dashboard/Attachments/Untitled%205%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%205.png)
+Exemplo 21
 
-[![](Dashboard/Attachments/Untitled%206%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%206.png)
+Uma máquina que funciona em contínuo tem, em média, 2 avarias por cada turno de 8 horas e o número de avarias segue uma distribuição de Poisson. Determine a probabilidade de que o tempo de avarias consecutivas na máquina seja superior a 5 horas.
+
+X=X =X=﻿ número de avarias por cada turno de 8 horas, com X∼P(2)X ∼ P (2)X∼P(2)﻿ pois E[X]=λ=2E[X] = λ = 2E[X]=λ=2﻿ avarias/turno.  
+Y=Y =Y=﻿ tempo, em horas, entre avarias consecutivas na máquina, com Y∼Exp(4)Y ∼ Exp (4)Y∼Exp(4)﻿ pois, recorrendo à relação entre as distribuições Poisson e Exponencial, tem-se  
+θ=λt=82=4θ = \frac{λ}{t} = \frac{8}{2} = 4θ=tλ​=28​=4﻿ horas/avaria. Como
+
+F(y)=P(Y≤Y)={0               ,Y<01−e−y4 ,y≥0F(y) = P(Y≤Y) = \begin{cases} 0 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ , Y<0 \\ 1-e^{-\frac{y}{4}} \ ,y≥0 \end{cases}F(y)=P(Y≤Y)={0               ,Y<01−e−4y​ ,y≥0​﻿
+
+Tem-se
+
+P(Y>5)=1−P(Y≤5)=1−FY(5)=1−(1−e−54)=0.2865P(Y>5) = 1 -P(Y≤5) = 1-F_Y(5) = 1 - (1-e^{-\frac{5}{4}})=0.2865P(Y>5)=1−P(Y≤5)=1−FY​(5)=1−(1−e−45​)=0.2865﻿Exemplo 22
+
+O tempo, em minutos, entre a chegada de utentes a um centro de saúde é uma variável aleatória Exponencial com média 90 segundos. Qual a probabilidade de chegarem pelo menos 3 utentes em 6 minutos?
+
+Y=Y =Y=﻿ tempo, em minutos, entre a chegada de utentes, com Y∼Exp(1.5)Y ∼ Exp(1.5)Y∼Exp(1.5)﻿ pois E[Y]=θ=9060=1.5E[Y] = \theta = \frac{90}{60} = 1.5E[Y]=θ=6090​=1.5﻿ minutos/chegada.  
+X=X =X=﻿ número de utentes que chegam em 6 minutos, com X∼P(4)X ∼ P(4)X∼P(4)﻿ pois, recorrendo à relação entre as distribuições Poisson e Exponencial, tem-se  
+λ=tθ=61.5=4\lambda = \frac{t}{\theta} = \frac{6}{1.5} = 4λ=θt​=1.56​=4﻿ chegadas/períodos de 6 minutos. Tem-se
+
+P(X>=3)=1−P(X<3)=1−P(X≤2)=1−FX(2)=1−0.2381=0.7619P(X>=3) = 1-P(X<3) = 1-P(X\leq 2)=1-F_X(2)=1-0.2381 = 0.7619P(X>=3)=1−P(X<3)=1−P(X≤2)=1−FX​(2)=1−0.2381=0.7619﻿
+
+[![](Dashboard/Attachments/Untitled%2028.png)](6%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Cont%C3%ADnuas/Untitled.png)﻿
 
 # Distribuição Binomial
 
@@ -335,15 +349,15 @@ função de distribuição F(x)=P(X≤x)F(x) = P(X≤x)F(x)=P(X≤x)﻿:
 
 F(x)={0     ,x<00.3164 ,0≤x<10.7383 ,1≤x<20.9492 ,2≤x<30.9961 ,3≤x<41     ,x≥4F(x) = \begin{cases} 0 \ \ \ \ \ , x<0 \\ 0.3164 \ ,0≤x<1 \\ 0.7383 \ ,1≤ x<2 \\ 0.9492 \ , 2≤ x <3 \\ 0.9961 \ ,3≤ x<4 \\ 1 \ \ \ \ \ ,x≥4 \end{cases}F(x)=⎩⎨⎧​0     ,x<00.3164 ,0≤x<10.7383 ,1≤x<20.9492 ,2≤x<30.9961 ,3≤x<41     ,x≥4​﻿
 
-[![](Dashboard/Attachments/Untitled%207%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%207.png)
+[![](Dashboard/Attachments/Untitled%207%205.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%207.png)
 
-[![](Dashboard/Attachments/Untitled%208%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%208.png)
+[![](Dashboard/Attachments/Untitled%208%204.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%208.png)
 
-[![](Dashboard/Attachments/Untitled%209%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%209.png)
+[![](Dashboard/Attachments/Untitled%209%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%209.png)
 
-[![](Dashboard/Attachments/Untitled%2010%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2010.png)
+[![](Dashboard/Attachments/Untitled%2010%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2010.png)
 
-[![](Dashboard/Attachments/Untitled%2011%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2011.png)
+[![](Dashboard/Attachments/Untitled%2011%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2011.png)
 
 Claro que ainda existe outra forma de fazer os cálculos das probabilidades da Distribuição Binomial:  
 4 tabelas com recurso a CALCULADORA  
@@ -367,9 +381,9 @@ E[X]=npE[X] = npE[X]=np﻿ e V[X]=npq=np(1−p)V[X] = npq = np(1-p)V[X]=npq=np(1
     
     - P(X≤k)=1−P(Y≤n−k−1)P(X≤k) = 1-P(Y≤ n - k -1)P(X≤k)=1−P(Y≤n−k−1)﻿, com k<nk <nk<n﻿.
 
-Esta observação é muito útil para utilizar as **tabelas da distribuição Binomial em papel**. As tabelas em papel só têm valores da probabilidade de sucesso ppp﻿ até ao 0.5.
+Esta observação ́é muito ́útil para utilizar as **tabelas da distribuição Binomial em papel**. As tabelas em papel só têm valores da probabilidade de sucesso ppp﻿ até ao 0.5.
 
-[![](Dashboard/Attachments/Untitled%2012%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2012.png)
+[![](Dashboard/Attachments/Untitled%2012%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2012.png)
 
 Exemplo 14
 
@@ -397,7 +411,7 @@ função de probabilidade fY(y)=P(Y=y)=P(X=n−y)f_Y(y) = P(Y=y) = P(X=n-y)fY​
 
 ## Propriedade: Aditividade da Binomial
 
-Sejam X1,X2,...,XkX_1,X_2,...,X_kX1​,X2​,...,Xk​﻿ variáveis aleatórias independentes com distribuição Binomial e com a mesma probabilidade de sucesso, isto é
+Sejam X_1,X_2,...,X_k variáveis aleatórias independentes com distribuição Binomial e com a mesma probabilidade de sucesso, isto é
 
 Xi∼B(ni,p)     i=1,...,k,X_i ∼ B(n_i,p) \ \ \ \ \ i= 1,...,k,Xi​∼B(ni​,p)     i=1,...,k,﻿
 
@@ -417,7 +431,7 @@ X∼B(5,0.10)X∼B(5,0.10) X∼B(5,0.10)﻿
 
 P(X=3)=f(3)=0.0081P(X= 3) =f(3) = 0.0081P(X=3)=f(3)=0.0081﻿
 
-[![](Dashboard/Attachments/Untitled%2013%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2013.png)
+[![](Dashboard/Attachments/Untitled%2013%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2013.png)
 
 2. Calcule a probabilidade de mais de 2 testes serem falsos negativos.
 
@@ -427,7 +441,7 @@ X∼B(5,0.10)X \sim B(5,0.10)X∼B(5,0.10)﻿
 
 P(X>2)=1−P(X≤2)=1−F(2)=1−0.9914=0.0086P(X>2) = 1- P(X≤2) = 1- F(2) = 1 - 0.9914 = 0.0086P(X>2)=1−P(X≤2)=1−F(2)=1−0.9914=0.0086﻿
 
-[![](Dashboard/Attachments/Untitled%2014%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2014.png)
+[![](Dashboard/Attachments/Untitled%2014%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2014.png)
 
 3. Calcule, em média, quantos dos 5 testes espera que sejam falsos negativos.
 
@@ -445,7 +459,7 @@ Y∼B(4,0.85)Y \sim B(4, 0.85)Y∼B(4,0.85)﻿
 
 P(Y=3)=fY(3)=0.3685P(Y=3) = f_Y(3) = 0.3685P(Y=3)=fY​(3)=0.3685﻿
 
-[![](Dashboard/Attachments/Untitled%2015%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2015.png)
+[![](Dashboard/Attachments/Untitled%2015%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2015.png)
 
 5. Se os testes forem efetuados num laboratório C, apenas 10% dos testes são falsos negativos. Considere 4 testes efetuados de uma forma independente no laboratório C. Calcule a probabilidade de, entre os 9 testes (5 do laboratório A e 4 do laboratório C), serem recebidos entre 4 e 6 testes (inclusive) falsos negativos.
 
@@ -459,9 +473,9 @@ T∼B(9,0.10)T \sim B(9, 0.10)T∼B(9,0.10)﻿
 
 P(4≤T≤6)=0.0083P(4≤ T ≤ 6) = 0.0083P(4≤T≤6)=0.0083﻿
 
-[![](Dashboard/Attachments/Untitled%2016%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2016.png)
+[![](Dashboard/Attachments/Untitled%2016%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2016.png)
 
-[![](Dashboard/Attachments/Untitled%2017%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2017.png)﻿
+[![](Dashboard/Attachments/Untitled%2017%203.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2017.png)﻿
 
 # Distribuição de Poisson
 
@@ -523,13 +537,13 @@ função de distribuição F(x) = P(X≤<):
 
 F(x)={0          ,x<00.8187 ,0≤x<10.9825 ,1≤x<20.9989 ,2≤x<30.9999 ,3≤x<4...         ,...F(x) = \begin{cases} 0 \ \ \ \ \ \ \ \ \ \ , x<0 \\ 0.8187 \ , 0≤ x<1 \\ 0.9825 \ , 1≤x<2 \\ 0.9989 \ , 2≤x<3 \\ 0.9999 \ ,3≤ x<4 \\ ... \ \ \ \ \ \ \ \ \ , ... \end{cases}F(x)=⎩⎨⎧​0          ,x<00.8187 ,0≤x<10.9825 ,1≤x<20.9989 ,2≤x<30.9999 ,3≤x<4...         ,...​﻿
 
-[![](Dashboard/Attachments/Untitled%2018%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2018.png)
+[![](Dashboard/Attachments/Untitled%2018%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2018.png)
 
-[![](Dashboard/Attachments/Untitled%2019%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2019.png)
+[![](Dashboard/Attachments/Untitled%2019%202.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2019.png)
 
-[![](Dashboard/Attachments/Untitled%2020.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2020.png)
+[![](Dashboard/Attachments/Untitled%2020%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2020.png)
 
-[![](Dashboard/Attachments/Untitled%2021.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2021.png)﻿
+[![](Dashboard/Attachments/Untitled%2021%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2021.png)﻿
 
 ## Teorema
 
@@ -569,7 +583,7 @@ X∼P(2)X \sim P(2)X∼P(2)﻿
 
 P(X=3)=f(3)=0.1804P(X=3) = f(3) = 0.1804P(X=3)=f(3)=0.1804﻿
 
-[![](Dashboard/Attachments/Untitled%2022.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2022.png)
+[![](Dashboard/Attachments/Untitled%2022%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2022.png)
 
 2. Em relação ao posto de socorro A, calcule a probabilidade de que haja pelo menos 4 pedidos de ambulância.
 
@@ -579,7 +593,7 @@ X∼P(2)X \sim P(2)X∼P(2)﻿
 
 P(X≥4)=1−P(X<4)=1−P(X≤3)=1−F(3)=1−0.8571=0.1429P(X≥4) = 1 - P(X<4) = 1 - P(X≤3) = 1 - F(3) = 1 - 0.8571 = 0.1429P(X≥4)=1−P(X<4)=1−P(X≤3)=1−F(3)=1−0.8571=0.1429﻿
 
-[![](Dashboard/Attachments/Untitled%2023.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2023.png)
+[![](Dashboard/Attachments/Untitled%2023%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2023.png)
 
 3. Em relação ao posto de socorro AAA﻿, calcule a probabilidadede que num dia, haja 3 pedidos de ambulância e no dia seguinte também se verifiquem 3 pedidos de ambulância.
 
@@ -650,7 +664,7 @@ pois λW=λX+λY=2+2=4\lambda_W = \lambda_X + \lambda_Y = 2 + 2 = 4λW​=λX​
 
 P(W=6)=fW(6)=0.1042P(W = 6) = f_W(6) = 0.1042P(W=6)=fW​(6)=0.1042﻿
 
-[![](Dashboard/Attachments/Untitled%2024.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2024.png)
+[![](Dashboard/Attachments/Untitled%2024%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2024.png)
 
 5. Em relação ao posto de socorro AAA﻿, calcule a probabilidade de que em 12 horas (metade de um dia), sejam pedidas mais de 2 ambulâncias.
 
@@ -680,7 +694,7 @@ Esta condição indica que basta recorrer à regra de três simples para atualiz
 
 logo λV=1\lambda_V = 1λV​=1﻿
 
-[![](Dashboard/Attachments/Untitled%2025.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2025.png)
+[![](Dashboard/Attachments/Untitled%2025%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2025.png)
 
 6. Em relação à Central, calcule a probabilidade de que, num dia, haja no mínimo 7 pedidos de ambulância na Central.
 
@@ -698,13 +712,13 @@ pois λT=λX+λ>S=2+3=5\lambda_T = \lambda_X + \lambda>S = 2 + 3 = 5λT​=λX�
 
 P(T≥7)=1−P(T<7)=1−P(T≤6)=1−FT(6)=1−0.7622=0.2378P(T≥7)=1-P(T<7)=1-P(T≤6)=1-F_T(6)=1-0.7622=0.2378P(T≥7)=1−P(T<7)=1−P(T≤6)=1−FT​(6)=1−0.7622=0.2378﻿
 
-[![](Dashboard/Attachments/Untitled%2026.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2026.png)﻿
+[![](Dashboard/Attachments/Untitled%2026%201.png)](4%20Distribui%C3%A7%C3%B5es%20Te%C3%B3ricas%20Discretas/Untitled%2026.png)﻿
 
 ## Teorema
 
 A distribuição Binomial, B(n,p)B(n,p)B(n,p)﻿, converge para a distribuição de Poisson, P(λ)P(\lambda)P(λ)﻿, quando n→+∞n → +\inftyn→+∞﻿ (o número de provas é muito grande), p→0p → 0p→0﻿ (a probabilidade de sucesso é muito pequena) e o produto (np)(np)(np)﻿ mantém-se aproximadamente constante, np=λ>0np= \lambda > 0np=λ>0﻿ (o número médio de sucessos mantém-se aproximadamente constante ao longo das provas).
 
-X∼B(n,p)→n→+∞  e  p→0X∼P(np=λ)X \sim B(n,p) →_{n→+\infty \ \ \text{e } \ p→ 0} X \sim P(np_{=\lambda})X∼B(n,p)→n→+∞  e  p→0​X∼P(np=λ​)﻿
+X∼B(n,p)→n→+∞ep→0X∼P(np=λ)X \sim B(n,p) →_{n→+\infty e p→ 0} X \sim P(np_{=\lambda})X∼B(n,p)→n→+∞ep→0​X∼P(np=λ​)﻿
 
 ### Observação
 
@@ -712,6 +726,6 @@ Na prática a distribuição de Poisson é uma boa aproximação da distribuiç�
 
 ---
 
-![](Dashboard/Attachments/icons_questions%2014.png)
+![](Dashboard/Attachments/icons_questions%2020.png)
 
 The **Sentence Method** is a simplified way to record notes on the fly. You should revisit your note after it is complete to restructure the information for easier reviewing later.

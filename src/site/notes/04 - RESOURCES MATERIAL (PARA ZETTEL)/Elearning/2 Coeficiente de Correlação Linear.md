@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-coeficiente-de-correlacao-linear/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:45.852+01:00","updated":"2025-10-23T12:56:41.932+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-coeficiente-de-correlacao-linear/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:45.852+01:00","updated":"2025-10-24T12:38:02.729+01:00"}
 ---
 
 

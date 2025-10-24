@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-diagrama-de-dispersao-ou-nuvem-de-pontos/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:29.344+01:00","updated":"2025-10-23T12:54:38.062+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-diagrama-de-dispersao-ou-nuvem-de-pontos/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:29.344+01:00","updated":"2025-10-24T12:38:28.714+01:00"}
 ---
  
 

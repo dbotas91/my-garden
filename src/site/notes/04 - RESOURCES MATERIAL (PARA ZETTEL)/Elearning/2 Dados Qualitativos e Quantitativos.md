@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-dados-qualitativos-e-quantitativos/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:48.157+01:00","updated":"2025-10-23T12:57:03.168+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-dados-qualitativos-e-quantitativos/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:48.157+01:00","updated":"2025-10-24T12:37:57.780+01:00"}
 ---
 
 

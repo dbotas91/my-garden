@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-static-testing/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:11.768+01:00","updated":"2025-10-23T12:59:26.384+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-static-testing/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:11.768+01:00","updated":"2025-10-24T12:36:55.278+01:00"}
 ---
  
 
