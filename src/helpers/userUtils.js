@@ -148,7 +148,7 @@ function crowdData(data) {
     const offsets = baseOffsets.slice(0, last5.length);
     rowCenter = last5.map((it, i) => {
       const x = centerX + offsets[i];
-      CONST SIZE = ICON_SIZE_DESKTOP[it.icon] ?? 35;
+      const size = ICON_SIZE_DESKTOP[it.icon] ?? 35;
       return [it.icon, it.url, it.title, size, x, yCenter, centerX];
     });
   }
