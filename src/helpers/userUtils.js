@@ -61,9 +61,9 @@ function crowdData(data) {
   const ARC_SPAN  = ARC_END - ARC_START;
 
   // Raios das fileiras (outer, middle, inner)
-  const R_OUTER  = 300;
-  const R_MIDDLE = 265;
-  const R_INNER  = 230;
+  const R_OUTER  = 200;
+  const R_MIDDLE = 165;
+  const R_INNER  = 130;
 
   // Centro vertical do círculo
   const arcCenterY = R_OUTER + padding - 255; // +40 para baixar um pouco o arco e evitar toque nas legends
