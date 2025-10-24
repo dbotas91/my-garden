@@ -407,6 +407,10 @@ main {
   }
   #crowd-graph { margin-bottom: 20px; }
   #crowd-graph .crowd-legends { font-size: 0.75em; gap: 8px; }
+  #crowd-graph .people img {
+    transform: scale(0.5);            /* reduz para metade */
+    transform-origin: top left;       /* mantém a âncora no topo da linha */
+  }
 }
 
   
