@@ -142,7 +142,7 @@ function crowdData(data) {
     // y alvo: ligeiramente acima do centro geométrico do hemiciclo
     //const yCenter = arcCenterY - (R_INNER - 20); // ex.: 20px acima da linha interna
     //Move closer: reduce the inner gap from 20 -> 8 (brings them down towards inner arc)
-    const yCenter = arcCenterY - (R_INNER - 150);
+    const yCenter = arcCenterY - (R_INNER - 250);
     // offsets horizontais centrados (ajusta espaçamento conforme tamanhos; aqui ~32px)
     //const baseOffsets = [-64, -32, 0, 32, 64];
     // Tighter horizontal offsets: was [-64, -32, 0, 32, 64]
