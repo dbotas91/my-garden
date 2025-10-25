@@ -1,5 +1,5 @@
 ---
-{"tags":["2025-02"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/ceia-e-culto/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:53.668+01:00","updated":"2025-10-24T16:31:44.310+01:00"}
+{"tags":["2025-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/ceia-e-culto/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:53.668+01:00","updated":"2025-10-25T17:51:39.135+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-24T17:02:55.834+01:00"}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-25T17:54:51.736+01:00"}
 ---
 
 > [!WARNING] Atenção / Warning
@@ -81,7 +81,7 @@ Normalmente tem esta representação:
 
 ## Stone (Pedra)
 Semelhante ao Legacy, com a diferença de que não interessa muito fazer alguma coisa com este tipo de notas. Talvez mais para curiosidades tiradas de algum site.
-Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação.
+Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação. Nestes casos, pode acontecer que estes tipos de notas passam para [[#Chest (Baú)]]
 
 Normalmente tem esta representação:
 
@@ -111,8 +111,9 @@ Normalmente tem esta representação:
 <img src="/img/canon.svg" width="150" height="205" alt="canon icon">
 
 ## Chest (Baú)
-Usado nas notas arquivadas. A ideia é mais ter um arquivo do que deixar no “lixo” ou eliminar definitivamente.
+Usado para ==arquivar notas==. A ideia é mais ter um arquivo do que deixar no “lixo” ou eliminar definitivamente.
 Neste estado também pode acontecer que a nota sofra alterações sejam elas mais significativas ou não. As notas podem estar no esquecimento, mas não inutilizadas.
+No caso de atividades / tarefas é mesmo como arquivo.
 
 Normalmente tem esta representação:
 
