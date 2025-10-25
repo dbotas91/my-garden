@@ -6,7 +6,7 @@
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: 2025-10-15 18:13
-Tags: [[2025-10\|2025-10]], 
+Tags: [[10 - TAGS/2025-10\|2025-10]], 
  
 # Músicas 
 
