@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-27T13:00:27.325+00:00","updated":"2025-10-27T13:38:11.335+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/projetos/"}
+{"dg-publish":true,"tags":["projects","projetos"],"created":"2025-10-27T13:00:27.325+00:00","updated":"2025-10-27T14:38:29.961+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/projetos/"}
 ---
 
 [[Home\|Back home]]

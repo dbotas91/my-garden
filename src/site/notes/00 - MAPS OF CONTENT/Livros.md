@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2025-10-27T13:14:31.935+00:00","updated":"2025-10-27T14:41:56.123+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/"}
+{"dg-publish":true,"tags":["livros"],"created":"2025-10-27T14:37:31.735+00:00","updated":"2025-10-27T14:37:58.238+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/livros/"}
 ---
 
 [[Home\|Back home]]
-# Áreas
+# Livros
 
 ## General Description
 Breve descrição do que este índice cobre e como navegar.
