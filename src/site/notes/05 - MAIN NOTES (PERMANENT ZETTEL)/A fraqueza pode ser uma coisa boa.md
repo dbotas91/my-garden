@@ -5,7 +5,7 @@
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[fraqueza\|fraqueza]]
+Tags: [[10 - TAGS/fraqueza\|fraqueza]]
 
 # 📓 A fraqueza pode ser uma coisa boa
 

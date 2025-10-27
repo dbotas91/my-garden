@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-27T08:51:53.212+00:00"}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-27T13:14:26.515+00:00"}
 ---
 
 > [!WARNING] Atenção / Warning
@@ -15,11 +15,11 @@
 
 # [[00 - MAPS OF CONTENT/Mensagens Escritas\|Mensagens Escritas]]
 
-# Projetos
+# [[00 - MAPS OF CONTENT/Projetos\|Projetos]]
 
-# Áreas
+# [[00 - MAPS OF CONTENT/Áreas\|Áreas]]
 
-# Formação
+# [[00 - MAPS OF CONTENT/Formação\|Formação]]
 
 # [[07 - INDEXES/Livros\|Livros]]
 

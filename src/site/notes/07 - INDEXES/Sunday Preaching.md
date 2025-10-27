@@ -1,5 +1,5 @@
 ---
-{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-10-27T09:24:46.654+00:00"}
+{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-10-27T12:50:44.512+00:00"}
 ---
 
 
@@ -7,14 +7,19 @@
 
 
 
+## Speaking
+
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331\|Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331]]
+
+
 ## Spoken
 
 - [ ] [[07 - INDEXES/Sunday Preaching#^sahlyp\|1 Tessalonicenses - 1st Thessalonians]]
 
+
 ***
 
 ## Archive
-
 
 - [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331\|Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331]] ✅ 2025-10-25
 - [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ser e agir como justo\|Ser e agir como justo]] ✅ 2025-10-25

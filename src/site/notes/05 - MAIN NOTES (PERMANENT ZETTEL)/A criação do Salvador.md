@@ -5,7 +5,7 @@
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[biblia e a ciencia\|biblia e a ciencia]]
+Tags: [[10 - TAGS/biblia e a ciencia\|biblia e a ciencia]]
 
 # 📓 A criação do Salvador
 

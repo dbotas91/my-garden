@@ -1,5 +1,5 @@
 ---
-{"tags":[null],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/course-1/","dgPassFrontmatter":true,"created":"2025-10-16T10:39:09.780+01:00","updated":"2025-10-24T16:36:43.057+01:00"}
+{"tags":[null],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/course-1/","dgPassFrontmatter":true,"created":"2025-10-16T10:39:09.780+01:00","updated":"2025-10-27T11:54:13.303+00:00"}
 ---
 
 # 🌍 COURSE 1

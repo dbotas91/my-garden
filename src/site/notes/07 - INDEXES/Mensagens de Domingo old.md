@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo-old/","dgPassFrontmatter":true,"created":"2025-10-24T17:30:43.201+01:00","updated":"2025-10-24T17:31:21.823+01:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo-old/","dgPassFrontmatter":true,"created":"2025-10-24T17:30:43.201+01:00","updated":"2025-10-27T12:24:29.836+00:00"}
 ---
 
 # 📜 Mensagens de Domingo

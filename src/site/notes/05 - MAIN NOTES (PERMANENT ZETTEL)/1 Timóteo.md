@@ -5,7 +5,7 @@
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[1 Timóteo verso a verso\|1 Timóteo verso a verso]], [[07 - INDEXES/Estudo Bíblico - microscópico\|Estudo Bíblico - microscópico]]
+Tags: [[10 - TAGS/1 Timóteo verso a verso\|1 Timóteo verso a verso]], [[07 - INDEXES/Estudo Bíblico - microscópico\|Estudo Bíblico - microscópico]]
 
 # 📓 1 Timóteo
 

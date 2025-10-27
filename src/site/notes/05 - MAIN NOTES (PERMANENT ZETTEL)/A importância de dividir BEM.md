@@ -5,7 +5,7 @@
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[10 - TAGS/dispensacional\|dispensacional]], [[divisão da Bíblia\|divisão da Bíblia]]
+Tags: [[10 - TAGS/dispensacional\|dispensacional]], [[10 - TAGS/divisão da Bíblia\|divisão da Bíblia]]
 
 
 # 📓 A importância de dividir BEM
