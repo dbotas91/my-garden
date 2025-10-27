@@ -1,5 +1,5 @@
 ---
-{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/ceia-e-culto-26-10-2025/","dgPassFrontmatter":true,"created":"2025-10-25T16:51:50.659+01:00","updated":"2025-10-25T22:17:11.681+01:00"}
+{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/ceia-e-culto-26-10-2025/","dgPassFrontmatter":true,"created":"2025-10-25T16:51:50.659+01:00","updated":"2025-10-27T08:39:47.366+00:00"}
 ---
 
 Status: 

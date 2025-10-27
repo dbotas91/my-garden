@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-25T17:54:51.736+01:00"}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-27T08:51:53.212+00:00"}
 ---
 
 > [!WARNING] Atenção / Warning
@@ -21,9 +21,9 @@
 
 # Formação
 
-# Livros
+# [[07 - INDEXES/Livros\|Livros]]
 
-# Tarefas
+# [[07 - INDEXES/Atividades e tarefas\|Atividades e tarefas]]
 
 # Organização de pastas/menus
 As pastas e menus seguem uma lógica de criação e organização do Zettelkasten e o método PARA (Projects, Areas, Resources, Archive).
