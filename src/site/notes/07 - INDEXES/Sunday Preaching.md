@@ -1,5 +1,5 @@
 ---
-{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-10-27T12:50:44.512+00:00"}
+{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-10-27T17:30:01.295+00:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ## Spoken
 
-- [ ] [[07 - INDEXES/Sunday Preaching#^sahlyp\|1 Tessalonicenses - 1st Thessalonians]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Tessalonicenses - 1st Thessalonians\|1 Tessalonicenses - 1st Thessalonians]]
 
 
 ***
@@ -23,7 +23,7 @@
 
 - [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331\|Be and act as a righteous 16d535ff8bdc80d79e06eae1173bf331]] ✅ 2025-10-25
 - [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ser e agir como justo\|Ser e agir como justo]] ✅ 2025-10-25
-- [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ajuda leva a transformação 29572337bf64471d92e7089d7be11594\|Ajuda leva a transformação 29572337bf64471d92e7089d7be11594]] ✅ 2025-10-25
+- [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ajuda leva a transformação\|Ajuda leva a transformação]] ✅ 2025-10-25
 - [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/A fraqueza pode ser uma coisa boa\|A fraqueza pode ser uma coisa boa]] ✅ 2025-10-25
-- [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Crise de santidade 560d78837a154756afd900271f3f14f2\|Crise de santidade 560d78837a154756afd900271f3f14f2]] ✅ 2025-10-25
+- [x] 2025-10-25 17:02 [[05 - MAIN NOTES (PERMANENT ZETTEL)/Crise de santidade\|Crise de santidade]] ✅ 2025-10-25
 
