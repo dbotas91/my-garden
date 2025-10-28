@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:03.988+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T17:17:49.734+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/"}
+{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:03.988+01:00","speech-status":"Proferido","local":["iqc","zoom"],"dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T18:30:05.846+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
-Local: [[09 - STATUS NOTES/IQC\|IQC]]
+Local: [[09 - STATUS NOTES/IQC\|IQC]], [[09 - STATUS NOTES/Zoom\|Zoom]]
 Tags: [[10 - TAGS/santidade\|santidade]]
 
 # 📓 Crise de santidade
