@@ -1,8 +1,8 @@
 ---
-{"tags":["2025-08"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-06-08-2025/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:07.370+01:00","updated":"2025-10-25T17:55:52.044+01:00"}
+{"tags":["2025-08"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-06-08-2025/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:07.370+01:00","updated":"2025-10-29T18:25:36.385+00:00"}
 ---
 
- Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: August 06, 2025
 Tags: [[10 - TAGS/2025-08\|2025-08]] 
 

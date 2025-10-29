@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-10-27T17:16:10.267+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-10-29T18:18:12.899+00:00"}
 ---
 
 
@@ -43,6 +43,37 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ser e agir como justo\|Ser e agir como justo]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ajuda leva a transformação\|Ajuda leva a transformação]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Crise de santidade\|Crise de santidade]] ✅ 2025-10-27
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Valorizar a Graça de Deus\|Valorizar a Graça de Deus]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O pecado\|O pecado]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/João 5\|João 5]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Cuidado com a língua\|Cuidado com a língua]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Qual a nossa motivação\|Qual a nossa motivação]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Queixume\|Queixume]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Porque é que Deus te há-de aceitar\|Porque é que Deus te há-de aceitar]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Podemos perder a nossa salvação pela graça\|Podemos perder a nossa salvação pela graça]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Andar pela fé\|Andar pela fé]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Energia Potencial\|Energia Potencial]] ✅ 2025-10-29
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Leis\|Leis]] ✅ 2025-10-29
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Perseverança hoje\|Perseverança hoje]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Disciplina d4c9320a70a64b14b672eaa25f40cb4e\|Disciplina d4c9320a70a64b14b672eaa25f40cb4e]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Medo f722b59327a0408b910e8a0152c5aaeb\|Medo f722b59327a0408b910e8a0152c5aaeb]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Moisés e Paulo 5ea28c313f3841bbad454169efd1c13c\|Moisés e Paulo 5ea28c313f3841bbad454169efd1c13c]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação b641c0005d034412ba8ffc288191efe4\|Inquietação b641c0005d034412ba8ffc288191efe4]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Dividir bem para estar confirmado na presente verd ba62a412a24148be9e3787ba5bbab5a0\|Dividir bem para estar confirmado na presente verd ba62a412a24148be9e3787ba5bbab5a0]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Um vírus mortal\|Um vírus mortal]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Seminários\|Seminários]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Jonas 0177e92a9fc747248fe947706b20d94b\|Jonas 0177e92a9fc747248fe947706b20d94b]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo - versículos fc55ea063d2b4e1d88916d6a91f58e8a\|Sobre Timóteo - versículos fc55ea063d2b4e1d88916d6a91f58e8a]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo 0cecb99336f64cbfbd4ec7b017b9c3e8\|Sobre Timóteo 0cecb99336f64cbfbd4ec7b017b9c3e8]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Além da dor\|Além da dor]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O Espírito Santo nos dias de hoje\|O Espírito Santo nos dias de hoje]]
+- [ ] [[Serviço\|Serviço]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Igreja, Corpo de Cristo d78dcb8ef4a040dea12cfbcf4929a4f9\|Igreja, Corpo de Cristo d78dcb8ef4a040dea12cfbcf4929a4f9]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Paradigma da natureza\|Paradigma da natureza]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb\|Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 
 
 

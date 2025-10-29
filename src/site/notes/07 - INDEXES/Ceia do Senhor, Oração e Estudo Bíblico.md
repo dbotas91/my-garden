@@ -20,7 +20,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Ceia e culto\|Ceia e culto]]
 - [[06 - DAILY-WEEKLY TASKS/Culto de domingo\|Culto de domingo]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 05-02-2025\|Estudo Bíblico 05-02-2025]]
-- [[06 - DAILY-WEEKLY TASKS/Estudo Biblico - 28-05-2025\|Estudo Biblico - 28-05-2025]]
+- [[Estudo Biblico - 28-05-2025\|Estudo Biblico - 28-05-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 25-06-2025\|Estudo Bíblico 25-06-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 06-08-2025\|Estudo Bíblico 06-08-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 15-10-2025\|Estudo Bíblico - 15-10-2025]]
