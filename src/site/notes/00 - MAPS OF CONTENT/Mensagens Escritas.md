@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-27T14:38:17.194+00:00"}
+{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-30T09:17:12.969+00:00"}
 ---
 
 [[Home\|Back home]]
@@ -16,7 +16,6 @@
 > # [[07 - INDEXES/Escola Dominical\|Escola Dominical]]
 > # [[05 - MAIN NOTES (PERMANENT ZETTEL)/Construindo um lar cristão\|Construindo um lar cristão]]
 > # [[05 - MAIN NOTES (PERMANENT ZETTEL)/Antes do SIM\|Antes do SIM]]
-> # [[07 - INDEXES/Ceia do Senhor, Oração e Estudo Bíblico\|Ceia do Senhor, Oração e Estudo Bíblico]]
 > # [[07 - INDEXES/EJC\|EJC]]
 > # [[07 - INDEXES/Sunday Preaching\|Sunday Preaching]]
 
