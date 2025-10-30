@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2025-10-30T11:28:17.171+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
+{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2025-10-30T12:47:46.681+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
 ---
 
 [[Home\|Back home]]
@@ -20,7 +20,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Ceia e culto\|Ceia e culto]]
 - [[06 - DAILY-WEEKLY TASKS/Culto de domingo\|Culto de domingo]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 05-02-2025\|Estudo Bíblico 05-02-2025]]
-- [[Estudo Bíbli\|Estudo Bíbli]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 28-05-2025\|Estudo Bíblico - 28-05-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 25-06-2025\|Estudo Bíblico 25-06-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 06-08-2025\|Estudo Bíblico 06-08-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 15-10-2025\|Estudo Bíblico - 15-10-2025]]
