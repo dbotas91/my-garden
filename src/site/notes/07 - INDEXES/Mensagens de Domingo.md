@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-10-29T18:18:12.899+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-10-30T11:47:55.723+00:00"}
 ---
 
 
@@ -12,6 +12,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Chegar à excelência por meio da provação\|Chegar à excelência por meio da provação]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Testes Excelência na Bíblia\|Testes Excelência na Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que cada cristão deve saber acerca do Islão\|O que cada cristão deve saber acerca do Islão]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação\|Inquietação]]
 
 
 ## A falar
@@ -54,12 +55,11 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Andar pela fé\|Andar pela fé]] ✅ 2025-10-29
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Energia Potencial\|Energia Potencial]] ✅ 2025-10-29
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Leis\|Leis]] ✅ 2025-10-29
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Perseverança hoje\|Perseverança hoje]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Disciplina d4c9320a70a64b14b672eaa25f40cb4e\|Disciplina d4c9320a70a64b14b672eaa25f40cb4e]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Medo f722b59327a0408b910e8a0152c5aaeb\|Medo f722b59327a0408b910e8a0152c5aaeb]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Moisés e Paulo 5ea28c313f3841bbad454169efd1c13c\|Moisés e Paulo 5ea28c313f3841bbad454169efd1c13c]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação b641c0005d034412ba8ffc288191efe4\|Inquietação b641c0005d034412ba8ffc288191efe4]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Dividir bem para estar confirmado na presente verd ba62a412a24148be9e3787ba5bbab5a0\|Dividir bem para estar confirmado na presente verd ba62a412a24148be9e3787ba5bbab5a0]]
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Perseverança hoje\|Perseverança hoje]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Disciplina\|Disciplina]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Medo\|Medo]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Moisés e Paulo\|Moisés e Paulo]] ✅ 2025-10-30
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Dividir bem para estar confirmado na presente verdade\|Dividir bem para estar confirmado na presente verdade]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Um vírus mortal\|Um vírus mortal]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Seminários\|Seminários]]

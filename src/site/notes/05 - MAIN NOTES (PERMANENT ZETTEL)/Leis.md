@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["leis"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:29.356+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T18:17:23.088+00:00","title":"Leis","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/leis/"}
+{"dg-publish":true,"tags":["leis"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:29.356+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T09:36:47.968+00:00","title":"Leis","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/leis/"}
 ---
 
 [[Home\|Back home]]
@@ -22,7 +22,8 @@ De <[https://pt.wikipedia.org/wiki/Lei](https://pt.wikipedia.org/wiki/Lei)>  
 
 [Lei (ciências)](https://pt.wikipedia.org/wiki/Lei_\(ci%C3%AAncias\)), uma regra científica que descreve um fenômeno que ocorre com certa regularidade 
 
-Rom_7:7  Que diremos, pois? É a lei pecado? De modo nenhum! Mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás. 
+> [!cite]+ Romanos 7:7  
+> Que diremos, pois? É a lei pecado? De modo nenhum! Mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás. 
 
 [Romanos 7:21](https://www.biblegateway.com/passage/?search=Romanos%207%3A21&version=ARC) 
 
@@ -52,7 +53,9 @@ Em Romanos vemos que só poderemos ficar tristes por causa das consequências da
 
 É então que em Romanos 7:18-23 entramos na questão das leis conflitantes, quando diz que vê outra lei que batalha contra a lei do entendimento. E é aqui que entramos na questão que nos abate mais, pois estas batalhas ocorrem constantemente, esgotam-nos e de certo modo estamos presos a estas batalhas. Por isso é que Paulo diz Rom 7:24  Miserável homem que eu sou! Quem me livrará do corpo desta morte? 
 
-A resposta a esta pergunta é, como já sabemos: Rom 7:25  Dou graças a Deus por Jesus Cristo, nosso Senhor. Assim que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado. 
+A resposta a esta pergunta é, como já sabemos: 
+> [!cite]+ Romanos 7:25  
+> Dou graças a Deus por Jesus Cristo, nosso Senhor. Assim que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado. 
 
 Ou seja a divisão destas duas leis (cientificas) e a aplicação duma lei que é superior às outras que acaba com as leis como essas. A Bíblia fala-nos da lei do Espírito de vida, em Cristo Jesus (Romanos 8:1-2). A Bíblia mostra que em Cristo Jesus, não só não há condenação por causa da lei do pecado e da morte na nossa carne e vida neste mundo, como mostra que a lei do Espírito de vida (o Espírito Santo) é a lei jurídica que livrou-nos da condenação que vinha por causa da lei do pecado e da morte. Ou seja, a lei do Espírito de vida é a lei jurídica que anula a condenação que vinha por causa da lei do pecado e da morte. 
 
@@ -62,29 +65,36 @@ Assim é a lei do Espírito de vida, a força que contraria a força que o pecad
 
 A Bíblia mostra que: 
 
-Rom 8:26  E da mesma maneira também o Espírito ajuda as nossas fraquezas; porque não sabemos o que havemos de pedir como convém, mas o mesmo Espírito intercede por nós com gemidos inexprimíveis.  
+> [!cite]+ Romanos 8:27  
+> E aquele que examina os corações sabe qual é a intenção do Espírito; e é ele que segundo Deus intercede pelos santos.  
 
-Rom 8:27  E aquele que examina os corações sabe qual é a intenção do Espírito; e é ele que segundo Deus intercede pelos santos.  
-
-Rom 8:28  E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados por seu decreto.  
+> [!cite]+ Romanos 8:28  
+> E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados por seu decreto.  
 
 É o Espírito que não só é a lei jurídica que anula a lei do pecado e da morte, como é a força que ajuda as nossas fraquezas. 
 
 Então fica a questão mais importante: o que fazemos nós quando a força do pecado age nas nossas vidas? Orar, ler a Palavra de Deus e procurarmos ajuda de irmãos para aprendermos e sermos consolados e exortados. 
 
-Flp 4:6  Não andeis ansiosos por motivo algum; pelo contrário, sejam todas as vossas solicitações declaradas na presença de Deus por meio de oração e súplicas com ações de graça.  
+> [!cite]+ Filipenses 4:6  
+> Não andeis ansiosos por motivo algum; pelo contrário, sejam todas as vossas solicitações declaradas na presença de Deus por meio de oração e súplicas com ações de graça.  
 
-Flp 4:7  E a paz de Deus, que ultrapassa todo entendimento, guardará o vosso coração e os vossos pensamentos em Cristo Jesus.  
+> [!cite]+ Filipenses 4:7  
+> E a paz de Deus, que ultrapassa todo entendimento, guardará o vosso coração e os vossos pensamentos em Cristo Jesus.  
 
-1Co 1:18  Pois a mensagem da cruz é loucura para os que estão sendo destruídos, porém para nós, que estamos sendo salvos, é o poder de Deus.  
+> [!cite]+ 1 Coríntios 1:18  
+> Pois a mensagem da cruz é loucura para os que estão sendo destruídos, porém para nós, que estamos sendo salvos, é o poder de Deus.  
 
-1Tm_4:13  Enquanto aguardas a minha chegada, aplica-te à leitura, à exortação e ao ensino. 
+> [!cite]+ 1 Timóteo 4:13  
+> Enquanto aguardas a minha chegada, aplica-te à leitura, à exortação e ao ensino. 
 
-Flp 3:12  Não que já a tenha alcançado ou que seja perfeito; mas prossigo para alcançar aquilo para o que fui também preso por Cristo Jesus.  
+> [!cite]+ Filipenses 3:12  
+> Não que já a tenha alcançado ou que seja perfeito; mas prossigo para alcançar aquilo para o que fui também preso por Cristo Jesus.  
 
-Flp 3:13  Irmãos, quanto a mim, não julgo que o haja alcançado; mas uma coisa faço, e é que, esquecendo-me das coisas que atrás ficam e avançando para as que estão diante de mim,  
+> [!cite]+ Filipenses 3:13  
+> Irmãos, quanto a mim, não julgo que o haja alcançado; mas uma coisa faço, e é que, esquecendo-me das coisas que atrás ficam e avançando para as que estão diante de mim,  
 
-Flp 3:14  prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus.  
+> [!cite]+ Filipenses 3:14  
+> prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus.  
 
 À luz de 1 Co 5 e 2 Co 2, além da experiência de disciplina no contexto do lar, quero sugerir que envolve: 
 

@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"tags":["dispensacional","divisaodabiblia"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:28:44.901+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-27T09:46:10.587+00:00","title":"A importância de dividir BEM","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-importancia-de-dividir-bem/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["dispensacional","divisaodabiblia","presenteverdade"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:28:44.901+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-30T11:58:53.497+00:00","title":"A importância de dividir BEM","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-importancia-de-dividir-bem/","noteIcon":"adult"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[10 - TAGS/dispensacional\|dispensacional]], [[10 - TAGS/divisão da Bíblia\|divisão da Bíblia]]
-
+Tags: [[10 - TAGS/dispensacional\|dispensacional]], [[10 - TAGS/divisão da Bíblia\|divisão da Bíblia]], [[10 - TAGS/presente verdade\|presente verdade]]
 
 # 📓 A importância de dividir BEM
 
