@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-01T12:29:13.216+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-01T13:34:39.995+00:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que cada cristão deve saber acerca do Islão\|O que cada cristão deve saber acerca do Islão]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação\|Inquietação]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 
 
 ## A falar
@@ -72,8 +73,13 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Igreja, Corpo de Cristo\|Igreja, Corpo de Cristo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Paradigma da natureza\|Paradigma da natureza]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb\|Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados\|Boas batalhas para bons soldados]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados?\|Predestinados?]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Silêncio\|Silêncio]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão 97426ffb76fb4e0aa59b61b5adef3a70\|Entendimento e compreensão 97426ffb76fb4e0aa59b61b5adef3a70]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Resoluções de Ano Novo\|Resoluções de Ano Novo]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Selados\|Selados]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["igreja"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:26.735+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T12:42:27.610+00:00","title":"Corpo de Cristo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/igreja-corpo-de-cristo/"}
+{"dg-publish":true,"tags":["igreja"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:26.735+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T12:59:52.975+00:00","title":"Igreja, Corpo de Cristo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/igreja-corpo-de-cristo/"}
 ---
 
 [[Home\|Back home]]
