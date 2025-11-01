@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-01T13:34:39.995+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-01T16:36:56.642+00:00"}
 ---
 
 
@@ -75,8 +75,8 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados\|Boas batalhas para bons soldados]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados?\|Predestinados?]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Silêncio\|Silêncio]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão 97426ffb76fb4e0aa59b61b5adef3a70\|Entendimento e compreensão 97426ffb76fb4e0aa59b61b5adef3a70]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Guardar Silêncio\|Guardar Silêncio]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão\|Entendimento e compreensão]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Resoluções de Ano Novo\|Resoluções de Ano Novo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Selados\|Selados]]
