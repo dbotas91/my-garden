@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-10-30T11:47:55.723+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-01T12:29:13.216+00:00"}
 ---
 
 
@@ -13,6 +13,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Testes Excelência na Bíblia\|Testes Excelência na Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que cada cristão deve saber acerca do Islão\|O que cada cristão deve saber acerca do Islão]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação\|Inquietação]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
 
 
 ## A falar
@@ -59,17 +60,16 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Disciplina\|Disciplina]] ✅ 2025-10-30
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Medo\|Medo]] ✅ 2025-10-30
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Moisés e Paulo\|Moisés e Paulo]] ✅ 2025-10-30
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Dividir bem para estar confirmado na presente verdade\|Dividir bem para estar confirmado na presente verdade]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Um vírus mortal\|Um vírus mortal]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Seminários\|Seminários]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Jonas 0177e92a9fc747248fe947706b20d94b\|Jonas 0177e92a9fc747248fe947706b20d94b]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo - versículos fc55ea063d2b4e1d88916d6a91f58e8a\|Sobre Timóteo - versículos fc55ea063d2b4e1d88916d6a91f58e8a]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo 0cecb99336f64cbfbd4ec7b017b9c3e8\|Sobre Timóteo 0cecb99336f64cbfbd4ec7b017b9c3e8]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Além da dor\|Além da dor]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O Espírito Santo nos dias de hoje\|O Espírito Santo nos dias de hoje]]
-- [ ] [[Serviço\|Serviço]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Igreja, Corpo de Cristo d78dcb8ef4a040dea12cfbcf4929a4f9\|Igreja, Corpo de Cristo d78dcb8ef4a040dea12cfbcf4929a4f9]]
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Dividir bem para estar confirmado na presente verdade\|Dividir bem para estar confirmado na presente verdade]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Um vírus mortal\|Um vírus mortal]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Seminários\|Seminários]] ✅ 2025-10-30
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Jonas, o fugitivo\|Jonas, o fugitivo]] ✅ 2025-10-30
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo - versículos\|Sobre Timóteo - versículos]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Sobre Timóteo\|Sobre Timóteo]]
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Além da dor\|Além da dor]] ✅ 2025-10-31
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O Espírito Santo nos dias de hoje\|O Espírito Santo nos dias de hoje]] ✅ 2025-10-31
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Serviço\|Serviço]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Igreja, Corpo de Cristo\|Igreja, Corpo de Cristo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Paradigma da natureza\|Paradigma da natureza]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb\|Boas batalhas para bons soldados 8be98efcc503423d8858468c11dd06eb]]
