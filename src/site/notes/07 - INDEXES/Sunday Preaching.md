@@ -1,5 +1,5 @@
 ---
-{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-10-27T17:30:01.295+00:00"}
+{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-11-01T17:27:21.922+00:00"}
 ---
 
 
@@ -15,6 +15,7 @@
 ## Spoken
 
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Tessalonicenses - 1st Thessalonians\|1 Tessalonicenses - 1st Thessalonians]]
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Peace of God\|Peace of God]] ✅ 2025-11-01
 
 
 ***
