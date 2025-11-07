@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:27:57.981+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T15:40:28.238+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/"}
+{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:27:57.981+01:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"child","noteIcon":"child","updated":"2025-11-07T16:52:05.845+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Child\|Child]], [[09 - STATUS NOTES/Calado\|Calado]]
-Local: 
+Local: [[09 - STATUS NOTES/IQC - Jovens\|IQC - Jovens]]
 Tags: [[10 - TAGS/ingratidão\|ingratidão]], [[10 - TAGS/murmúrio\|murmúrio]] 
 
 # 🗒️ Ingratidão e murmúrio

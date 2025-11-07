@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T16:06:15.614+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-11-03T10:26:28.441+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
 ---
 
 [[Home\|Back home]]
@@ -13,7 +13,7 @@ Tags: [[10 - TAGS/batismo\|batismo]], [[10 - TAGS/batismo na água\|batismo na �
 | ------------------------------------------------------ | ------------------------------------------------------------------- |
 | ![](Dashboard/Attachments/clock_gray%20205.svg)Created | @July 4, 2022 10:03 PM                                              |
 | ![](Dashboard/Attachments/list_gray%20939.svg)Tags     | Todo                                                                |
-| ![](Dashboard/Attachments/link_gray%20398.svg)URL      | [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estudo sobre o batismo na água 1bb535ff8bdc80729806e14249ef18cd\|Estudo sobre o batismo na água 1bb535ff8bdc80729806e14249ef18cd]] |
+| ![](Dashboard/Attachments/link_gray%20398.svg)URL      | [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estudo sobre o batismo na água\|Estudo sobre o batismo na água]] |
 
 # Batismo em água
 

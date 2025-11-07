@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"tags":["trindade"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Doutrinal","created":"2025-10-16T10:30:07.707+01:00","permalink":"/05-main-notes-permanent-zettel/trindade/","dgPassFrontmatter":true,"updated":"2025-10-22T13:31:03.689+01:00"}
+{"dg-publish":true,"tags":["trindade"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Doutrinal","created":"2025-10-16T10:30:07.707+01:00","permalink":"/05-main-notes-permanent-zettel/trindade/","dgPassFrontmatter":true,"updated":"2025-11-07T16:57:20.290+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
-Local: [[09 - STATUS NOTES/IQC\|IQC]]
+Local: [[09 - STATUS NOTES/IQC - Jovens\|IQC - Jovens]]
 Tags:  [[05 - MAIN NOTES (PERMANENT ZETTEL)/Trindade\|trindade]]
 # Trindade
 
