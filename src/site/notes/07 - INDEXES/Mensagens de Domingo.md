@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-03T11:03:48.873+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-07T18:19:24.619+00:00"}
 ---
 
 
@@ -81,6 +81,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Resoluções de Ano Novo\|Resoluções de Ano Novo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Selados\|Selados]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ensina o menino no Caminho\|Ensina o menino no Caminho]]
 
 
 
