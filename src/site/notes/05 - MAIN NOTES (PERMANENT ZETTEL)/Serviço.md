@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["serviço"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-31T11:57:24.204+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T12:21:34.981+00:00","title":"Serviço","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/servico/"}
+{"dg-publish":true,"tags":["serviço"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-31T11:57:24.203+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T12:21:34.981+00:00","title":"Serviço","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/servico/"}
 ---
 
 [[Home\|Back home]]

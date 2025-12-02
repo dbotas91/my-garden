@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/accessibility-and-html/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:31.766+01:00","updated":"2025-10-24T16:13:30.871+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/accessibility-and-html/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:31.765+01:00","updated":"2025-10-24T16:13:30.870+01:00"}
 ---
 
 # Accessibility and HTML

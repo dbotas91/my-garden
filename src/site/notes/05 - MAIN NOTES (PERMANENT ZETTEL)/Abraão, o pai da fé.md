@@ -98,4 +98,4 @@ Portanto, assim diz o Senhor: Vós não me ouvistes a mim, para apregoardes a l
 
 # [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações\|Secularismo e a maldição das nações]]
 
-![[Secularismo e a maldicao das nacoes.pdf]]
+<iframe src="/img/user/08%20-%20ATTACHMENTS/Secularismo%20e%20a%20maldicao%20das%20nacoes.pdf" width="100%" height="900px" title="Secularismo e a maldicao das nacoes.pdf" style="border:1px solid #ccc;"></iframe>

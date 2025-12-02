@@ -9,7 +9,7 @@
 |![](clock_gray%203.svg)Created|@February 7, 2022 11:39 AM|
 |![](arrow-circle-down_gray%203.svg)Class|CSCI 104|
 |![](arrow-circle-down_gray%203.svg)Type|Lecture|
-|![](attachment_gray%202.svg)Materials|[http://bits.usc.edu/cs104/handouts/handout5.pdf](http://bits.usc.edu/cs104/handouts/handout5.pdf)|
+|<iframe src="http://bits.usc.edu/cs104/handouts/handout5.pdf" width="100%" height="900px" title="External PDF" style="border:1px solid #ccc;"></iframe>|
 |![](checkmark-square_gray%203.svg)Reviewed||
 
 # Chapter 5: Linked Lists

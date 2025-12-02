@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Deuseomal"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:30:02.675+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-11-07T16:56:54.963+00:00","title":"Deus é mau?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/deus-e-mau/"}
+{"dg-publish":true,"tags":["Deuseomal"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:30:02.675+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-11-07T16:56:54.962+00:00","title":"Deus é mau?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/deus-e-mau/"}
 ---
 
 [[Home\|Back home]]

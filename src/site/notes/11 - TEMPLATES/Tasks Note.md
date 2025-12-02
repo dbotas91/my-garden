@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-13T20:17:13.910+01:00","dg-note-icon":"stone","noteIcon":"stone","updated":"2025-10-25T17:07:15.498+01:00","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/"}
+{"dg-publish":true,"tags":null,"created":"2025-10-13T20:17:13.910+01:00","dg-note-icon":"stone","noteIcon":"stone","updated":"2025-10-25T17:07:15.457+01:00","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/"}
 ---
 
 [[Home\|Back home]]

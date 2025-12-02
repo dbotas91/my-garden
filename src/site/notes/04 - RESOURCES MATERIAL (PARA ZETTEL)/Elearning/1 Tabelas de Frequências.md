@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-tabelas-de-frequencias/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:37.953+01:00","updated":"2025-10-24T16:01:32.730+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-tabelas-de-frequencias/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:37.952+01:00","updated":"2025-10-24T16:01:32.729+01:00"}
 ---
 
 

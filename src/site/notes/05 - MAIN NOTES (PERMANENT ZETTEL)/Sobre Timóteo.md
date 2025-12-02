@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Timóteo"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:50.238+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T18:03:44.837+00:00","title":"Sobre Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-timoteo/"}
+{"dg-publish":true,"tags":["Timóteo"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:50.237+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T18:03:44.836+00:00","title":"Sobre Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-timoteo/"}
 ---
 
 [[Home\|Back home]]

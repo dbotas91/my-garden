@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/json-to-csv/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:34.054+01:00","updated":"2025-10-24T16:07:30.963+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/json-to-csv/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:34.053+01:00","updated":"2025-10-24T16:07:30.962+01:00"}
 ---
 
 # JSON to CSV
@@ -12,4 +12,4 @@
 |![](clock_gray%2015.svg)Created time|@February 7, 2022 11:44 AM|
 |![](checkmark-square_gray%2015.svg)Finished||
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/JSON-CSV.png)](JSON%20to%20CSV/JSON-CSV.png)
+[![](/img/user/08%20-%20ATTACHMENTS/Attachments/JSON-CSV.png)](JSON%20to%20CSV/JSON-CSV.png)
