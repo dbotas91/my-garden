@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2025-10-27T14:43:57.027+00:00","updated":"2025-10-27T14:48:34.456+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2025-atividades-e-tarefas/"}
+{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2025-10-27T14:43:57.027+00:00","updated":"2025-10-27T14:48:34.455+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2025-atividades-e-tarefas/"}
 ---
 
 [[Home\|Back home]]

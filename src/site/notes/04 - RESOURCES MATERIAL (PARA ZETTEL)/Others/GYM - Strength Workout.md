@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/gym-strength-workout/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:09.260+01:00","updated":"2025-10-24T16:22:56.598+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/gym-strength-workout/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:09.260+01:00","updated":"2025-10-24T16:23:17.491+01:00"}
 ---
 
 ![](Dashboard/Attachments/4329323%202.png)

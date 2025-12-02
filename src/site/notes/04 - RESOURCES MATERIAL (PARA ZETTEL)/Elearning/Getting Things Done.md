@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/getting-things-done/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:15.549+01:00","updated":"2025-10-24T16:06:02.985+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/getting-things-done/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:15.548+01:00","updated":"2025-10-24T16:06:02.984+01:00"}
 ---
 
 # Getting Things Done

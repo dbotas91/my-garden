@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:27:57.981+01:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"child","noteIcon":"child","updated":"2025-11-07T16:52:05.845+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/"}
+{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:27:57.980+01:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"child","noteIcon":"child","updated":"2025-11-07T16:52:05.845+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/"}
 ---
 
 [[Home\|Back home]]

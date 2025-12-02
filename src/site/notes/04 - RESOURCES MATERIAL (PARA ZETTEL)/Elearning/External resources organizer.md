@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/external-resources-organizer/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:35.270+01:00","updated":"2025-10-24T16:05:57.132+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/external-resources-organizer/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:35.269+01:00","updated":"2025-10-24T16:05:57.131+01:00"}
 ---
 
 

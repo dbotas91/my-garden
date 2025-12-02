@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-nocoes-preliminares/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:35.608+01:00","updated":"2025-10-24T16:01:29.479+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-nocoes-preliminares/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:35.607+01:00","updated":"2025-10-24T16:01:29.457+01:00"}
 ---
 
 

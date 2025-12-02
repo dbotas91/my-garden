@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/5-variaveis-aleatorias-continuas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:48.277+01:00","updated":"2025-10-24T12:39:22.114+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/5-variaveis-aleatorias-continuas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:48.276+01:00","updated":"2025-10-24T12:39:22.113+01:00"}
 ---
 
 

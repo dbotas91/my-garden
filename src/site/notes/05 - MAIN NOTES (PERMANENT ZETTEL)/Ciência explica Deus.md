@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["bibliaeciencia","Deuseciência","ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2025-10-16T10:29:02.431+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T15:51:25.028+00:00","title":"Ciência explica Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ciencia-explica-deus/"}
+{"dg-publish":true,"tags":["bibliaeciencia","Deuseciência","ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2025-10-16T10:29:02.431+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T15:51:25.027+00:00","title":"Ciência explica Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ciencia-explica-deus/"}
 ---
 
 [[Home\|Back home]]

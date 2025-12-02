@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/assignment-exam-schedule/","dgPassFrontmatter":true,"created":"2025-10-16T10:37:52.560+01:00","updated":"2025-10-24T13:20:54.728+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/assignment-exam-schedule/","dgPassFrontmatter":true,"created":"2025-10-16T10:37:52.559+01:00","updated":"2025-10-24T13:20:54.728+01:00"}
 ---
 
 

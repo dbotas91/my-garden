@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["comunicação","doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:29:03.204+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:59:12.956+00:00","title":"Comunicação eficaz - Nobres examinadores - Perceber a Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/comunicacao-eficaz-nobres-examinadores-perceber-a-biblia/","noteIcon":"teen"}
+{"dg-publish":true,"tags":["comunicação","doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:29:03.203+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:59:12.955+00:00","title":"Comunicação eficaz - Nobres examinadores - Perceber a Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/comunicacao-eficaz-nobres-examinadores-perceber-a-biblia/","noteIcon":"teen"}
 ---
 
 [[Home\|Back home]]

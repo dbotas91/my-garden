@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["inferno"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:27:59.193+01:00","speech-status":"Calado","local":null,"dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-27T15:38:06.487+00:00","title":"O inferno e a provisão de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-inferno-e-a-provisao-de-deus/"}
+{"dg-publish":true,"tags":["inferno"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:27:59.192+01:00","speech-status":"Calado","local":null,"dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-27T15:38:06.487+00:00","title":"O inferno e a provisão de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-inferno-e-a-provisao-de-deus/"}
 ---
 
 [[Home\|Back home]]

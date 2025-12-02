@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fraqueza"],"mature-status":"Adult","message_category":null,"created":"2025-10-16T10:28:44.309+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-27T09:26:16.120+00:00","title":"A fraqueza pode ser uma coisa boa","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-fraqueza-pode-ser-uma-coisa-boa/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["fraqueza"],"mature-status":"Adult","message_category":null,"created":"2025-10-16T10:28:44.308+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-27T09:26:16.120+00:00","title":"A fraqueza pode ser uma coisa boa","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-fraqueza-pode-ser-uma-coisa-boa/","noteIcon":"adult"}
 ---
 
 [[Home\|Back home]]

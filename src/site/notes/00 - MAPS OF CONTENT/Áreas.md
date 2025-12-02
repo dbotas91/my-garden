@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2025-10-27T13:14:31.935+00:00","updated":"2025-10-27T14:41:56.123+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/"}
+{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2025-10-27T13:14:31.934+00:00","updated":"2025-10-27T14:41:56.100+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/"}
 ---
 
 [[Home\|Back home]]

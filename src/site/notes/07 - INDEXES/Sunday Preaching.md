@@ -1,5 +1,5 @@
 ---
-{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-11-01T17:27:21.922+00:00"}
+{"tags":["preaching"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/sunday-preaching/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:14.740+01:00","updated":"2025-11-01T17:27:21.921+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-story-and-user-story-cards-insurance-suite-i/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:29.963+01:00","updated":"2025-10-24T15:59:21.722+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-story-and-user-story-cards-insurance-suite-i/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:29.962+01:00","updated":"2025-10-24T15:59:32.088+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%2019.png)

@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c1-tiny-habits/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:38.524+01:00","updated":"2025-10-24T16:13:58.770+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c1-tiny-habits/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:38.524+01:00","updated":"2025-10-24T16:16:52.466+01:00"}
 ---
 
 # C1 - Tiny Habits

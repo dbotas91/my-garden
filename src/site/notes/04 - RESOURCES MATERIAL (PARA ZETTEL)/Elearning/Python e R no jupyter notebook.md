@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/python-e-r-no-jupyter-notebook/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:11.006+01:00","updated":"2025-10-24T16:08:39.906+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/python-e-r-no-jupyter-notebook/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:11.006+01:00","updated":"2025-10-24T16:08:39.905+01:00"}
 ---
 
 # Python e R no jupyter notebook

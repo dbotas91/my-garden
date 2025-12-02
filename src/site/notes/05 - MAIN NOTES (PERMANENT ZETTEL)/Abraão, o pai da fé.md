@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dgPassFrontmatter":true,"created":"2025-10-13T20:17:15.438+01:00","updated":"2025-10-22T13:25:04.861+01:00"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dgPassFrontmatter":true,"created":"2025-10-13T20:17:15.438+01:00","updated":"2025-10-22T13:25:04.860+01:00"}
 ---
 
 2025-10-14 18:12

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:01.688+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T16:08:22.871+00:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/"}
+{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:01.688+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T16:08:22.870+00:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/"}
 ---
 
 [[Home\|Back home]]

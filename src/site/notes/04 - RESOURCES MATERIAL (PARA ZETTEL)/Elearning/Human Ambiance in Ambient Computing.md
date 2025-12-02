@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/human-ambiance-in-ambient-computing/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:33.214+01:00","updated":"2025-10-24T16:06:37.329+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/human-ambiance-in-ambient-computing/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:33.213+01:00","updated":"2025-10-24T16:06:37.328+01:00"}
 ---
 
 # Human Ambiance in Ambient Computing

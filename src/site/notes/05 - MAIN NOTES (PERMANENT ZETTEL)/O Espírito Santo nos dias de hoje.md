@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["EspíritoSanto"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:31.621+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-31T11:57:11.516+00:00","title":"O Espírito Santo nos dias de hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-espirito-santo-nos-dias-de-hoje/"}
+{"dg-publish":true,"tags":["EspíritoSanto"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:31.620+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-31T11:57:11.515+00:00","title":"O Espírito Santo nos dias de hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-espirito-santo-nos-dias-de-hoje/"}
 ---
 
 [[Home\|Back home]]

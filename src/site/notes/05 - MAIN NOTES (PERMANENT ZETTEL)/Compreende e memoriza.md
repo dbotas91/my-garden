@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:27:56.472+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T15:31:27.840+00:00","title":"Compreende e memoriza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/compreende-e-memoriza/"}
+{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:27:56.471+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T15:31:27.839+00:00","title":"Compreende e memoriza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/compreende-e-memoriza/"}
 ---
 
 [[Home\|Back home]]

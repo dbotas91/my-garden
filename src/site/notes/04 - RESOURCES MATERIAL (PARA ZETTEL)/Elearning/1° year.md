@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-year/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:44.701+01:00","updated":"2025-10-24T16:01:38.046+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-year/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:44.700+01:00","updated":"2025-10-24T16:01:38.046+01:00"}
 ---
 
 

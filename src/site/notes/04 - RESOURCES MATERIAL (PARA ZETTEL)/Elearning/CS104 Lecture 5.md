@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cs-104-lecture-5/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:13.155+01:00","updated":"2025-10-24T16:05:37.080+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cs-104-lecture-5/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:13.154+01:00","updated":"2025-10-24T16:05:37.079+01:00"}
 ---
 
 # 🤖 CS104: Lecture 5

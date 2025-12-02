@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:03.988+01:00","speech-status":"Proferido","local":["iqc","zoom"],"dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T18:30:05.846+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/"}
+{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:03.987+01:00","speech-status":"Proferido","local":["iqc","zoom"],"dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T18:30:05.845+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/"}
 ---
 
 [[Home\|Back home]]

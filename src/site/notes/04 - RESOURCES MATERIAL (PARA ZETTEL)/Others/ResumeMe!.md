@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/resume-me/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:34.237+01:00","updated":"2025-10-24T16:26:28.186+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/resume-me/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:34.237+01:00","updated":"2025-10-24T16:26:40.535+01:00"}
 ---
 
 ![](Dashboard/Attachments/ResumeMe_\(1\).png)

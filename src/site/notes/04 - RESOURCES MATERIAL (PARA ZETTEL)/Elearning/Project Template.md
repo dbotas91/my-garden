@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/project-template/","dgPassFrontmatter":true,"created":"2025-10-16T10:34:44.445+01:00","updated":"2025-10-24T16:08:35.109+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/project-template/","dgPassFrontmatter":true,"created":"2025-10-16T10:34:44.444+01:00","updated":"2025-10-24T16:08:35.108+01:00"}
 ---
 
 ![](Dashboard/Attachments/photo-1542204625-ca960ca44635%202.jpeg)

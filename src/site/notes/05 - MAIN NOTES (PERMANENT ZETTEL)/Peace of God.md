@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["peace"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-11-01T17:24:22.003+00:00","speech-status":"Proferido","local":"polónia","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T17:27:03.413+00:00","title":"Peace of God","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/peace-of-god/"}
+{"dg-publish":true,"tags":["peace"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-11-01T17:24:22.002+00:00","speech-status":"Proferido","local":"polónia","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T17:27:03.413+00:00","title":"Peace of God","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/peace-of-god/"}
 ---
 
 [[Home\|Back home]]

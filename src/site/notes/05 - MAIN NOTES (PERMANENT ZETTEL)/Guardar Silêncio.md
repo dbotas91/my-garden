@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["silêncio"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:48.371+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-11-01T16:35:31.517+00:00","title":"Guardar Silêncio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/guardar-silencio/"}
+{"dg-publish":true,"tags":["silêncio"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:48.370+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-11-01T16:35:31.517+00:00","title":"Guardar Silêncio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/guardar-silencio/"}
 ---
 
 [[Home\|Back home]]

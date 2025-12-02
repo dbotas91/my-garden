@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["maledicência"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:05.188+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:06:48.543+00:00","title":"Cuidado com a língua","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/cuidado-com-a-lingua/"}
+{"dg-publish":true,"tags":["maledicência"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:05.188+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:06:48.542+00:00","title":"Cuidado com a língua","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/cuidado-com-a-lingua/"}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/after-the-quake/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:37.944+01:00","updated":"2025-10-24T16:13:51.004+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/after-the-quake/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:37.944+01:00","updated":"2025-10-24T16:13:51.003+01:00"}
 ---
 
 # 📕 After The Quake

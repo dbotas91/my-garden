@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/daily-standup/","dgPassFrontmatter":true,"created":"2025-10-16T09:53:08.403+01:00","updated":"2025-10-24T16:19:52.987+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/daily-standup/","dgPassFrontmatter":true,"created":"2025-10-16T09:53:08.403+01:00","updated":"2025-10-24T16:20:03.618+01:00"}
 ---
 
 # 🙆🏽‍♀️ Daily Standup

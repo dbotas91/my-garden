@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["sabedoria","ia"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:29:35.053+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T17:31:56.339+00:00","title":"O temor do Senhor é o princípio da sabedoria","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-temor-do-senhor-e-o-principio-da-sabedoria/"}
+{"dg-publish":true,"tags":["sabedoria","ia"],"mature-status":"Child","message_category":"Devocional","created":"2025-10-16T10:29:35.052+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T17:31:56.339+00:00","title":"O temor do Senhor é o princípio da sabedoria","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-temor-do-senhor-e-o-principio-da-sabedoria/"}
 ---
 
 [[Home\|Back home]]

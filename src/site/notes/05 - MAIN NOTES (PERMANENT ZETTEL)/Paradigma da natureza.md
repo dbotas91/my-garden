@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["paradigmas","natureza"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:36.231+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T13:07:50.068+00:00","title":"Paradigma da natureza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paradigma-da-natureza/"}
+{"dg-publish":true,"tags":["paradigmas","natureza"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:36.230+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T13:07:50.068+00:00","title":"Paradigma da natureza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paradigma-da-natureza/"}
 ---
 
 [[Home\|Back home]]

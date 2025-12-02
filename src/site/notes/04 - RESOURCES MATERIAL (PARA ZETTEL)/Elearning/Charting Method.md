@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/charting-method/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:15.509+01:00","updated":"2025-10-24T16:05:19.916+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/charting-method/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:15.509+01:00","updated":"2025-10-24T16:05:19.915+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--chartig.png)

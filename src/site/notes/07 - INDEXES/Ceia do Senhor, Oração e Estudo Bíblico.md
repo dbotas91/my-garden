@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2025-10-30T12:47:46.681+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
+{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2025-10-30T12:47:46.680+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
 ---
 
 [[Home\|Back home]]

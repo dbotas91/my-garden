@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/6-distribuicoes-teoricas-continuas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:55.511+01:00","updated":"2025-10-24T13:19:21.176+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/6-distribuicoes-teoricas-continuas/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:55.511+01:00","updated":"2025-10-24T13:19:21.175+01:00"}
 ---
 
 

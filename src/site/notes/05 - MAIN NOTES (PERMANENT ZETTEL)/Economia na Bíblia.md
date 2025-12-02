@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:08.704+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:44:14.952+00:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen"}
+{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:08.704+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:44:14.951+00:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen"}
 ---
 
 [[Home\|Back home]]

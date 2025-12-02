@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/guidewire-methodology-and-tools-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:46.371+01:00","updated":"2025-10-24T16:06:15.474+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/guidewire-methodology-and-tools-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:46.371+01:00","updated":"2025-10-24T16:06:15.443+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%204.png)

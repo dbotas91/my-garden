@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estudar-policy-center-9-0-introduction-personal-commercial-kickstart/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:09.418+01:00","updated":"2025-10-24T16:05:53.085+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estudar-policy-center-9-0-introduction-personal-commercial-kickstart/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:09.417+01:00","updated":"2025-10-24T16:05:53.084+01:00"}
 ---
 
 # Estudar PolicyCenter 9.0 Introduction (Personal/Commercial) - Kickstart

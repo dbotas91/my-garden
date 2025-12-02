@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["perseverança"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:36.739+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T10:15:12.019+00:00","title":"Perseverança hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/perseveranca-hoje/"}
+{"dg-publish":true,"tags":["perseverança"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:36.738+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T10:15:12.019+00:00","title":"Perseverança hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/perseveranca-hoje/"}
 ---
 
 [[Home\|Back home]]

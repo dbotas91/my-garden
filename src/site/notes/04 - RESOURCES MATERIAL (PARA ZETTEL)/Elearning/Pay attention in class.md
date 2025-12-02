@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/pay-attention-in-class/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:27.039+01:00","updated":"2025-10-24T16:08:14.718+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/pay-attention-in-class/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:27.038+01:00","updated":"2025-10-24T16:08:14.717+01:00"}
 ---
 
 # Pay attention in class
