@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-28T10:51:56.926+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-12-06T23:41:35.567+00:00"}
 ---
 
 
@@ -11,11 +11,11 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Eu acredito no Batismo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Chegar à excelência por meio da provação\|Chegar à excelência por meio da provação]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Testes Excelência na Bíblia\|Testes Excelência na Bíblia]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que cada cristão deve saber acerca do Islão\|O que cada cristão deve saber acerca do Islão]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação\|Inquietação]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
 
 
 ## A falar
@@ -27,6 +27,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Comunicação eficaz - Nobres examinadores - Perceber a Bíblia\|Comunicação eficaz - Nobres examinadores - Perceber a Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Provados\|Provados]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações\|Secularismo e a maldição das nações]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão\|Entendimento e compreensão]]
 
 
 ## Finalizado
@@ -77,7 +78,6 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados\|Boas batalhas para bons soldados]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados?\|Predestinados?]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Guardar Silêncio\|Guardar Silêncio]] ✅ 2025-11-28
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão\|Entendimento e compreensão]]
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Resoluções de Ano Novo\|Resoluções de Ano Novo]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Selados\|Selados]] ✅ 2025-11-28

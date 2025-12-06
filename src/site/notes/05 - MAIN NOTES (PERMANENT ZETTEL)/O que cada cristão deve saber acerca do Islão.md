@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["islão"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:29:34.320+01:00","speech-status":"Calado","local":null,"dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-27T16:10:32.665+00:00","title":"O que cada cristão deve saber acerca do Islão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-que-cada-cristao-deve-saber-acerca-do-islao/"}
+{"dg-publish":true,"tags":["islão"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:29:34.320+01:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-12-06T23:48:21.367+00:00","title":"O que cada cristão deve saber acerca do Islão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-que-cada-cristao-deve-saber-acerca-do-islao/"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Calado\|Calado]]
-Local: 
+Local: [[09 - STATUS NOTES/IQC - Jovens\|IQC - Jovens]]
 Tags: [[10 - TAGS/islão\|islão]]
 
 # 📓 O que cada cristão deve saber acerca do Islão

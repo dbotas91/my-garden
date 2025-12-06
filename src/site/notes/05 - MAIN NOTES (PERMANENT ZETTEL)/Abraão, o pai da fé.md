@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dgPassFrontmatter":true,"created":"2025-10-13T20:17:15.438+01:00","updated":"2025-10-22T13:25:04.861+01:00"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2025-10-13T20:17:15.438+01:00","speech-status":"Proferido","local":"fontaínhas","updated":"2025-12-06T23:47:34.693+00:00","title":"Abraão, o pai da fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/"}
 ---
 
-2025-10-14 18:12
+[[Home\|Back home]]
 
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]
 Local: [[09 - STATUS NOTES/Fontainhas\|Fontainhas]]
-Tags: [[10 - TAGS/Abraão\|Abraão]]
-
+Tags: [[10 - TAGS/Abraão\|Abraão]], [[10 - TAGS/fé\|fé]], [[10 - TAGS/secularismo\|secularismo]]
 # Abraão, o pai da fé
 
-Depois de falar do secularismo e a maldição das nações, espero que a história de Abraão ajude-nos a perceber o que abençoados somos em Cristo.
+Depois de falar do [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações\|secularismo e a maldição das nações]], espero que a história de Abraão ajude-nos a perceber o que abençoados somos em Cristo.
 
 Na Bíblia não existe nenhuma expressão ou passagem que diga diretamente que Abraão é o pai da fé.
 

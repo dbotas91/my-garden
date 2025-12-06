@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:29:43.510+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2025-10-22T13:29:38.521+01:00"}
+{"dg-publish":true,"created":"2025-10-16T10:29:43.510+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2025-12-06T23:43:02.205+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]], [[09 - STATUS NOTES/Fontainhas\|Fontainhas]]
-Tags: [[10 - TAGS/torre de babel\|torre de babel]], [[10 - TAGS/genesis 11\|genesis 11]], [[10 - TAGS/Abraão\|Abraão]], [[10 - TAGS/Ninrode\|Ninrode]]
+Tags: [[10 - TAGS/torre de babel\|torre de babel]], [[10 - TAGS/genesis 11\|genesis 11]], [[10 - TAGS/Abraão\|Abraão]], [[10 - TAGS/Ninrode\|Ninrode]], [[10 - TAGS/secularismo\|secularismo]]
 
 ## Leitura: [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações#Génesis 10-11\|Génesis 10-11]]
 
