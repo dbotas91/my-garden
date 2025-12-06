@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["evangelização"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:38.808+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:28:55.905+00:00","title":"Porque é que Deus te há-de aceitar?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/porque-e-que-deus-te-ha-de-aceitar/"}
+{"dg-publish":true,"tags":["evangelização"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:38.809+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:28:55.906+00:00","title":"Porque é que Deus te há-de aceitar?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/porque-e-que-deus-te-ha-de-aceitar/"}
 ---
 
 [[Home\|Back home]]

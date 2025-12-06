@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["seminário"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:44.821+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T16:36:02.495+00:00","title":"Seminário","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/seminarios/"}
+{"dg-publish":true,"tags":["seminário"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:44.821+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T16:36:02.496+00:00","title":"Seminário","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/seminarios/"}
 ---
 
 [[Home\|Back home]]

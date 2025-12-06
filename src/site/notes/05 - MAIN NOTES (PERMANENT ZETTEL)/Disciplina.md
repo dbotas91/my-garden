@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:06.296+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-30T10:38:48.063+00:00","title":"Disciplina","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/disciplina/"}
+{"dg-publish":true,"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:06.296+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-30T10:38:48.070+00:00","title":"Disciplina","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/disciplina/"}
 ---
 
 [[Home\|Back home]]

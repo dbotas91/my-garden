@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/creative-resume-template/","dgPassFrontmatter":true,"created":"2025-10-16T10:09:56.793+01:00","updated":"2025-10-24T16:18:59.924+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/creative-resume-template/","dgPassFrontmatter":true,"created":"2025-10-16T10:09:56.793+01:00","updated":"2025-10-24T16:18:42.423+01:00"}
 ---
 
 ![](Dashboard/Attachments/Banner_TwittergumroadNotion_%281%29.png)

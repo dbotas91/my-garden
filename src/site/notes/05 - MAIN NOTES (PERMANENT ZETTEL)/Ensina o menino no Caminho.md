@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Adult","message_category":"Devocional","created":"2025-11-07T18:19:24.798+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-15T21:16:44.165+00:00","title":"Ensina o menino no Caminho","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ensina-o-menino-no-caminho/"}
+{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Adult","message_category":"Devocional","created":"2025-11-07T18:19:24.799+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-15T21:16:44.165+00:00","title":"Ensina o menino no Caminho","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ensina-o-menino-no-caminho/"}
 ---
 
 [[Home\|Back home]]

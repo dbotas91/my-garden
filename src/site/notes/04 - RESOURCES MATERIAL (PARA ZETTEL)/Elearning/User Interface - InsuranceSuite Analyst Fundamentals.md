@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-interface-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:16.382+01:00","updated":"2025-10-24T16:09:08.795+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-interface-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:16.383+01:00","updated":"2025-10-24T16:09:08.795+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%2017.png)

@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-regressao-linear-simples/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:51.001+01:00","updated":"2025-10-24T12:37:02.145+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-regressao-linear-simples/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:51.002+01:00","updated":"2025-10-24T12:37:02.145+01:00"}
 ---
 
 

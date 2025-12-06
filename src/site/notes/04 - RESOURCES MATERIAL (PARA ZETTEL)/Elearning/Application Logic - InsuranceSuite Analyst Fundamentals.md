@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/application-logic-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:12.642+01:00","updated":"2025-10-24T13:20:35.037+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/application-logic-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:12.643+01:00","updated":"2025-10-24T13:20:35.037+01:00"}
 ---
 
 

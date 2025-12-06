@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c4-getting-started-setting-up-time-space-tools/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:13.053+01:00","updated":"2025-10-24T16:17:57.269+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c4-getting-started-setting-up-time-space-tools/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:13.053+01:00","updated":"2025-10-24T16:17:57.270+01:00"}
 ---
 
 # C4 Getting started: setting up time, space tools

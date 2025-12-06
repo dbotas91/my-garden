@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/python-for-everybody-specialization/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:42.081+01:00","updated":"2025-10-24T16:08:42.575+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/python-for-everybody-specialization/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:42.081+01:00","updated":"2025-10-24T16:08:42.608+01:00"}
 ---
 
 ![](Dashboard/Attachments/768px-Python-logo-notext.svg.png)

@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/crime-and-punishment/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:59.961+01:00","updated":"2025-10-24T16:19:40.871+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/crime-and-punishment/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:59.962+01:00","updated":"2025-10-24T16:19:03.563+01:00"}
 ---
 
 # 📕 Crime and Punishment

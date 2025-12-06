@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/orcamento-ricogal-wix/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:08.817+01:00","updated":"2025-10-24T16:25:05.003+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/orcamento-ricogal-wix/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:08.818+01:00","updated":"2025-10-24T16:25:05.004+01:00"}
 ---
 
 # Orçamento Ricogal wix

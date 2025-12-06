@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["transformação"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:45.998+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T17:15:06.694+00:00","title":"Ajuda leva a transformação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ajuda-leva-a-transformacao/"}
+{"dg-publish":true,"tags":["transformação"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:45.999+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-27T17:15:06.695+00:00","title":"Ajuda leva a transformação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ajuda-leva-a-transformacao/"}
 ---
 
 [[Home\|Back home]]

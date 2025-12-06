@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["energiapotencial"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:09.624+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T18:12:07.242+00:00","title":"Energia Potencial","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/energia-potencial/"}
+{"dg-publish":true,"tags":["energiapotencial"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:09.625+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T18:12:07.242+00:00","title":"Energia Potencial","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/energia-potencial/"}
 ---
 
 [[Home\|Back home]]

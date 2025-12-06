@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/codecademy-s-full-stack-engineer-career-path/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.643+01:00","updated":"2025-10-24T16:05:28.249+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/codecademy-s-full-stack-engineer-career-path/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.644+01:00","updated":"2025-10-24T16:05:28.249+01:00"}
 ---
 
 

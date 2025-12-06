@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-note-icon":"legacy","noteIcon":"legacy","permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","dgPassFrontmatter":true,"created":"2025-10-16T10:04:53.290+01:00","updated":"2025-10-22T13:28:43.469+01:00"}
+{"dg-publish":true,"dg-note-icon":"legacy","noteIcon":"legacy","permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","dgPassFrontmatter":true,"created":"2025-10-16T10:04:53.291+01:00","updated":"2025-10-22T13:28:43.469+01:00"}
 ---
 
  
 
-![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-soap-1945106-9B9B9B%204.png)
+![](/img/user/08 - ATTACHMENTS/Attachments/noun-soap-1945106-9B9B9B 4.png)
 
 # S-O-A-P Method
 
@@ -14,13 +14,13 @@
 
 ### **Scripture**
 
-![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-information-690230-9B9B9B%204.png)
+![](/img/user/08 - ATTACHMENTS/Attachments/noun-information-690230-9B9B9B 4.png)
 
 Read a short Bible passage out loud and/or write it out.
 
 ### **Observation**
 
-![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-information-690230-9B9B9B%204.png)
+![](/img/user/08 - ATTACHMENTS/Attachments/noun-information-690230-9B9B9B 4.png)
 
 What do you notice about the verses? What do you think the main message is? What verses, words, or ideas jump out to you?
 

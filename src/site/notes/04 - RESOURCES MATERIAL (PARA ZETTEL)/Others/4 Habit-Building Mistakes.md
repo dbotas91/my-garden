@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/4-habit-building-mistakes/","dgPassFrontmatter":true,"created":"2025-10-16T10:32:17.823+01:00","updated":"2025-10-24T16:10:48.325+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/4-habit-building-mistakes/","dgPassFrontmatter":true,"created":"2025-10-16T10:32:17.824+01:00","updated":"2025-10-24T16:10:29.772+01:00"}
 ---
 
 ![](Dashboard/Attachments/nasa_space_shuttle_challenger.jpg)

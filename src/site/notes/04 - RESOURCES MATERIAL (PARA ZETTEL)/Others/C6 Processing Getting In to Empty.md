@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c6-processing-getting-in-to-empty/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:13.683+01:00","updated":"2025-10-24T16:18:25.517+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c6-processing-getting-in-to-empty/","dgPassFrontmatter":true,"created":"2025-10-16T10:16:13.684+01:00","updated":"2025-10-24T16:18:25.517+01:00"}
 ---
 
 # C6 Processing: Getting "In" to Empty

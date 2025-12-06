@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["salvação"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:38.174+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:38:18.271+00:00","title":"Podemos perder a nossa salvação pela graça?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/podemos-perder-a-nossa-salvacao-pela-graca/"}
+{"dg-publish":true,"tags":["salvação"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:38.175+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:38:18.272+00:00","title":"Podemos perder a nossa salvação pela graça?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/podemos-perder-a-nossa-salvacao-pela-graca/"}
 ---
 
 [[Home\|Back home]]

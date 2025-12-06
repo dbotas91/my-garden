@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["soldados"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:57.493+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T13:21:32.939+00:00","title":"Boas batalhas para bons soldados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/boas-batalhas-para-bons-soldados/"}
+{"dg-publish":true,"tags":["soldados"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:57.494+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T13:20:28.440+00:00","title":"Boas batalhas para bons soldados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/boas-batalhas-para-bons-soldados/"}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["filipenses"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:30:07.201+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T16:52:23.130+00:00","title":"Filipenses 4:6","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/filipenses-4/"}
+{"dg-publish":true,"tags":["filipenses"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:30:07.202+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T16:52:23.131+00:00","title":"Filipenses 4:6","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/filipenses-4/"}
 ---
 
 [[Home\|Back home]]

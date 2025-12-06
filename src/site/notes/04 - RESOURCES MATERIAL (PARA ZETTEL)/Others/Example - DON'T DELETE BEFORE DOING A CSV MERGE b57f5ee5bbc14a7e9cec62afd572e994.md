@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/example-don-t-delete-before-doing-a-csv-merge-b57f5ee5bbc14a7e9cec62afd572e994/","dgPassFrontmatter":true,"created":"2025-10-16T10:32:18.499+01:00","updated":"2025-10-24T16:21:11.308+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/example-don-t-delete-before-doing-a-csv-merge-b57f5ee5bbc14a7e9cec62afd572e994/","dgPassFrontmatter":true,"created":"2025-10-16T10:32:18.499+01:00","updated":"2025-10-24T16:21:11.309+01:00"}
 ---
 
 # Example - DON'T DELETE BEFORE DOING A CSV MERGE

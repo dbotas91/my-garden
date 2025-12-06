@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/istqb-revision-sheet/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:52.875+01:00","updated":"2025-10-24T16:07:10.775+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/istqb-revision-sheet/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:52.875+01:00","updated":"2025-10-24T16:07:10.776+01:00"}
 ---
 
 # ISTQB Revision Sheet

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:27:54.707+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:22:57.097+00:00","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-ma-doutrina-corrompe-o-comportamento/","noteIcon":"teen"}
+{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:27:54.708+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:22:57.098+00:00","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-ma-doutrina-corrompe-o-comportamento/","noteIcon":"teen"}
 ---
 
 [[Home\|Back home]]

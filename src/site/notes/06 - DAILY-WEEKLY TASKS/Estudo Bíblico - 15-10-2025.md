@@ -1,5 +1,5 @@
 ---
-{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-15-10-2025/","dgPassFrontmatter":true,"created":"2025-10-15T18:12:37.954+01:00","updated":"2025-10-25T17:52:18.569+01:00"}
+{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-15-10-2025/","dgPassFrontmatter":true,"created":"2025-10-15T18:12:37.955+01:00","updated":"2025-10-25T17:52:18.569+01:00"}
 ---
 
 2025-10-15 18:12

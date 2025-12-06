@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/grade-calculator/","dgPassFrontmatter":true,"created":"2025-10-16T10:42:22.504+01:00","updated":"2025-10-24T15:51:07.448+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/grade-calculator/","dgPassFrontmatter":true,"created":"2025-10-16T10:42:22.505+01:00","updated":"2025-10-24T15:51:07.448+01:00"}
 ---
 
 # ⚙ [Grade Calculator](https://dev.notion.so/notion/Academic-Mission-Control-f541b37eabc049429a7e37b74bf73594#7f277c46ce41424ea9d7be0c19365cbd)

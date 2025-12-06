@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/gym/","dgPassFrontmatter":true,"created":"2025-10-16T10:13:54.420+01:00","updated":"2025-10-24T16:23:40.984+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/gym/","dgPassFrontmatter":true,"created":"2025-10-16T10:13:54.421+01:00","updated":"2025-10-24T16:23:30.140+01:00"}
 ---
 
 ![](Dashboard/Attachments/4329323%201.png)

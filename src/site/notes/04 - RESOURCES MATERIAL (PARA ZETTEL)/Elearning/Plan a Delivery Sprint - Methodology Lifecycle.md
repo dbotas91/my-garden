@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/plan-a-delivery-sprint-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:17.106+01:00","updated":"2025-10-24T16:08:20.352+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/plan-a-delivery-sprint-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:17.107+01:00","updated":"2025-10-24T16:08:20.352+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%2011.png)

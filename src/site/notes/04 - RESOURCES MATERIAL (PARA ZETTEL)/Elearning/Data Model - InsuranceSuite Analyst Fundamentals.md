@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/data-model-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:39.603+01:00","updated":"2025-10-24T16:05:41.156+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/data-model-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:39.604+01:00","updated":"2025-10-24T16:05:41.157+01:00"}
 ---
 
 

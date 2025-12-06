@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:28.698+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T17:26:24.951+00:00","title":"Jonas, o fugitivo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/jonas-o-fugitivo/"}
+{"dg-publish":true,"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:28.698+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T17:26:24.952+00:00","title":"Jonas, o fugitivo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/jonas-o-fugitivo/"}
 ---
 
 [[Home\|Back home]]

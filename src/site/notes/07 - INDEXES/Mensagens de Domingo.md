@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.540+01:00","updated":"2025-11-28T10:51:56.926+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-11-28T10:51:56.926+00:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A importância de dividir BEM\|A importância de dividir BEM]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Não te desvies da Verdade\|Não te desvies da Verdade]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Compreende e memoriza\|Compreende e memoriza]] ✅ 2025-10-27
-- [x] [[Estão todos perdoados?\|Estão todos perdoados?]] ✅ 2025-10-27
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estão todos perdoados?\|Estão todos perdoados?]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O inferno e a provisão de Deus\|O inferno e a provisão de Deus]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ingratidão e murmúrio\|Ingratidão e murmúrio]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Salmo 8.38\|Salmo 8.38]] ✅ 2025-10-27
@@ -75,7 +75,7 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Paradigma da natureza\|Paradigma da natureza]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados\|Boas batalhas para bons soldados]] ✅ 2025-11-28
-- [x] [[Predestinados?\|Predestinados?]] ✅ 2025-11-28
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados?\|Predestinados?]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Guardar Silêncio\|Guardar Silêncio]] ✅ 2025-11-28
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão\|Entendimento e compreensão]]
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]] ✅ 2025-11-28

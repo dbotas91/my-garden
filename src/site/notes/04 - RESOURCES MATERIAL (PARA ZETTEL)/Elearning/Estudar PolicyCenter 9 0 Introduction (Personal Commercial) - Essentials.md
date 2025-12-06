@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estudar-policy-center-9-0-introduction-personal-commercial-essentials/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:11.850+01:00","updated":"2025-10-24T16:05:49.061+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estudar-policy-center-9-0-introduction-personal-commercial-essentials/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:11.851+01:00","updated":"2025-10-24T16:05:49.061+01:00"}
 ---
 
 # Estudar PolicyCenter 9.0 Introduction (Personal/Commercial) - Essentials

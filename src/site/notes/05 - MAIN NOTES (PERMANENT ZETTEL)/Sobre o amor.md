@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["amor"],"mature-status":"Adult","message_category":"Devocional","created":"2025-11-07T16:32:19.964+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T17:01:18.389+00:00","title":"Sobre o amor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-o-amor/"}
+{"dg-publish":true,"tags":["amor"],"mature-status":"Adult","message_category":"Devocional","created":"2025-11-07T16:32:19.965+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T17:01:18.425+00:00","title":"Sobre o amor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-o-amor/"}
 ---
 
 [[Home\|Back home]]

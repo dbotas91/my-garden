@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/projetos-para-web-developers/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:28.004+01:00","updated":"2025-10-23T12:52:30.389+01:00"}
+{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/projetos-para-web-developers/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:28.004+01:00","updated":"2025-10-23T12:52:30.390+01:00"}
 ---
  
 

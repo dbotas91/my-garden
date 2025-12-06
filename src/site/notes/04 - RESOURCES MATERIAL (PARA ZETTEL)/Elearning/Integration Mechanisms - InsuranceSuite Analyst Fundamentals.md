@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/integration-mechanisms-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:05.160+01:00","updated":"2025-10-24T16:06:50.954+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/integration-mechanisms-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:05.161+01:00","updated":"2025-10-24T16:06:50.955+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%207.png)

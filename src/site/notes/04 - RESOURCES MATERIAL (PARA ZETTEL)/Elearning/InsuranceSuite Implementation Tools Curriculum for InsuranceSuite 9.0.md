@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/insurance-suite-implementation-tools-curriculum-for-insurance-suite-9-0/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:08.882+01:00","updated":"2025-10-24T16:06:41.602+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/insurance-suite-implementation-tools-curriculum-for-insurance-suite-9-0/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:08.883+01:00","updated":"2025-10-24T16:06:41.603+01:00"}
 ---
 
 ![](Dashboard/Attachments/icons_graduate%2031.png)

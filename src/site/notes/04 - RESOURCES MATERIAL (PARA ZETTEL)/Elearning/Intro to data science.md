@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/intro-to-data-science/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:33.520+01:00","updated":"2025-10-24T16:06:59.207+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/intro-to-data-science/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:33.521+01:00","updated":"2025-10-24T16:06:59.207+01:00"}
 ---
 
 # Intro to data science

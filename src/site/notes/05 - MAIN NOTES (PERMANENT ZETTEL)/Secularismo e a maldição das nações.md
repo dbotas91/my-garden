@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:29:43.509+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2025-10-22T13:29:38.520+01:00"}
+{"dg-publish":true,"created":"2025-10-16T10:29:43.510+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2025-10-22T13:29:38.521+01:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["presenteverdade","dispensacional","divisaodabiblia"],"mature-status":"Adult","message_category":"dispensacional","created":"2025-10-16T10:28:45.339+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-30T11:57:15.431+00:00","title":"A Presente Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-presente-verdade/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["presenteverdade","dispensacional","divisaodabiblia"],"mature-status":"Adult","message_category":"dispensacional","created":"2025-10-16T10:28:45.339+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-30T11:57:15.432+00:00","title":"A Presente Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-presente-verdade/","noteIcon":"adult"}
 ---
 
 [[Home\|Back home]]

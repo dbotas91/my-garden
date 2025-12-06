@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/agile-roles-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:07.259+01:00","updated":"2025-10-24T16:04:41.674+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/agile-roles-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:07.259+01:00","updated":"2025-10-24T16:04:41.675+01:00"}
 ---
 
 

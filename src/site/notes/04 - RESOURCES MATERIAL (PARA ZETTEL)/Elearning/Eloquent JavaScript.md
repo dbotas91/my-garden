@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/eloquent-java-script/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.911+01:00","updated":"2025-10-24T16:05:43.481+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/eloquent-java-script/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:32.912+01:00","updated":"2025-10-24T16:05:43.481+01:00"}
 ---
 
 # Eloquent JavaScript

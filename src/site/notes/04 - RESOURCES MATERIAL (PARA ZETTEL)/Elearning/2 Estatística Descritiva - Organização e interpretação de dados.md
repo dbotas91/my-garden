@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-estatistica-descritiva-organizacao-e-interpretacao-de-dados/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:46.877+01:00","updated":"2025-10-24T12:37:53.241+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-estatistica-descritiva-organizacao-e-interpretacao-de-dados/","dgPassFrontmatter":true,"created":"2025-10-16T10:25:46.877+01:00","updated":"2025-10-24T12:37:53.277+01:00"}
 ---
 
 

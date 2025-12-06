@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cs-104-lecture-5/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:13.154+01:00","updated":"2025-10-24T16:05:37.079+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cs-104-lecture-5/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:13.155+01:00","updated":"2025-10-24T16:05:37.080+01:00"}
 ---
 
 # 🤖 CS104: Lecture 5
@@ -9,7 +9,7 @@
 |![](clock_gray%203.svg)Created|@February 7, 2022 11:39 AM|
 |![](arrow-circle-down_gray%203.svg)Class|CSCI 104|
 |![](arrow-circle-down_gray%203.svg)Type|Lecture|
-|<iframe src="http://bits.usc.edu/cs104/handouts/handout5.pdf" width="100%" height="900px" title="External PDF" style="border:1px solid #ccc;"></iframe>|
+|![](attachment_gray%202.svg)Materials|[http://bits.usc.edu/cs104/handouts/handout5.pdf](http://bits.usc.edu/cs104/handouts/handout5.pdf)|
 |![](checkmark-square_gray%203.svg)Reviewed||
 
 # Chapter 5: Linked Lists

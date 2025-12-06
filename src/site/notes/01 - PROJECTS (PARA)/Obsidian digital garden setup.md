@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","created":"2025-10-21T08:18:47.529+01:00","updated":"2025-10-22T13:21:14.093+01:00","permalink":"/01-projects-para/obsidian-digital-garden-setup/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","created":"2025-10-21T08:18:47.530+01:00","updated":"2025-10-22T13:21:14.093+01:00","permalink":"/01-projects-para/obsidian-digital-garden-setup/","dgPassFrontmatter":true}
 ---
 
 

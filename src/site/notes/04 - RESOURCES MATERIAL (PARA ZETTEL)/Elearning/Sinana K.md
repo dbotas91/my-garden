@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/sinana-k/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:36.519+01:00","updated":"2025-10-24T15:58:28.765+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/sinana-k/","dgPassFrontmatter":true,"created":"2025-10-16T10:18:36.520+01:00","updated":"2025-10-24T15:58:09.385+01:00"}
 ---
 
 # Sinana K

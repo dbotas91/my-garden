@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c5-make-it-attractive/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:40.390+01:00","updated":"2025-10-24T16:18:11.104+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c5-make-it-attractive/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:40.391+01:00","updated":"2025-10-24T16:18:11.104+01:00"}
 ---
 
 # C5 - Make It Attractive

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["coração"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:30:02.422+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T16:52:55.005+00:00","title":"Bens do coração","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/bens-do-coracao/"}
+{"dg-publish":true,"tags":["coração"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:30:02.423+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T16:52:55.005+00:00","title":"Bens do coração","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/bens-do-coracao/"}
 ---
 
 [[Home\|Back home]]

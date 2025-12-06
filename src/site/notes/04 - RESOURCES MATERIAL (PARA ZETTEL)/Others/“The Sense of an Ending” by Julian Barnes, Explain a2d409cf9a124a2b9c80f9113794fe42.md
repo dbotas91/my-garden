@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/the-sense-of-an-ending-by-julian-barnes-explain-a2d409cf9a124a2b9c80f9113794fe42/","dgPassFrontmatter":true,"created":"2025-10-16T10:17:40.502+01:00","updated":"2025-10-24T16:10:17.788+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/the-sense-of-an-ending-by-julian-barnes-explain-a2d409cf9a124a2b9c80f9113794fe42/","dgPassFrontmatter":true,"created":"2025-10-16T10:17:40.503+01:00","updated":"2025-10-24T16:10:17.789+01:00"}
 ---
 
 # “The Sense of an Ending” by Julian Barnes, Explained. [SPOILER ALERT]

@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estrutura-de-dados-e-algoritmos-em-java-script/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:26.149+01:00","updated":"2025-10-24T15:47:15.578+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/estrutura-de-dados-e-algoritmos-em-java-script/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:26.150+01:00","updated":"2025-10-24T15:47:03.333+01:00"}
 ---
 
 # 👨🏻‍🏫 Estrutura de Dados e Algoritmos em JavaScript

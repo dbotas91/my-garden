@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dgPassFrontmatter":true,"created":"2025-10-13T20:17:15.438+01:00","updated":"2025-10-22T13:25:04.860+01:00"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dgPassFrontmatter":true,"created":"2025-10-13T20:17:15.438+01:00","updated":"2025-10-22T13:25:04.861+01:00"}
 ---
 
 2025-10-14 18:12
@@ -98,4 +98,4 @@ Portanto, assim diz o Senhor: Vós não me ouvistes a mim, para apregoardes a l
 
 # [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações\|Secularismo e a maldição das nações]]
 
-<iframe src="/img/user/08%20-%20ATTACHMENTS/Secularismo%20e%20a%20maldicao%20das%20nacoes.pdf" width="100%" height="900px" title="Secularismo e a maldicao das nacoes.pdf" style="border:1px solid #ccc;"></iframe>
+![[Secularismo e a maldicao das nacoes.pdf]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["dor"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:46.787+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-31T10:59:58.945+00:00","title":"Além da dor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/alem-da-dor/"}
+{"dg-publish":true,"tags":["dor"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:46.788+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-31T10:59:58.946+00:00","title":"Além da dor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/alem-da-dor/"}
 ---
 
 [[Home\|Back home]]

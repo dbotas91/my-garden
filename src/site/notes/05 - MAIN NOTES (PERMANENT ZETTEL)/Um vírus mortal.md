@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["vírus","vírusmortal"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:54.405+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T15:02:02.466+00:00","title":"Um vírus mortal","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/um-virus-mortal/"}
+{"dg-publish":true,"tags":["vírus","vírusmortal"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:54.406+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T15:02:02.466+00:00","title":"Um vírus mortal","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/um-virus-mortal/"}
 ---
 
 [[Home\|Back home]]

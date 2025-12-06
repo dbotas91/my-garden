@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2025-10-27T13:14:31.935+00:00","updated":"2025-10-27T14:41:56.123+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/"}
+{"dg-publish":true,"tags":["test","istqb"],"created":"2025-12-02T09:48:49.517+00:00","updated":"2025-12-06T23:37:30.037+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/istqb-certified-tester-foundation-level/"}
 ---
 
 [[Home\|Back home]]
-# Áreas
+# [ISTQB Certified Tester Foundation Level]
 
 ## General Description
 Breve descrição do que este índice cobre e como navegar.
 
 ## Section
-- [[Sub-índice 1\|Sub-índice 1]]
+- [[04 - RESOURCES MATERIAL (PARA ZETTEL)/Elearning/1- Fundamentals of Testing\|1- Fundamentals of Testing]]
 - [[Sub-índice 2\|Sub-índice 2]]
 
 ## Highlight Notes

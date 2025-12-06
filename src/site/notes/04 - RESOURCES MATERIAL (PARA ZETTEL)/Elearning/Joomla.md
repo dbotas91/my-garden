@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/joomla/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:38.166+01:00","updated":"2025-10-24T16:07:22.311+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/joomla/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:38.167+01:00","updated":"2025-10-24T16:07:22.338+01:00"}
 ---
 
 # 📄 Joomla

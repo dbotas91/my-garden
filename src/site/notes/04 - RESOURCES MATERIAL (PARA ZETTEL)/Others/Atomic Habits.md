@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/atomic-habits/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:53.555+01:00","updated":"2025-10-24T16:30:10.137+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/atomic-habits/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:53.555+01:00","updated":"2025-10-24T16:29:57.885+01:00"}
 ---
 
 # 📕 Atomic Habits
