@@ -80,25 +80,25 @@ Declaração de fé de igrejas batistas
 
 [https://iebcedofeita.pt/cremos/](https://iebcedofeita.pt/cremos/)
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/Untitled 159.png)](Eu%20acredito%20no%20Batismo/Untitled.png)
+[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%20159.png)](Eu%20acredito%20no%20Batismo/Untitled.png)
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/Untitled 1 35.png)](Eu%20acredito%20no%20Batismo/Untitled%201.png)
+[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%201%2035.png)](Eu%20acredito%20no%20Batismo/Untitled%201.png)
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/Untitled 2 31.png)](Eu%20acredito%20no%20Batismo/Untitled%202.png)
+[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%202%2031.png)](Eu%20acredito%20no%20Batismo/Untitled%202.png)
 
-[![](/img/user/08 - ATTACHMENTS/Attachments/Untitled 3 28.png)](Eu%20acredito%20no%20Batismo/Untitled%203.png)
+[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%203%2028.png)](Eu%20acredito%20no%20Batismo/Untitled%203.png)
 
 [https://www.youtube.com/watch?v=o8PUzBNSqmc&list=PLESaU36LHAs1Fd17HxFdQjunXaz1wY5Bm&index=4](https://www.youtube.com/watch?v=o8PUzBNSqmc&list=PLESaU36LHAs1Fd17HxFdQjunXaz1wY5Bm&index=4)
 
 
-![](/img/user/08 - ATTACHMENTS/Attachments/touch-icon-ipad-retina.png)https://www.biblegateway.com/passage/?search=Lc+24.47;+Mt+28:18-20;+Mc+16.15-17&version=ARC
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/touch-icon-ipad-retina.png)https://www.biblegateway.com/passage/?search=Lc+24.47;+Mt+28:18-20;+Mc+16.15-17&version=ARC
 
-![](/img/user/08 - ATTACHMENTS/Attachments/logo_bg-sharing.png)](https://www.biblegateway.com/passage/?search=Lc+24.47;+Mt+28:18-20;+Mc+16.15-17&version=ARC)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/logo_bg-sharing.png)](https://www.biblegateway.com/passage/?search=Lc+24.47;+Mt+28:18-20;+Mc+16.15-17&version=ARC)
 
 [O que significa o Batismo? Respostas que aprendi das escrituras e enviei às pessoas que perguntaram sobre a Bíblia desde 1988.
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2013.ico)https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html
 
-![](/img/user/08 - ATTACHMENTS/Attachments/hqdefault 2.jpeg)](https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/hqdefault%202.jpeg)](https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html)
 
 [
 
@@ -108,7 +108,7 @@ Respostas que aprendi das escrituras e enviei às pessoas que perguntaram sobre 
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2013.ico)https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html
 
-![](/img/user/08 - ATTACHMENTS/Attachments/hqdefault 3.jpeg)](https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/hqdefault%203.jpeg)](https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html)
 
 [
 
@@ -118,7 +118,7 @@ You are to imitate me, just as I imitate Christ.
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/1_corinthians/11-1.htm
 
-![](/img/user/08 - ATTACHMENTS/Attachments/46_1Co_11_01.jpg)](https://biblehub.com/1_corinthians/11-1.htm)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/46_1Co_11_01.jpg)](https://biblehub.com/1_corinthians/11-1.htm)
 
 [
 
@@ -204,7 +204,7 @@ Paul, called to be an apostle of Christ Jesus by the will of God, and our brothe
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/1_corinthians/1-1.htm
 
-![](/img/user/08 - ATTACHMENTS/Attachments/46_1Co_01_01.jpg)](https://biblehub.com/1_corinthians/1-1.htm)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/46_1Co_01_01.jpg)](https://biblehub.com/1_corinthians/1-1.htm)
 
 [
 
@@ -214,7 +214,7 @@ Now get up and go into the city, and you will be told what you must do.
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/acts/9-6.htm
 
-![](/img/user/08 - ATTACHMENTS/Attachments/44_Act_09_06.jpg)](https://biblehub.com/acts/9-6.htm)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/44_Act_09_06.jpg)](https://biblehub.com/acts/9-6.htm)
 
 [
 
@@ -224,7 +224,7 @@ Meanwhile, Saul was still breathing out murderous threats against the disciples 
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/acts/9-1.htm
 
-![](/img/user/08 - ATTACHMENTS/Attachments/44_Act_09_01.jpg)](https://biblehub.com/acts/9-1.htm)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/44_Act_09_01.jpg)](https://biblehub.com/acts/9-1.htm)
 
 [
 
@@ -234,7 +234,7 @@ In my first book, O Theophilus, I wrote about all that Jesus began to do and to 
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/acts/1-1.htm
 
-![](/img/user/08 - ATTACHMENTS/Attachments/44_Act_01_01.jpg)](https://biblehub.com/acts/1-1.htm)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/44_Act_01_01.jpg)](https://biblehub.com/acts/1-1.htm)
 
 [
 
@@ -244,4 +244,4 @@ so that you may be able to test and prove what is best and may be pure and blame
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2014.ico)https://biblehub.com/philippians/1-10.htm#lexicon
 
-![](/img/user/08 - ATTACHMENTS/Attachments/50_Php_01_10.jpg)](https://biblehub.com/philippians/1-10.htm#lexicon)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/50_Php_01_10.jpg)](https://biblehub.com/philippians/1-10.htm#lexicon)

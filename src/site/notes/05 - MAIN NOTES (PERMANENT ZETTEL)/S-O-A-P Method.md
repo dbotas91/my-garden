@@ -4,7 +4,7 @@
 
  
 
-![](/img/user/08 - ATTACHMENTS/Attachments/noun-soap-1945106-9B9B9B 4.png)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-soap-1945106-9B9B9B%204.png)
 
 # S-O-A-P Method
 
@@ -14,13 +14,13 @@
 
 ### **Scripture**
 
-![](/img/user/08 - ATTACHMENTS/Attachments/noun-information-690230-9B9B9B 4.png)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-information-690230-9B9B9B%204.png)
 
 Read a short Bible passage out loud and/or write it out.
 
 ### **Observation**
 
-![](/img/user/08 - ATTACHMENTS/Attachments/noun-information-690230-9B9B9B 4.png)
+![](/img/user/08%20-%20ATTACHMENTS/Attachments/noun-information-690230-9B9B9B%204.png)
 
 What do you notice about the verses? What do you think the main message is? What verses, words, or ideas jump out to you?
 
