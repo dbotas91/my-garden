@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-04T20:43:07.614+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-04T20:58:29.994+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
 ---
 
 [[Home\|Back home]]
@@ -59,8 +59,8 @@ Por exemplo:
 > [!quote]+ Igreja Baptista de Miratejo
 > “**Das Ordenanças da Igreja**+
 >    ### **Batismo**
-   É a imersão do crente em CRISTO em água, em nome Do PAI, FILHO e ESPÍRITO SANTO, demonstrando a fé do batizado no SALVADOR crucificado, sepultado e ressurreto, significando também que o batizado morreu para o pecado e o mundo, e ressuscitou para a vida nova em CRISTO. O batismo é pré-requisito para o indivíduo ser membro da Igreja Local.
-  _Atos 8:36-39; Romanos 6:3-5_
+> É a imersão do crente em CRISTO em água, em nome Do PAI, FILHO e ESPÍRITO SANTO, demonstrando a fé do batizado no SALVADOR crucificado, sepultado e ressurreto, significando também que o batizado morreu para o pecado e o mundo, e ressuscitou para a vida nova em CRISTO. O batismo é pré-requisito para o indivíduo ser membro da Igreja Local.
+  > _Atos 8:36-39; Romanos 6:3-5_
   > ### **Ceia do Senhor**
   > Os elementos da ceia são símbolos do corpo e sangue de CRISTO, e a ceia é uma comemoração da morte do SENHOR JESUS CRISTO. O crente em CRISTO, para receber a ceia, deve antes examinar-se para participar dignamente nela._1ª Coríntios 10:16-17, 11:23-28_
     
@@ -87,7 +87,7 @@ Também não percebi bem se dizem que o batismo é como sugestão de prática da
 
 Claro que se perguntarmos onde se encontra esse tipo de ensino, falam em Mateus 28, Marcos 16:15, Lucas 24, todas elas passagens que ensinam o contrário. Outros citam as passagens de João Batista nos primeiros capítulos dos evangelhos. Mas todas as passagens que lemos acerca do batismo na água, é mencionado que o propósito é para remissão dos pecados, deixando o povo de Israel pronto (ou purificado) para receber o Messias. Claro que para suportar o ensino que o batismo na água não é para salvação, fala-se no ladrão ao lado do Senhor (Lc. 23:43), de Atos 10:45-48, Atos 16:31-34, Atos 19:4-6. Todas essas passagens descontextualizadas e com estudos ou análises míopes.
 
-Quando perguntamos como funciona o batismo; o que é o batismo; quando é feito; por quem é feito; a quem é feito; como é feito; não chegamos a uma conclusão concreta:
+Quando perguntamos como funciona o batismo; o que é o batismo; quando é praticado; por quem é feito; a quem é feito; como é feito; não chegamos a uma conclusão concreta:
 
 - O batismo é por água;
 - O batismo é com água e pelo Espírito Santo;
