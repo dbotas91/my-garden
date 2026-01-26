@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-04T20:58:29.994+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-04T22:49:04.985+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
 ---
 
 [[Home\|Back home]]
@@ -159,6 +159,13 @@ Se lermos Mateus 3:11-17 encontramos 4 batismos diferentes, com significados dif
 ---
 
 Eu creio no batismo e sou batizado. Paulo diz que sou batizado pelo Espírito Santo que me colocou/integrou no Corpo de Cristo (1 Cor. 12:12-13), que me revestiu do Cristo (Gálatas 3:27) quando me identifiquei com Cristo (Romanos 6) ao crer nEle como meu Salvador e Senhor (Romanos 10:9-11).
+
+Quando Paulo fala do batismo ele diz claramente:
+1. [1 Coríntios 12:13](https://www.biblegateway.com/passage/?search=1%20Cor%C3%ADntios%2012%3A13&version=ARC)
+    Pois **todos nós fomos batizados em um Espírito**, formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um Espírito.
+    
+2. [Gálatas 3:27](https://www.biblegateway.com/passage/?search=G%C3%A1latas%203%3A27&version=ARC)    
+    porque **todos quantos fostes batizados** em Cristo já vos revestistes de Cristo.
 
 # Referências
 
