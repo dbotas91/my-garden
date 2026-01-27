@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2026-01-26T18:37:42.782+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2026-01-27T12:23:49.039+00:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A importância de dividir BEM\|A importância de dividir BEM]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Não te desvies da Verdade\|Não te desvies da Verdade]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Compreende e memoriza\|Compreende e memoriza]] ✅ 2025-10-27
-- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estão todos perdoados?\|Estão todos perdoados?]] ✅ 2025-10-27
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estão todos perdoados\|Estão todos perdoados]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O inferno e a provisão de Deus\|O inferno e a provisão de Deus]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ingratidão e murmúrio\|Ingratidão e murmúrio]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Salmo 8.38\|Salmo 8.38]] ✅ 2025-10-27
