@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2025-12-06T23:41:35.567+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2026-01-26T18:37:42.782+00:00"}
 ---
 
 
@@ -8,7 +8,6 @@
 - [ ] 📓 [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que cada cristão deve saber acerca do Islão\|O que cada cristão deve saber acerca do Islão]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O temor do Senhor é o principio da sabedoria\|O temor do Senhor é o principio da sabedoria]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Ciência explica Deus\|Ciência explica Deus]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Eu acredito no Batismo]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Chegar à excelência por meio da provação\|Chegar à excelência por meio da provação]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Testes Excelência na Bíblia\|Testes Excelência na Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Inquietação\|Inquietação]]
@@ -20,6 +19,7 @@
 
 ## A falar
 
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Eu acredito no Batismo]]
 - [ ] [[07 - INDEXES/Sunday Preaching#^sahlyp\|1 Tessalonicenses - 1st Thessalonians]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A má doutrina corrompe o comportamento\|A má doutrina corrompe o comportamento]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Os rejeitados\|Os rejeitados]]
