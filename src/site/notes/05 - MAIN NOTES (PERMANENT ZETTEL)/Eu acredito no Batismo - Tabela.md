@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-01-04T22:49:04.985+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-26T18:41:10.328+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-01-27T16:12:36.632+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-28T12:12:18.088+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
 ---
 
 [[Home\|Back home]]
@@ -8,7 +8,7 @@ Local: [[09 - STATUS NOTES/Zoom\|Zoom]]
 Tags: [[10 - TAGS/batismo\|batismo]], [[10 - TAGS/batismo na água\|batismo na água]]
 
 
-# Batismo
+# [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Batismo]]
 
 | Quem batiza?        | Em quê?                       | Com que propósito?                                                      | Versos Bíblicos                                                           |
 | ------------------- | ----------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
