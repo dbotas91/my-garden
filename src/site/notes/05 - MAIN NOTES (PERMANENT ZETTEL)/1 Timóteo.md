@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-01-28T14:19:32.404+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-01-28T14:37:52.858+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
+{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-01-27T16:12:36.604+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-01-28T14:53:33.779+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
 ---
 
 [[Home\|Back home]]
@@ -409,10 +409,9 @@ A mulher aprenda em silêncio, com toda a sujeição. **12** Não permito, por
 [In Context](https://www.biblegateway.com/passage/?search=Colossenses%201%3A6%2D8&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=Colossenses%201&version=ARC)
 > 
 > 10. [1 Timóteo 1:20](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%201%3A20&version=ARC) - E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que **aprend**am a não blasfemar.
-[In Context](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%201%3A19%2D20&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%201&version=ARC)
-   > 11. [***1 Timóteo 2:11](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202%3A11&version=ARC) - A mulher aprenda em silêncio, com toda a sujeição.***
-   > 
-[In Context](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202%3A10%2D12&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202&version=ARC)
+> [In Context](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%201%3A19%2D20&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%201&version=ARC)
+ > 11. [***1 Timóteo 2:11](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202%3A11&version=ARC) - A mulher aprenda em silêncio, com toda a sujeição.***
+> [In Context](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202%3A10%2D12&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%202&version=ARC)
 > 12. [***1 Timóteo 5:4](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%205%3A4&version=ARC) - Mas, se alguma viúva tiver filhos ou netos, aprendam primeiro a exercer piedade para com a sua própria família e a recompensar seus pais; porque isto é bom e agradável diante de Deus.***    
 [***In Context](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%205%3A3%2D5&version=ARC) | [Full Chapter](https://www.biblegateway.com/passage/?search=1%20Tim%C3%B3teo%205&version=ARC)***
 > 
