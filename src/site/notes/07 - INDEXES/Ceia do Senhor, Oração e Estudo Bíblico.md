@@ -11,10 +11,10 @@ Estão organizados por ano-mês com referências às Tags.
 
 ## 2026
 ### Tags (Por ano-mês)
-- [[03 - ROUGH NOTES (FLEETING ZETTEL)/2026-02\|2026-02]]
+- [[10 - TAGS/2026-02\|2026-02]]
 
 ### Todas as notas (ordenadas por data ascendente)
-- [[03 - ROUGH NOTES (FLEETING ZETTEL)/Estudo Bíblico 04-02-2026\|Estudo Bíblico 04-02-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico 04-02-2026\|Estudo Bíblico 04-02-2026]]
 ## 2025
 ### Tags (Por ano-mês)
 - [[10 - TAGS/2025-02\|2025-02]]
