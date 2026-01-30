@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2025-10-30T12:47:46.681+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
+{"dg-publish":true,"tags":null,"created":"2025-10-25T17:23:07.678+01:00","updated":"2026-01-30T14:53:08.604+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
 ---
 
 [[Home\|Back home]]
@@ -9,6 +9,12 @@
 Este índice cobre os tópicos e motivos de oração cobertos na Ceia do Senhor, oração e Estudos Bíblicos.
 Estão organizados por ano-mês com referências às Tags.
 
+## 2026
+### Tags (Por ano-mês)
+- [[03 - ROUGH NOTES (FLEETING ZETTEL)/2026-02\|2026-02]]
+
+### Todas as notas (ordenadas por data ascendente)
+- [[03 - ROUGH NOTES (FLEETING ZETTEL)/Estudo Bíblico 04-02-2026\|Estudo Bíblico 04-02-2026]]
 ## 2025
 ### Tags (Por ano-mês)
 - [[10 - TAGS/2025-02\|2025-02]]
