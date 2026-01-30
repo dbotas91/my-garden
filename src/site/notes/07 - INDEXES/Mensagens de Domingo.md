@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:29:58.541+01:00","updated":"2026-01-27T12:23:49.039+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-01-28T23:03:13.902+00:00","updated":"2026-01-28T23:03:13.903+00:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Provados\|Provados]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A presente verdade\|A presente verdade]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Presentes diferentes\|Presentes diferentes]] ✅ 2025-10-27
-- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo\|1 Timóteo]] ✅ 2025-10-27
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo\|05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A criação do Salvador\|A criação do Salvador]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A fraqueza pode ser uma coisa boa\|A fraqueza pode ser uma coisa boa]] ✅ 2025-10-27
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A importância de dividir BEM\|A importância de dividir BEM]] ✅ 2025-10-27
@@ -76,7 +76,7 @@
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Paradigma da natureza\|Paradigma da natureza]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Obra de Deus\|Obra de Deus]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Boas batalhas para bons soldados\|Boas batalhas para bons soldados]] ✅ 2025-11-28
-- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados?\|Predestinados?]] ✅ 2025-11-28
+- [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Predestinados\|Predestinados]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Guardar Silêncio\|Guardar Silêncio]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Pés\|Pés]] ✅ 2025-11-28
 - [x] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Resoluções de Ano Novo\|Resoluções de Ano Novo]] ✅ 2025-11-28

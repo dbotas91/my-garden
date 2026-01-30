@@ -233,7 +233,7 @@ Declaração de fé de igrejas batistas
 [O que significa o Batismo? Respostas que aprendi das escrituras e enviei às pessoas que perguntaram sobre a Bíblia desde 1988.
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2013.ico)https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html
 
-![](/img/user/08%20-%20ATTACHMENTS/Attachments/hqdefault%202.jpeg)](https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html)
+![](08%20-%20ATTACHMENTS/Attachments/hqdefault%202.jpeg)](https://www.respondi.com.br/2005/05/o-que-significa-o-batismo.html)
 
 [
 
@@ -243,7 +243,7 @@ Respostas que aprendi das escrituras e enviei às pessoas que perguntaram sobre 
 
 ![](08%20-%20ATTACHMENTS/Attachments/favicon%2013.ico)https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html
 
-![](/img/user/08%20-%20ATTACHMENTS/Attachments/hqdefault%203.jpeg)](https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html)
+![](08%20-%20ATTACHMENTS/Attachments/hqdefault%203.jpeg)](https://www.respondi.com.br/2013/03/o-batismo-por-aspersao-e-valido.html)
 
 [
 

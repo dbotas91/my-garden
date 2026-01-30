@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-01-27T16:12:36.604+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-01-28T14:53:33.779+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
+{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-01-28T23:03:32.417+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-01-28T23:03:32.418+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
 ---
 
 [[Home\|Back home]]

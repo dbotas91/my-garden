@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-01-27T16:12:36.632+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-28T12:12:18.088+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-01-28T23:03:32.419+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-28T23:03:32.419+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
 ---
 
 [[Home\|Back home]]

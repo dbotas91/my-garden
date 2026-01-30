@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["predestinação"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-01-27T16:12:36.645+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-01-27T16:12:36.645+00:00","title":"Predestinados?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/predestinados/"}
+{"dg-publish":true,"tags":["predestinação"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:39.373+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-01T13:32:44.192+00:00","title":"Predestinados?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/predestinados/"}
 ---
 
 [[Home\|Back home]]
