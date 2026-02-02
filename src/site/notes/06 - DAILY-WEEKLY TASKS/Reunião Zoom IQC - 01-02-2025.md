@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-01-02-2025/","dgPassFrontmatter":true,"created":"2026-01-30T16:50:05.165+00:00","updated":"2026-02-01T17:22:43.169+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-01-02-2025/","dgPassFrontmatter":true,"created":"2026-02-02T09:31:58.750+00:00","updated":"2026-02-02T09:35:09.255+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
