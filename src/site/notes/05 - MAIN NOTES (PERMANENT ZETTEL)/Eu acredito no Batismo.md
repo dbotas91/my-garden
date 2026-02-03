@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2025-10-16T10:29:25.994+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-01-26T18:41:00.515+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T14:01:44.688+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
 ---
 
 [[Home\|Back home]]
@@ -15,37 +15,64 @@ Tags: [[10 - TAGS/batismo\|batismo]], [[10 - TAGS/batismo na água\|batismo na �
 | ![](Dashboard/Attachments/list_gray%20939.svg)Tags     | Todo                                                                |
 | ![](Dashboard/Attachments/link_gray%20398.svg)URL      | [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estudo sobre o batismo na água\|Estudo sobre o batismo na água]] |
 
-# [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo - Tabela\|Batismo - Tabela]]
+# [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo - Tabela\|Batismo - Tabela & apresentação]]
 
-| Quem batiza?        | Em quê?                       | Com que propósito?                                                      | Versos Bíblicos                                                           |
-| ------------------- | ----------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Sacerdotes          | água                          | purificação/limpeza/sacerdócio                                          | Êx. 29.4, 30.18-21, 40.12,30-32; Ez. 16:3-10; 36.24-27; Hb. 6.1-3, 9.6-14 |
-| 1º João             | Água                          | Arrependimento para remissão/perdão dos pecados                         | Mateus 3.1-17; Marcos 1.2-11, 16.16; Lucas 3.2-18; João 1.19-34, 3.5      |
-| João                | batiza Jesus em água          | Cumprir toda a justiça                                                  | Mateus 3:13-16; Lc. 3:21-22                                               |
-| Deus                | Na cruz                       | Condenação dos pecados                                                  | Lucas 12:50                                                               |
-| 2º Jesus            | Espírito Santo                | Nova Aliança/entrar no Reino de Deus                                    | Ezequiel 36.25; Mateus 3.11; Marcos 1.8; Lucas 3. 16; João 1.33, 3.5      |
-| Jesus               | Fogo                          | Destruição/julgamento                                                   | Mateus 3.11-12; Lucas 3.16-17, 12.49-51                                   |
-| Deus                | Moisés                        | identificar a nação de Israel                                           | 1 Cor. 10.1-2; Êx. 14                                                     |
-| Espírito Santo/Deus | morte/cruz de Cristo Jesus    | salvação                                                                | Romanos 6.3; Col. 2.12                                                    |
-| Espírito Santo      | em um corpo (corpo de Cristo) | ser co-herdeiros e participantes da promessa, em Cristo, pelo Evangelho | 1 Cor. 12.13; Ef. 2.6,16, 3.6; Gl. 3.27                                   |
-| Espírito Santo      | em Cristo                     | Revestidos de Cristo                                                    | Gálatas 3.27                                                              |
+| Quem batiza?                               | Em quê?                       | Com que propósito?                                                      | Versos Bíblicos                                                           |
+| ------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Sacerdotes                                 | água                          | purificação/limpeza/sacerdócio                                          | Êx. 29.4, 30.18-21, 40.12,30-32; Ez. 16:3-10; 36.24-27; Hb. 6.1-3, 9.6-14 |
+| 1º João                                    | Água                          | Arrependimento para remissão/perdão dos pecados                         | Mateus 3.1-17; Marcos 1.2-11, 16.16; Lucas 3.2-18; João 1.19-34, 3.5      |
+| João                                       | batiza Jesus em água          | Cumprir toda a justiça                                                  | Mateus 3:13-16; Lc. 3:21-22                                               |
+| Deus                                       | Na cruz                       | Condenação dos pecados                                                  | Lucas 12:50                                                               |
+| 2º Jesus                                   | Espírito Santo                | Nova Aliança/entrar no Reino de Deus                                    | Ezequiel 36.25; Mateus 3.11; Marcos 1.8; Lucas 3. 16; João 1.33, 3.5      |
+| Jesus                                      | Fogo                          | Destruição/julgamento                                                   | Mateus 3.11-12; Lucas 3.16-17, 12.49-51                                   |
+| Deus                                       | Moisés                        | identificar a nação de Israel                                           | 1 Cor. 10.1-2; Êx. 14                                                     |
+| ~~Espírito Santo/Deus~~ Identificar-mo-nos | morte/cruz de Cristo Jesus    | salvação                                                                | Romanos 6.3; Col. 2.12                                                    |
+| Espírito Santo                             | em um corpo (corpo de Cristo) | ser co-herdeiros e participantes da promessa, em Cristo, pelo Evangelho | 1 Cor. 12.13; Ef. 2.6,16, 3.6; Gl. 3.27                                   |
+| Espírito Santo                             | em Cristo                     | Revestidos de Cristo                                                    | Gálatas 3.27                                                              |
+
+---
+
+## Nota para mensagem de 08-02-2026
+
+A semana passada anterior ouvimos acerca da Arte da Rendição e na semana anterior ouvimos acerca de Evangelho e Evangelhos.
+Hoje o que vou falar está intrinsecamente ligado ao que foi falado nas duas semanas anteriores.
+Aliás, sem o Evangelho ser entendido corretamente e pregado corretamente e sem haver rendição, não há o que vou falar hoje… que mais uma vez é acerca do batismo. E desta vez vou explicar um pouco porque acredito no batismo.
+
+O batismo, quando percebemos bem o que é, vamos perceber que:
+- Assim como há evangelhos e evangelhos, há batismos e batismos.
+- O batismo quando bem entendido, vai levar-nos a perceber que não o seremos sem rendição.
+
+O batismo é consequência do evangelho pregado e da rendição do que crê.
+Sem salvação, nem evangelho e rendição, não há batismo.
+Em Atos 2 lemos:
+> [!quote]+ Atos 2:36-38
+ > 36 Saiba, pois, com certeza, toda a casa de Israel que a esse Jesus, a quem vós crucificastes, Deus o fez Senhor e Cristo.
+> 37 Ouvindo eles isto, compungiram-se em seu coração e perguntaram a Pedro e aos demais apóstolos: Que faremos, varões irmãos? 
+> 38 E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para perdão dos pecados, e recebereis o dom do Espírito Santo.
+
+Um evangelho mal pregado, leva a um batismo mal aplicado/entendido.
+Um evangelho mal pregado, pode levar a uma rendição mal entendida e um batismo que não deveria ser feito. Porque se o Evangelho da Graça de Deus é acerca de tudo o que Deus fez por nós na cruz (e fez para estarmos com Ele eternamente), a rendição tem de ser total, o crer / aceitação tem de ser total sem que possamos fazer nada para pertencer a Deus e ao corpo de Cristo.
+O Batismo e principalmente o batismo hoje, ensina como pertencemos a Ele e não o que devemos fazer para pertencer a Deus ou ao corpo de Cristo.
+
+---
 
 Eu acredito no batismo. O batismo está na Bíblia, é mencionado várias vezes em vários tipos diferentes e significados. É um ensino Bíblico, dispensacional e algo que temos de aprender por causa da sua importância.
 
-O batismo é dos ensinos que mais conflitos criou nestes 2000 anos de cristandade. Atualmente na cristandade existem diferentes tipos de batismos (ou pelo menos ensinos diferentes acerca do batismo).
+O batismo é dos ensinos que mais conflitos criou nestes 2000 anos de cristandade. Atualmente na cristandade existem diferentes tipos de batismos – para ser mais exato, diferentes ensinos acerca do batismo.
 
-Eu creio no batismo como ensinado nas Escrituras para nós hoje e creio que o que diz em Efésios 4:5 faz parte da Presente Verdade que Pedro falava em 2 Pedro 1:12. Com base nessas passagens, creio que de facto hoje há só um batismo.
+Eu creio no batismo como ensinado nas Escrituras para nós hoje e creio que o que diz em Efésios 4:5 faz parte da Presente Verdade que Pedro falava em 2 Pedro 1:12. Com base nessas passagens, creio que de facto hoje há só um batismo. E com base em 1 Cor. 12:12-13 e Gl. 3:27 creio que só há um batismo que me integra no Corpo de Cristo e reveste de Cristo.
 
 Agora ao dizer que creio no batismo e que hoje há um só batismo, deveria fazer-vos questionar que batismo estou eu a falar. Há vários tipos de batismos diferentes ensinados na Bíblia que até são bastante diferentes do que é ensinado na cristandade.
 
-A chamada igreja católica ensina que o batismo é um sacramento. As chamadas igrejas protestantes ensinam que o batismo é uma ordenança.
+A chamada igreja católica ensina que o batismo é um sacramento. As chamadas igrejas protestantes ensinam que o batismo é uma ordenança. Curiosamente, ambas as “igrejas” ensinam (corretamente em parte) que o batismo integra os membros na igreja e até exigem que a pessoa seja baptizada em água para ser membro da igreja local.
+De facto a Bíblia ensina que o batismo hoje integra o membro no Corpo de Cristo, só que este batismo não é feito por nenhum de nós.
 
 Tem igrejas que escrevem na sua declaração de fé que o batismo faz parte das duas ordenanças (batismo e a Ceia do Senhor) que o Senhor deu.
 
 Por exemplo:
 
 > [!quote]+ Igreja Batista de Queluz:
- “Cremos também que **as ordenanças conferidas por Cristo à sua Igreja são duas: o Baptismo e a Ceia do Senhor;**”
+ > “Cremos também que **as ordenanças conferidas por Cristo à sua Igreja são duas: o Baptismo e a Ceia do Senhor;**”
     
 > [!quote]+ **Igreja da Lapa:**
 > “Com a manutenção das ordenanças: o Baptismo (de crentes por imersão em nome do Pai, do Filho e do Espírito Santo) e a Ceia do Senhor (aberta a membros em união com uma igreja evangélica local).”
@@ -78,7 +105,7 @@ Por exemplo:
     
 > [!quote]+ Aliança Evangélica
 > Cremos também que Cristo conferiu à sua Igreja, com carácter de permanência, duas ordenanças: o Baptismo e a Ceia do Senhor.
-    
+
 
 Quando lemos as declarações de fé ou artigos escritos sobre o assunto, não se percebe bem onde se encontra na Bíblia que o Senhor tenha deixado ou ensinado para a Igreja Corpo de Cristo estas duas ordenanças ou que elas individualmente sejam ordenanças.
 
