@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T16:07:14.049+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T16:38:04.980+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo-tabela/"}
 ---
 
 # [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Batismo]]
@@ -29,6 +29,11 @@
 <div class="verso-box">
     <span class="verso-ref">Romanos 6:3-4</span>
     <span class="verso-texto">"Ou não sabeis que todos quantos fomos batizados em Jesus Cristo fomos batizados na sua morte?"</span>
+</div>
+
+<div class="verso-box destaque-peach">
+    <span class="verso-ref">Gálatas 3:27</span>
+    <span class="verso-texto">"Porque todos quantos fostes batizados em Cristo já vos revestistes de Cristo."</span>
 </div>
 
 <div class="verso-box destaque-peach">
