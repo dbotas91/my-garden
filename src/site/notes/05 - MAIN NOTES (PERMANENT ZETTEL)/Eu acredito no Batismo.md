@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-07T19:09:36.036+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
+{"dg-publish":true,"tags":["batismo","batismonaágua"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-02-07T21:48:40.312+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-07T21:49:36.192+00:00","title":"Eu acredito no Batismo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/eu-acredito-no-batismo/"}
 ---
 
 [[Home\|Back home]]
@@ -183,7 +183,7 @@ Se lermos Mateus 3:11-17 encontramos 4 batismos diferentes, com significados dif
 - Batismo com fogo - Apocalipse;
 - Batismo na água para cumprir toda a justiça;
 
-**Eu acredito no batismo, mas não que a Bíblia ensina que o batismo é única e exclusivamente na água ou apenas o ser cheio do Espírito Santo.**
+**Eu acredito no batismo, mas não que a Bíblia ensina que o batismo é única e exclusivamente na água ou apenas ser cheio do Espírito Santo.**
 
 ---
 
