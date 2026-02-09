@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-04-02-2026/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.221+00:00","updated":"2026-02-04T19:16:00.111+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-04-02-2026/","dgPassFrontmatter":true,"created":"2026-02-05T19:09:47.889+00:00","updated":"2026-02-05T19:09:47.890+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
