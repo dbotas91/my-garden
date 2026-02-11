@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-02-05T19:09:58.820+00:00","updated":"2026-02-05T19:09:58.821+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
+{"dg-publish":true,"tags":null,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-11T17:46:23.461+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
 ---
 
 [[Home\|Back home]]
@@ -16,7 +16,7 @@ Estão organizados por ano-mês com referências às Tags.
 ### Todas as notas (ordenadas por data ascendente)
 - [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 01-02-2025\|Reunião Zoom IQC - 01-02-2025]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 04-02-2026\|Estudo Bíblico - 04-02-2026]]
-
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 11-02-2026\|Estudo Bíblico - 11-02-2026]]
 
 ## 2025
 ### Tags (Por ano-mês)
