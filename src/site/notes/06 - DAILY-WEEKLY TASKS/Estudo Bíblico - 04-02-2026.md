@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-04-02-2026/","dgPassFrontmatter":true,"created":"2026-02-05T19:09:47.889+00:00","updated":"2026-02-05T19:09:47.890+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-04-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T17:51:20.879+00:00","updated":"2026-02-18T17:51:20.881+00:00"}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-02\|2026-02]]
  
 # Músicas

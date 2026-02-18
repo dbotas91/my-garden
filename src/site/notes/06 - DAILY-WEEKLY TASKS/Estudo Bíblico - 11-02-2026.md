@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-11-02-2026/","dgPassFrontmatter":true,"created":"2026-02-11T17:47:08.284+00:00","updated":"2026-02-11T18:29:05.703+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-11-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T17:51:20.881+00:00","updated":"2026-02-18T18:01:45.968+00:00"}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-02\|2026-02]]
  
 # Passagem em estudo

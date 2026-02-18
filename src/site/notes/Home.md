@@ -81,7 +81,7 @@ Normalmente tem esta representação:
 
 ## Stone (Pedra)
 Semelhante ao Legacy, com a diferença de que não interessa muito fazer alguma coisa com este tipo de notas. Talvez mais para curiosidades tiradas de algum site.
-Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação. Nestes casos, pode acontecer que estes tipos de notas passam para [[#Chest (Baú)]]
+Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação. Nestes casos, pode acontecer que estes tipos de notas passam para [[Home#Chest (Baú)\|#Chest (Baú)]]
 
 Normalmente tem esta representação:
 
