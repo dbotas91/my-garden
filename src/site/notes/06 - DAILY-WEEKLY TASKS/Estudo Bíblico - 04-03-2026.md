@@ -1,9 +1,9 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-18-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T19:39:58.005+00:00","updated":"2026-02-25T15:29:30.119+00:00"}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-04-03-2026/","dgPassFrontmatter":true,"created":"2026-02-25T15:34:37.060+00:00","updated":"2026-02-25T15:36:32.130+00:00"}
 ---
 
-Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
-Tags: [[10 - TAGS/2026-02\|2026-02]]
+Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Tags: [[10 - TAGS/2026-03\|2026-03]]
  
 # Passagem em estudo
 [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo#Verso 13-14\|1 Timóteo#Verso 13-14]]
@@ -12,13 +12,19 @@ Tags: [[10 - TAGS/2026-02\|2026-02]]
 Cantarei um cântico ao senhor
 
 # Leitura da Bíblia 
-Marcos 14:29-32, 66-72; Lucas 22:60-62 
+## O Auxílio do Espírito Santo
+
+Esta é talvez a passagem mais reconfortante sobre a nossa limitação humana na oração.
+
+>[!quote]- **Romanos 8:26-27:** 
+>"E da mesma maneira também o Espírito ajuda as nossas fraquezas; porque não sabemos o que havemos de pedir como convém, mas o mesmo Espírito intercede por nós com gemidos inexprimíveis."
+    
 
 # Motivos de oração 
 
-- [ ] Pai do Paulo Ferreira
-	- [ ] Vão começar a planear a quimioterapia
-- [ ] Carlos Alves, Andreza e Tiago
+Pai do Paulo Ferreira
+	- [ ] Começou a quimioterapia na terça(?)
+- [ ] Orar pelo consolo da irmã Andreza Alves e família (por causa da partida para a glória do irmão Carlos Alves)
 - [ ] Filipe Gonçalves, Lena, Cláudia + Pedro, Bruno + Kat e Lucas (neto)
 - [ ] Irmã Carmen
 - [ ] Lucinda, Mina e Patrícia (sobrinha) 

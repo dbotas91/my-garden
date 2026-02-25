@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-18-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T19:39:58.005+00:00","updated":"2026-02-25T15:29:30.119+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-25-02-2026/","dgPassFrontmatter":true,"created":"2026-02-25T15:28:28.844+00:00","updated":"2026-02-25T15:33:24.715+00:00"}
 ---
 
-Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
+Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
 Tags: [[10 - TAGS/2026-02\|2026-02]]
  
 # Passagem em estudo
@@ -12,13 +12,41 @@ Tags: [[10 - TAGS/2026-02\|2026-02]]
 Cantarei um cântico ao senhor
 
 # Leitura da Bíblia 
-Marcos 14:29-32, 66-72; Lucas 22:60-62 
+## Intercessão pelos Outros
 
+O apóstolo raramente orava por si mesmo; o seu foco estava no crescimento espiritual das igrejas.
+
+> [!quote]- **Efésios 1:16-18:** Paulo ora para que os efésios recebam "espírito de sabedoria e de revelação".
+> 16 não cesso de dar graças _a Deus_ por vós, lembrando-me de vós nas minhas orações, 
+> 17 para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê em seu conhecimento o espírito de sabedoria e de revelação, 
+> 18 tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperança da sua vocação e quais as riquezas da glória da sua herança nos santos
+    
+> [!quote]- **Efésios 3:14-19:** Uma oração profunda para que os crentes sejam "fortalecidos com poder no homem interior".
+> ### A oração de Paulo pelos efésios
+> 14 Por causa disso, me ponho de joelhos perante o Pai de nosso Senhor Jesus Cristo, 
+> 15 do qual toda a família nos céus e na terra toma o nome, 
+> 16 para que, segundo as riquezas da sua glória, vos conceda que sejais corroborados com poder pelo seu Espírito no homem interior; 
+> 17 para que Cristo habite, pela fé, no vosso coração; a fim de, estando arraigados e fundados em amor, 
+> 18 poderdes perfeitamente compreender, com todos os santos, qual seja a largura, e o comprimento, e a altura, e a profundidade 
+> 19 e conhecer o amor de Cristo, que excede _todo_ entendimento, para que sejais cheios de toda a plenitude de Deus.
+    
+> [!quote]- **Filipenses 1:9-11:** "E peço isto: que o vosso amor abunde mais e mais em ciência e em todo o conhecimento."
+> 9 E peço isto: que o vosso amor aumente mais e mais em ciência e em todo o conhecimento. 
+> 10 Para que aproveis as coisas excelentes, para que sejais sinceros e sem escândalo algum até ao Dia de Cristo, 
+> 11 cheios de frutos de justiça, que são por Jesus Cristo, para glória e louvor de Deus.
+    
+> [!quote]- **Colossenses 1:9-10:** Paulo pede que eles sejam "cheios do conhecimento da sua vontade".
+> 9 Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual; 
+> 10 para que possais andar dignamente _diante_ do Senhor, agradando-lhe em tudo, frutificando em toda boa obra e crescendo no conhecimento de Deus;
+    
+> [!quote]- **2 Tessalonicenses 1:11:** "Pelo que também rogamos sempre por vós, para que o nosso Deus vos faça dignos da sua vocação..."
+> 11 Pelo que também rogamos sempre por vós, para que o nosso Deus vos faça dignos da _sua_ vocação e cumpra todo desejo da _sua_ bondade e a obra da fé com poder;
+    
 # Motivos de oração 
 
 - [ ] Pai do Paulo Ferreira
-	- [ ] Vão começar a planear a quimioterapia
-- [ ] Carlos Alves, Andreza e Tiago
+	- [ ] Começou a quimioterapia na terça(?)
+- [ ] Orar pelo consolo da irmã Andreza Alves e família (por causa da partida para a glória do irmão Carlos Alves)
 - [ ] Filipe Gonçalves, Lena, Cláudia + Pedro, Bruno + Kat e Lucas (neto)
 - [ ] Irmã Carmen
 - [ ] Lucinda, Mina e Patrícia (sobrinha) 
@@ -114,3 +142,4 @@ Marcos 14:29-32, 66-72; Lucas 22:60-62 
 	- [ ] Filipe (filho do irmão José Carvalho)
 - [ ] Irmã Celeste e Mário (filho) e neto
 - [ ] Alberto Veríssimo e família
+
