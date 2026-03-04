@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/torre-de-babel/","created":"2025-10-14T18:15:36.296+01:00","updated":"2025-10-25T17:06:52.845+01:00"}
+{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/torre-de-babel/","created":"2026-02-03T09:43:49.149+00:00","updated":"2026-02-03T09:43:49.149+00:00"}
 ---
 
 [[Home\|Back home]]

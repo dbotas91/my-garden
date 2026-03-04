@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:28:47.499+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T18:04:23.745+00:00","title":"Andar pela fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/andar-pela-fe/"}
+{"dg-publish":true,"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.205+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.205+00:00","title":"Andar pela fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/andar-pela-fe/"}
 ---
 
 [[Home\|Back home]]

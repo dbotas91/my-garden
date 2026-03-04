@@ -1,10 +1,10 @@
 ---
-{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-28-05-2025/","dgPassFrontmatter":true,"created":"2025-10-29T18:25:14.585+00:00","updated":"2025-10-29T18:34:32.251+00:00"}
+{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-28-05-2025/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.221+00:00","updated":"2026-03-04T12:11:15.509+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: May 28, 2025
-Tags: [[10 - TAGS/2025-05\|2025-05]]
+Tags: [[10 - TAGS/2025-05\|2025-05]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
 
 # Estudo Bíblico
 

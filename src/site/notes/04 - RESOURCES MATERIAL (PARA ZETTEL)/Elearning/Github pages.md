@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/github-pages/","dgPassFrontmatter":true,"created":"2025-10-16T10:14:29.495+01:00","updated":"2025-10-24T15:50:26.426+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/github-pages/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.187+00:00","updated":"2026-02-03T09:43:48.187+00:00"}
 ---
 
 # 👨🏻‍💻 Github pages

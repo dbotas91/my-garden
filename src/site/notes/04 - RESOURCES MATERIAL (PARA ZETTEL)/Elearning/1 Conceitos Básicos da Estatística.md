@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-conceitos-basicos-da-estatistica/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:21.340+01:00","updated":"2025-10-24T12:38:34.958+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/1-conceitos-basicos-da-estatistica/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.179+00:00","updated":"2026-02-03T09:43:48.179+00:00"}
 ---
 
 

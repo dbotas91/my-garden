@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/machine-learning-specialization/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:41.673+01:00","updated":"2025-10-24T16:07:43.369+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/machine-learning-specialization/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.190+00:00","updated":"2026-02-03T09:43:48.190+00:00"}
 ---
 
 # 🤖 Machine Learning Specialization

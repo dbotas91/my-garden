@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c4-make-it-obvious-the-man-who-didn-t-look-right/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:39.789+01:00","updated":"2025-10-24T16:17:44.510+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c4-make-it-obvious-the-man-who-didn-t-look-right/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.196+00:00","updated":"2026-02-03T09:43:48.196+00:00"}
 ---
 
 # C4 - Make It Obvious (The Man Who Didn't Look Right)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismonaágua"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:30:06.324+01:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-11-07T16:50:57.175+00:00","title":"Estudo sobre o batismo na água","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estudo-sobre-o-batismo-na-agua/"}
+{"dg-publish":true,"tags":["batismonaágua"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.210+00:00","title":"Estudo sobre o batismo na água","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estudo-sobre-o-batismo-na-agua/"}
 ---
 
 [[Home\|Back home]]

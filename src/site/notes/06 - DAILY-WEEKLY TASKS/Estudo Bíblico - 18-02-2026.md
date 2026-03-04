@@ -1,12 +1,12 @@
 ---
-{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-18-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T19:39:58.005+00:00","updated":"2026-02-25T15:29:30.119+00:00"}
+{"tags":["2026-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-18-02-2026/","dgPassFrontmatter":true,"created":"2026-02-18T19:39:58.005+00:00","updated":"2026-03-04T12:11:06.624+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
-Tags: [[10 - TAGS/2026-02\|2026-02]]
+Tags: [[10 - TAGS/2026-02\|2026-02]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
  
 # Passagem em estudo
-[[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo#Verso 13-14\|1 Timóteo#Verso 13-14]]
+[[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo#Verso 13-14\|05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo#Verso 13-14]]
 
 # Músicas
 Cantarei um cântico ao senhor

@@ -1,5 +1,5 @@
 ---
-{"tags":["meditacoes"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/meditacoes/","dgPassFrontmatter":true,"created":"2025-10-16T10:28:11.839+01:00","updated":"2025-10-27T16:06:37.867+00:00"}
+{"tags":["meditacoes"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/meditacoes/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00"}
 ---
 
 # 📖 Meditações

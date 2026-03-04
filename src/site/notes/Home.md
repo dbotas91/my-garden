@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-27T14:37:14.824+00:00"}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-02-03T09:43:49.150+00:00","updated":"2026-02-03T09:43:49.150+00:00"}
 ---
 
 > [!WARNING] Atenção / Warning
@@ -81,7 +81,7 @@ Normalmente tem esta representação:
 
 ## Stone (Pedra)
 Semelhante ao Legacy, com a diferença de que não interessa muito fazer alguma coisa com este tipo de notas. Talvez mais para curiosidades tiradas de algum site.
-Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação. Nestes casos, pode acontecer que estes tipos de notas passam para [[Home#Chest (Baú)\|#Chest (Baú)]]
+Podem também ser utilizadas para ==tarefas ou atividades==, porque após serem concluídas não existe grande revisão ou interesse em acrescentar mais informação. Nestes casos, pode acontecer que estes tipos de notas passam para [[#Chest (Baú)]]
 
 Normalmente tem esta representação:
 

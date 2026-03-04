@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:29:44.203+01:00","tags":["#EspíritoSanto"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Doutrinal","permalink":"/05-main-notes-permanent-zettel/selados/","dgPassFrontmatter":true,"updated":"2025-10-22T13:29:51.130+01:00"}
+{"dg-publish":true,"created":"2026-02-03T09:43:48.219+00:00","tags":["#EspíritoSanto"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Doutrinal","permalink":"/05-main-notes-permanent-zettel/selados/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.219+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

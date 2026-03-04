@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["perdão"],"mature-status":"Teen","message_category":"Evangelização","created":"2025-10-16T10:27:57.347+01:00","speech-status":"Calado","local":null,"dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-27T15:34:59.290+00:00","title":"Estão todos perdoados?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estao-todos-perdoados/"}
+{"dg-publish":true,"tags":["perdão"],"mature-status":"Teen","message_category":"Evangelização","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Calado","local":null,"dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.210+00:00","title":"Estão todos perdoados?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estao-todos-perdoados/"}
 ---
 
 [[Home\|Back home]]

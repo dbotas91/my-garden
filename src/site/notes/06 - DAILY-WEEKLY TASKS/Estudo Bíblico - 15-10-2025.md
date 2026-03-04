@@ -1,12 +1,12 @@
 ---
-{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-15-10-2025/","dgPassFrontmatter":true,"created":"2025-10-15T18:12:37.955+01:00","updated":"2025-10-25T17:52:18.569+01:00"}
+{"tags":["2025-10"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-15-10-2025/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.221+00:00","updated":"2026-03-04T12:11:01.946+00:00"}
 ---
 
 2025-10-15 18:12
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: 2025-10-15 18:13
-Tags: [[10 - TAGS/2025-10\|2025-10]], 
+Tags: [[10 - TAGS/2025-10\|2025-10]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
  
 # Músicas 
 

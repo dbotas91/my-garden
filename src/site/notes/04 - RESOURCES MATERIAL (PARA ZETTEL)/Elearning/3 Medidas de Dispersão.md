@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-medidas-de-dispersao/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:04.986+01:00","updated":"2025-10-24T16:01:53.776+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-medidas-de-dispersao/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.182+00:00","updated":"2026-02-03T09:43:48.182+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["bibliaeciencia"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:28:43.748+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2025-10-27T09:28:54.650+00:00","title":"A criação do Salvador","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-criacao-do-salvador/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["bibliaeciencia"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.204+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2026-02-03T09:43:48.204+00:00","title":"A criação do Salvador","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-criacao-do-salvador/","noteIcon":"adult"}
 ---
 
 [[Home\|Back home]]

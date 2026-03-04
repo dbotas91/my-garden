@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"mature-status":"Child","message_category":null,"created":"2025-10-16T10:29:49.269+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-30T17:51:54.434+00:00","title":null,"dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-timoteo-versiculos/"}
+{"dg-publish":true,"tags":null,"mature-status":"Child","message_category":null,"created":"2026-02-03T09:43:48.219+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.219+00:00","title":null,"dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-timoteo-versiculos/"}
 ---
 
 [[Home\|Back home]]

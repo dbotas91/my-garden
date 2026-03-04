@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["evangelhodejoão"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:28.036+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T15:00:29.256+00:00","title":"João 5","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/joao-5/"}
+{"dg-publish":true,"tags":["evangelhodejoão"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.212+00:00","title":"João 5","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/joao-5/"}
 ---
 
 [[Home\|Back home]]

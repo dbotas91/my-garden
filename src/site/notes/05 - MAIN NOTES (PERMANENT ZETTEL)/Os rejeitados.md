@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["moises","paulo"],"mature-status":"Teen","message_category":"dispensacional","created":"2025-10-16T10:28:04.719+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-27T17:28:06.586+00:00","title":"Os Rejeitados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/os-rejeitados/"}
+{"dg-publish":true,"tags":["moises","paulo"],"mature-status":"Teen","message_category":"dispensacional","created":"2026-02-03T09:43:48.215+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.215+00:00","title":"Os Rejeitados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/os-rejeitados/"}
 ---
 
 [[Home\|Back home]]

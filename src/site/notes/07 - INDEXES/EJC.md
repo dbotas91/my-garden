@@ -1,5 +1,5 @@
 ---
-{"tags":["ejc"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/ejc/","dgPassFrontmatter":true,"created":"2025-10-16T10:27:30.742+01:00","updated":"2025-10-24T17:07:30.705+01:00"}
+{"tags":["ejc"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/ejc/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00"}
 ---
 
 # ⛺ EJC

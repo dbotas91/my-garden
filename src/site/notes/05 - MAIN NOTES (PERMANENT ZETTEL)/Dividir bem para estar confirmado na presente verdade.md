@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["dispensacional","divisaodabiblia","presenteverdade"],"mature-status":"Adult","message_category":"Doutrinal","created":"2025-10-16T10:29:07.442+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T14:43:51.510+00:00","title":"Dividir bem para estar confirmado na presente verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/dividir-bem-para-estar-confirmado-na-presente-verdade/"}
+{"dg-publish":true,"tags":["dispensacional","divisaodabiblia","presenteverdade"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.208+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.208+00:00","title":"Dividir bem para estar confirmado na presente verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/dividir-bem-para-estar-confirmado-na-presente-verdade/"}
 ---
 
 [[Home\|Back home]]

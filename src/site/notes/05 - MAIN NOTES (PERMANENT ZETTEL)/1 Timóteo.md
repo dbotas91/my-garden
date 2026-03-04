@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-02-18T19:39:58.004+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-18T19:39:58.004+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
+{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-02-18T19:39:58.004+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-03-04T12:09:17.951+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/A fazer\|A fazer]]
 Local: [[09 - STATUS NOTES/IQC\|IQC]]
-Tags: [[10 - TAGS/Timóteo\|Timóteo]]
+Tags: [[10 - TAGS/Timóteo\|Timóteo]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
 
 # Capítulo 1
 

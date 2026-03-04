@@ -1,5 +1,5 @@
 ---
-{"tags":["smartnotes"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/smart-notes/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:20.688+01:00","updated":"2025-10-24T16:53:26.729+01:00"}
+{"tags":["smartnotes"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/smart-notes/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.224+00:00","updated":"2026-02-03T09:43:48.224+00:00"}
 ---
 
 ![](Dashboard/Attachments/cover_smart-notes2x.png)

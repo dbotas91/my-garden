@@ -1,10 +1,10 @@
 ---
-{"tags":["2025-06"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","dgPassFrontmatter":true,"created":"2025-10-16T10:30:01.235+01:00","updated":"2025-10-25T17:56:12.976+01:00"}
+{"tags":["2025-06"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/motivos-de-oracao-24-06-2021/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.222+00:00","updated":"2026-03-04T12:11:51.240+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Created: June 24, 2021
-Tags: [[10 - TAGS/2021-06\|2021-06]] 
+Tags: [[10 - TAGS/2021-06\|2021-06]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
 
 ![](Dashboard/Attachments/met_georges_seurat_1884.jpg)
 

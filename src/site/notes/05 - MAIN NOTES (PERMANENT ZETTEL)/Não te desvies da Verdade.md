@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["presenteverdade"],"mature-status":"Teen","message_category":"dispensacional","created":"2025-10-16T10:27:58.719+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-12-06T23:57:29.754+00:00","title":"Não te desvies da Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/nao-te-desvies-da-verdade/"}
+{"dg-publish":true,"tags":["presenteverdade"],"mature-status":"Teen","message_category":"dispensacional","created":"2026-02-03T09:43:48.213+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.213+00:00","title":"Não te desvies da Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/nao-te-desvies-da-verdade/"}
 ---
 
 [[Home\|Back home]]

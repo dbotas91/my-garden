@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/accessibility/","dgPassFrontmatter":true,"created":"2025-10-16T10:10:03.104+01:00","updated":"2025-10-24T16:13:19.929+01:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/accessibility/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.195+00:00","updated":"2026-02-03T09:43:48.195+00:00"}
 ---
 
 ![](Dashboard/Attachments/icons8-web_accessibility.svg)

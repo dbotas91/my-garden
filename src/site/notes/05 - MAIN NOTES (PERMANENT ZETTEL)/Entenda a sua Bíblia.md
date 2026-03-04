@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-11-03T11:03:49.182+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-11-03T12:19:58.393+00:00","title":"Entenda a sua Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entenda-a-sua-biblia/"}
+{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.209+00:00","title":"Entenda a sua Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entenda-a-sua-biblia/"}
 ---
 
 [[Home\|Back home]]

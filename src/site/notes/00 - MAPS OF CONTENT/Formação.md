@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["elearning","learning"],"created":"2025-10-27T13:15:04.705+00:00","updated":"2025-10-27T13:16:06.713+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/formacao/"}
+{"dg-publish":true,"tags":["elearning","learning"],"created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/formacao/"}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2025-10-27T08:41:04.239+00:00","updated":"2025-10-30T09:17:32.380+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/atividades-e-tarefas/"}
+{"dg-publish":true,"tags":null,"created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/atividades-e-tarefas/"}
 ---
 
 [[Home\|Back home]]

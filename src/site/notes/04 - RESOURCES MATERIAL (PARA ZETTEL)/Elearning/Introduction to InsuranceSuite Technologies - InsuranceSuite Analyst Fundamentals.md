@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/introduction-to-insurance-suite-technologies-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:07.828+01:00","updated":"2025-10-24T16:07:02.957+01:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/introduction-to-insurance-suite-technologies-insurance-suite-analyst-fundamentals/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.189+00:00","updated":"2026-02-03T09:43:48.189+00:00"}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%208.png)
