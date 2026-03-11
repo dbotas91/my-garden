@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-11-03-2026/","dgPassFrontmatter":true,"created":"2026-03-04T18:47:52.575+00:00","updated":"2026-03-11T11:59:34.559+00:00"}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-11-03-2026/","dgPassFrontmatter":true,"created":"2026-03-04T18:47:52.575+00:00","updated":"2026-03-11T12:12:22.619+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
@@ -31,11 +31,11 @@ Mesmo sendo um apóstolo, Paulo reconhecia que precisava das orações da comuni
 
 # Motivos de oração 
 
-| **Paulo Ferreira (pai e gravidez da Raquel)**  | **Bruno, Rute e Elena**                                                                    | **Ruben (pais, Rodrigo, avós)**                                                                                                                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sara Gomes e família**                       | **Toni e Isabel**                                                                          | **Lucinda, Mina e Patrícia (sobrinha)**                                                                                                                                                 |
-| **Bruno Jordão (GNR Pinhal Novo)**             | **António Dias e João (Alcaniça)**                                                         | **João Artur (Castelo)**                                                                                                                                                                |
-| **Inácia (saúde)**<br>**Irmã Aninhas (saúde)** | **Igreja em Oiã:<br>Rita e gravidez, restante família e restantes irmãos na igreja local** | **Costeiras:**<br>**Esposa do irmão Paulo Oliveira das Costeiras** <br>**João Pedro Lopes que se reúne nas Costeiras (saúde) + Susana, Filipe, **<br>**José Pires e Pat Pires (saúde)** |
+| **Paulo Ferreira (pai e gravidez da Raquel)**  | **Bruno, Rute e Elena**                                                                                                     | **Ruben (pais, Rodrigo, avós)**                                                                                                                                                         |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sara Gomes e família**                       | **Toni e Isabel**                                                                                                           | **Lucinda, Mina e Patrícia (sobrinha)**                                                                                                                                                 |
+| **Bruno Jordão (GNR Pinhal Novo)**             | **António Dias e João (Alcaniça)**                                                                                          | **João Artur (Castelo)**                                                                                                                                                                |
+| **Inácia (saúde)**<br>**Irmã Aninhas (saúde)** | **Igreja em Oiã:<br>Rita e gravidez, restante família e restantes irmãos na igreja local**<br>**Conferência a 12 de abril** | **Costeiras:**<br>**Esposa do irmão Paulo Oliveira das Costeiras** <br>**João Pedro Lopes que se reúne nas Costeiras (saúde) + Susana, Filipe, **<br>**José Pires e Pat Pires (saúde)** |
 
 
 - [x] **Pai do Paulo Ferreira** ✅ 2026-03-11
