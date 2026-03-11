@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"tags":["Canon","Joomla","migração"],"mature-status":"canon","created":"2026-03-04T08:56:30.319+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-04T19:35:35.173+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/script-de-migracao-do-joomla-da-versao-3-para-a-versao-5/"}
+{"dg-publish":true,"tags":["Canon","Joomla","migração"],"mature-status":"canon","created":"2026-03-09T15:41:20.780+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-09T17:27:02.584+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/script-de-migracao-do-joomla-da-versao-3-para-a-versao-5/"}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Canon\|Canon]]
 Tags:  [[10 - TAGS/Joomla!\|Joomla!]]
 
-# Guia de Atualização Joomla (3.10.12 para 5.4.14)  
+# Guia de Atualização Joomla (3.10.12 para 5.4.3)  
   
 Este documento serve como guião para o processo de atualização do site IQC, garantindo a integridade dos dados e a compatibilidade das extensões.
   

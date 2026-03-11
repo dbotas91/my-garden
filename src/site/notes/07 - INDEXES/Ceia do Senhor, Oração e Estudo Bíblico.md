@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-02-18T19:39:58.006+00:00","updated":"2026-03-04T18:36:28.652+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
+{"dg-publish":true,"tags":null,"created":"2026-02-18T19:39:58.006+00:00","updated":"2026-03-11T11:22:14.558+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/"}
 ---
 
 [[Home\|Back home]]
@@ -21,6 +21,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 18-02-2026\|Estudo Bíblico - 18-02-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 25-02-2026\|Estudo Bíblico - 25-02-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 04-03-2026\|Estudo Bíblico - 04-03-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 11-03-2026\|Estudo Bíblico - 11-03-2026]]
 
 ## 2025
 ### Tags (Por ano-mês)
