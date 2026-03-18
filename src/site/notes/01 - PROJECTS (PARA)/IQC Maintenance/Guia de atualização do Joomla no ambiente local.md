@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-02-24T09:35:09.806+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-04T11:58:31.370+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-de-atualizacao-do-joomla-no-ambiente-local/"}
+{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-02-24T09:35:09.806+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-17T15:43:07.975+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-de-atualizacao-do-joomla-no-ambiente-local/"}
 ---
 
 [[Home\|Back home]]
