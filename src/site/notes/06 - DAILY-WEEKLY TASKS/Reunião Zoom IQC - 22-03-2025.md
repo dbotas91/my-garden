@@ -1,12 +1,12 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2025/","dgPassFrontmatter":true,"created":"2026-03-22T18:12:40.847+00:00","updated":"2026-03-22T19:03:57.467+00:00"}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2025/","dgPassFrontmatter":true,"created":"2026-03-22T18:12:40.847+00:00","updated":"2026-03-22T19:36:10.994+00:00"}
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
 Tags: [[10 - TAGS/2026-03\|2026-03]], [[09 - STATUS NOTES/Zoom\|Zoom]]
  
 # Músicas
-[Cantarei um cântico ao senhor](https://youtu.be/Kvpkr-jVo70)
+[Nas mãos do Oleiro](https://youtu.be/Kvpkr-jVo70)
 [Aqui não é meu lar](https://youtu.be/ItmV0lfjh3I)
 [Ele vem pra te salvar](https://youtu.be/suvjT1O2-bw)
 
