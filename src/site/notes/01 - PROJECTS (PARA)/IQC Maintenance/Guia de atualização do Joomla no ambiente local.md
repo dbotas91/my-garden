@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-02-24T09:35:09.806+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-17T15:43:07.975+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-de-atualizacao-do-joomla-no-ambiente-local/"}
+{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-02-24T09:35:09.806+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-19T11:30:22.821+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-de-atualizacao-do-joomla-no-ambiente-local/"}
 ---
 
 [[Home\|Back home]]
@@ -47,8 +47,9 @@ wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-lin
 2. **Download do Site (via lftp):**  
    - Para descarregar o `public_html`:  
 ```bash  
-     lftp -u 'utilizador','password' -e "mirror /public_html /home/dariobotas/iqc/public_html_local; quit" ftp.iqc.
+     lftp -u 'dapb@iqc.pt' -e "set ssl:verify-certificate no; mirror --verbose /public_html /home/dariobotas/iqc/public_html_local; quit" ftp.iqc.pt
 ```   
+ Irá pedir a senha de ftp e depois irá descarregar os ficheiros para a pasta indicada no /home/dariobotas …
  - Para descarregar a Base de Dados (Dump SQL):  
 ```bash  
      lftp -u 'utilizador','password' -e "get iqc_antes_update.sql; quit" ftp.iqc.pt  

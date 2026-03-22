@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00"}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-03-20T21:52:19.464+00:00"}
 ---
 
 
@@ -15,6 +15,8 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida?\|Corrompida?]]
+- [ ] [[03 - ROUGH NOTES (FLEETING ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
 
 
 ## A falar
