@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2025/","dgPassFrontmatter":true,"created":"2026-03-22T18:12:40.847+00:00","updated":"2026-03-22T19:36:10.994+00:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"stone"}}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2025/","dgPassFrontmatter":true,"created":"2026-03-22T18:12:40.847+00:00","updated":"2026-03-23T10:48:53.330+00:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-03\|2026-03]], [[09 - STATUS NOTES/Zoom\|Zoom]]
  
 # Músicas
