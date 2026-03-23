@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["test","istqb"],"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/istqb-certified-tester-foundation-level/"}
+{"dg-publish":true,"tags":["test","istqb"],"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/istqb-certified-tester-foundation-level/","dg-note-properties":{"tags":["test","istqb"],"created":"2025-12-06 23:37","updated":"2025-12-06 23:37","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

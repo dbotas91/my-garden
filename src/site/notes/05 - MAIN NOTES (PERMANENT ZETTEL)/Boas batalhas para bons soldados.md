@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["soldados"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.206+00:00","title":"Boas batalhas para bons soldados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/boas-batalhas-para-bons-soldados/"}
+{"dg-publish":true,"tags":["soldados"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.206+00:00","title":"Boas batalhas para bons soldados","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/boas-batalhas-para-bons-soldados/","dg-note-properties":{"tags":["soldados"],"mature-status":"Adult","message_category":"Devocional","created":"July 7, 2017","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Boas batalhas para bons soldados","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

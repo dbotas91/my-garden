@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/google-s-introduction-to-git-and-git-hub-specialization/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.188+00:00","updated":"2026-02-03T09:43:48.188+00:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/google-s-introduction-to-git-and-git-hub-specialization/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.188+00:00","updated":"2026-02-03T09:43:48.188+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 # 👩‍💻 Google’s Introduction to Git and GitHub Specialization

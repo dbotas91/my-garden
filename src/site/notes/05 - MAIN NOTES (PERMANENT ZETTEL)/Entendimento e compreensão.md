@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Entendimento e compreensão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entendimento-e-compreensao/"}
+{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Entendimento e compreensão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entendimento-e-compreensao/","dg-note-properties":{"tags":["entenderabiblia"],"mature-status":"Adult","message_category":"Doutrinal","created":"June 4, 2020 23:54","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Entendimento e compreensão","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

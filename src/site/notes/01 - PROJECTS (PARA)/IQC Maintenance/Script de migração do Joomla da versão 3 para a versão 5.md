@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Canon","Joomla","migração"],"mature-status":"canon","created":"2026-03-09T15:41:20.780+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-09T17:27:02.584+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/script-de-migracao-do-joomla-da-versao-3-para-a-versao-5/"}
+{"dg-publish":true,"tags":["Canon","Joomla","migração"],"mature-status":"canon","created":"2026-03-09T15:41:20.780+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-03-09T17:27:02.584+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/script-de-migracao-do-joomla-da-versao-3-para-a-versao-5/","dg-note-properties":{"tags":["Canon","Joomla","migração"],"mature-status":"canon","created":"2026-03-04 11:58","noteIcon":"canon","updated":"2026-03-04 11:58","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

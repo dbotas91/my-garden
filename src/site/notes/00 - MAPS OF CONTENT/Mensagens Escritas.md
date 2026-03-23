@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00"}
+{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00","dg-note-properties":{"noteIcon":"signpost","dgPassFrontmatter":"true","tags":["mensagens"]}}
 ---
 
 [[Home\|Back home]]

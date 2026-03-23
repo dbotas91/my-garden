@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["perigosaosmoços"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.217+00:00","title":"Perigos que os moços enfrentam","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/perigos-que-os-mocos-enfrentam/"}
+{"dg-publish":true,"tags":["perigosaosmoços"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.217+00:00","title":"Perigos que os moços enfrentam","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/perigos-que-os-mocos-enfrentam/","dg-note-properties":{"tags":["perigosaosmoços"],"mature-status":"Adult","message_category":"Devocional","created":"July 31, 2020 09:27","speech-status":"Proferido","local":"iqc-jovens","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Perigos que os moços enfrentam","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

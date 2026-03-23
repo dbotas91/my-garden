@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["igreja"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.211+00:00","title":"Igreja, Corpo de Cristo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/igreja-corpo-de-cristo/"}
+{"dg-publish":true,"tags":["igreja"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.211+00:00","title":"Igreja, Corpo de Cristo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/igreja-corpo-de-cristo/","dg-note-properties":{"tags":["igreja"],"mature-status":"Adult","message_category":"Doutrinal","created":"August 20, 2018 20:43","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Igreja, Corpo de Cristo","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

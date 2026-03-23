@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-19T11:34:46.915+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-03-20T09:45:13.159+00:00","title":"Corrompida?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/corrompida/"}
+{"dg-publish":true,"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-19T11:34:46.915+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-03-20T09:45:13.159+00:00","title":"Corrompida?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/corrompida/","dg-note-properties":{"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-19 11:34","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-03-19 11:34","title":"Corrompida?","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2026-02-03T09:43:48.222+00:00","updated":"2026-03-04T18:35:37.046+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2026-atividades-e-tarefas/"}
+{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2026-02-03T09:43:48.222+00:00","updated":"2026-03-04T18:35:37.046+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2026-atividades-e-tarefas/","dg-note-properties":{"tags":["tasksandactivities2025"],"created":"2026-03-04 18:34","updated":"2026-03-04 18:34","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

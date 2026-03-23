@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Ensina o menino no Caminho","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ensina-o-menino-no-caminho/"}
+{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Ensina o menino no Caminho","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ensina-o-menino-no-caminho/","dg-note-properties":{"tags":["doutrinal"],"mature-status":"Adult","message_category":"Devocional","created":"September 28, 2025 21:56","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Ensina o menino no Caminho","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

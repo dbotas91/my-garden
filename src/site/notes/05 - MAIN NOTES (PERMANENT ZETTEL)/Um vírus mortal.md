@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["vírus","vírusmortal"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.220+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.220+00:00","title":"Um vírus mortal","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/um-virus-mortal/"}
+{"dg-publish":true,"tags":["vírus","vírusmortal"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.220+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.220+00:00","title":"Um vírus mortal","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/um-virus-mortal/","dg-note-properties":{"tags":["vírus","vírusmortal"],"mature-status":"Adult","message_category":"Devocional","created":"April 25, 2020 00:04","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Um vírus mortal","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

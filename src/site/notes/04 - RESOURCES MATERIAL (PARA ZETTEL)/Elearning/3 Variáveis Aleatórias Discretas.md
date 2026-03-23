@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-variaveis-aleatorias-discretas/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.182+00:00","updated":"2026-02-03T09:43:48.183+00:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/3-variaveis-aleatorias-discretas/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.182+00:00","updated":"2026-02-03T09:43:48.183+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 

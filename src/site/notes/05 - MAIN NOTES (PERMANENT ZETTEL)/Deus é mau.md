@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Deuseomal"],"mature-status":"Teen","message_category":"Evangelização","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.208+00:00","title":"Deus é mau?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/deus-e-mau/"}
+{"dg-publish":true,"tags":["Deuseomal"],"mature-status":"Teen","message_category":"Evangelização","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.208+00:00","title":"Deus é mau?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/deus-e-mau/","dg-note-properties":{"tags":["Deuseomal"],"mature-status":"Teen","message_category":"Evangelização","created":"August 7, 2025 07:44","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Deus é mau?","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

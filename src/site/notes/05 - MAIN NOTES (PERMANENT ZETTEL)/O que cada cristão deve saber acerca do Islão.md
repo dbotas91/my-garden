@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["islão"],"mature-status":"Teen","message_category":"Evangelização","created":"2026-02-03T09:43:48.214+00:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.214+00:00","title":"O que cada cristão deve saber acerca do Islão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-que-cada-cristao-deve-saber-acerca-do-islao/"}
+{"dg-publish":true,"tags":["islão"],"mature-status":"Teen","message_category":"Evangelização","created":"2026-02-03T09:43:48.214+00:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.214+00:00","title":"O que cada cristão deve saber acerca do Islão","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-que-cada-cristao-deve-saber-acerca-do-islao/","dg-note-properties":{"tags":["islão"],"mature-status":"Teen","message_category":"Evangelização","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":"iqc-jovens","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"O que cada cristão deve saber acerca do Islão","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

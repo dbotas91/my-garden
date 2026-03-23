@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.209+00:00","title":"Entendendo a sua Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entendendo-a-sua-biblia/"}
+{"dg-publish":true,"tags":["entenderabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.209+00:00","title":"Entendendo a sua Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/entendendo-a-sua-biblia/","dg-note-properties":{"tags":["entenderabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":"iqc","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Entendendo a sua Bíblia","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

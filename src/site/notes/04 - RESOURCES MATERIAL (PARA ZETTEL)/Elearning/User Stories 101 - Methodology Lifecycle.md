@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-stories-101-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.194+00:00","updated":"2026-02-03T09:43:48.194+00:00"}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/user-stories-101-methodology-lifecycle/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.194+00:00","updated":"2026-02-03T09:43:48.194+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%2018.png)

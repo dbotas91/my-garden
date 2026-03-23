@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c8-reviewing-keeping-your-system-functional/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.196+00:00","updated":"2026-02-03T09:43:48.196+00:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c8-reviewing-keeping-your-system-functional/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.196+00:00","updated":"2026-02-03T09:43:48.196+00:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
 ---
 
 # C8 Reviewing: Keeping Your System Functional

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["bibliaeciencia"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.204+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2026-02-03T09:43:48.204+00:00","title":"A criação do Salvador","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-criacao-do-salvador/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["bibliaeciencia"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.204+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2026-02-03T09:43:48.204+00:00","title":"A criação do Salvador","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-criacao-do-salvador/","noteIcon":"adult","dg-note-properties":{"tags":["bibliaeciencia"],"mature-status":"Adult","message_category":"Evangelização","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":"iqc","noteI":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"A criação do Salvador","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

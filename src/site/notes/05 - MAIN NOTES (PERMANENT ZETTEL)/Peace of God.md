@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["peace"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"polónia","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Peace of God","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/peace-of-god/"}
+{"dg-publish":true,"tags":["peace"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"polónia","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Peace of God","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/peace-of-god/","dg-note-properties":{"tags":["peace"],"mature-status":"Adult","message_category":"Evangelização","created":"December 8, 2016 12:20","speech-status":"Proferido","local":"polónia","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Peace of God","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

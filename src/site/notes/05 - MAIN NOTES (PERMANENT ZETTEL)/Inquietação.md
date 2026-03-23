@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["inquietação"],"mature-status":"Child","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.212+00:00","title":"Inquietação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/inquietacao/"}
+{"dg-publish":true,"tags":["inquietação"],"mature-status":"Child","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.212+00:00","title":"Inquietação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/inquietacao/","dg-note-properties":{"tags":["inquietação"],"mature-status":"Child","message_category":"Devocional","created":"July 22, 2020 14:52","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Inquietação","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

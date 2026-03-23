@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["filipenses"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.211+00:00","title":"Filipenses 4:6","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/filipenses-4/"}
+{"dg-publish":true,"tags":["filipenses"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.211+00:00","title":"Filipenses 4:6","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/filipenses-4/","dg-note-properties":{"tags":["filipenses"],"mature-status":"Adult","message_category":"Devocional","created":"May 30, 2024","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Filipenses 4:6","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

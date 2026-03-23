@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/a-tax-that-could-fix-big-tech/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.178+00:00","updated":"2026-02-03T09:43:48.178+00:00"}
+{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/a-tax-that-could-fix-big-tech/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.178+00:00","updated":"2026-02-03T09:43:48.178+00:00","dg-note-properties":{"tags":["articles"],"noteIcon":"lackluster"}}
 ---
  
 

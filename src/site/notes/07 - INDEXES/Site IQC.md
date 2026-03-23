@@ -1,5 +1,5 @@
 ---
-{"tags":["siteiqc"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/site-iqc/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.224+00:00","updated":"2026-02-03T09:43:48.224+00:00"}
+{"tags":["siteiqc"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/site-iqc/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.224+00:00","updated":"2026-02-03T09:43:48.224+00:00","dg-note-properties":{"tags":["siteiqc"],"noteIcon":"signpost"}}
 ---
 
 # 💻 Site IQC

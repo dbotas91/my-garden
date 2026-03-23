@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-para/programming-languages/javascript/programas-simples/","dgPassFrontmatter":true,"noteIcon":"child","created":"2026-02-03T09:43:48.173+00:00","updated":"2026-02-03T09:43:48.174+00:00"}
+{"dg-publish":true,"permalink":"/02-areas-para/programming-languages/javascript/programas-simples/","dgPassFrontmatter":true,"noteIcon":"child","created":"2026-02-03T09:43:48.173+00:00","updated":"2026-02-03T09:43:48.174+00:00","dg-note-properties":{}}
 ---
 
 

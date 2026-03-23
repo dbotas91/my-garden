@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["paradigmas","natureza"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.216+00:00","title":"Paradigma da natureza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paradigma-da-natureza/"}
+{"dg-publish":true,"tags":["paradigmas","natureza"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.216+00:00","title":"Paradigma da natureza","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paradigma-da-natureza/","dg-note-properties":{"tags":["paradigmas","natureza"],"mature-status":"Adult","message_category":"Evangelização","created":"February 15, 2020 19:02","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Paradigma da natureza","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

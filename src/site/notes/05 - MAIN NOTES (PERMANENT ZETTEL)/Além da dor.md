@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["dor"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.205+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.205+00:00","title":"Além da dor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/alem-da-dor/"}
+{"dg-publish":true,"tags":["dor"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.205+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.205+00:00","title":"Além da dor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/alem-da-dor/","dg-note-properties":{"tags":["dor"],"mature-status":"Adult","message_category":"Devocional","created":"November 24, 2016 22:34","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Além da dor","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

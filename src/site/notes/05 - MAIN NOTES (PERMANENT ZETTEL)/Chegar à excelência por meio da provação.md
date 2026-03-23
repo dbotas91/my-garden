@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.206+00:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/"}
+{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.206+00:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/","dg-note-properties":{"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

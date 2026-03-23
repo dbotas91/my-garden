@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["paz"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.216+00:00","title":"Paz de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paz-de-deus/"}
+{"dg-publish":true,"tags":["paz"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.216+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.216+00:00","title":"Paz de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/paz-de-deus/","dg-note-properties":{"tags":["paz"],"mature-status":"Adult","message_category":"Evangelização","created":"Decbember 8, 2016 12:20","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Paz de Deus","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

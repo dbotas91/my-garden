@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2026-02-03T09:43:48.205+00:00","speech-status":"Proferido","local":"fontaínhas","updated":"2026-02-03T09:43:48.205+00:00","title":"Abraão, o pai da fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/"}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2026-02-03T09:43:48.205+00:00","speech-status":"Proferido","local":"fontaínhas","updated":"2026-02-03T09:43:48.205+00:00","title":"Abraão, o pai da fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dg-note-properties":{"noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2025-10-14 18:12","speech-status":"Proferido","local":"fontaínhas","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Abraão, o pai da fé","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["amor"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.220+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.220+00:00","title":"Sobre o amor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-o-amor/"}
+{"dg-publish":true,"tags":["amor"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.220+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.220+00:00","title":"Sobre o amor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/sobre-o-amor/","dg-note-properties":{"tags":["amor"],"mature-status":"Adult","message_category":"Devocional","created":"June 29, 2020 10:06","speech-status":"Proferido","local":"iqc-jovens","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Sobre o amor","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

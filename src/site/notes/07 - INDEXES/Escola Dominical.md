@@ -1,5 +1,5 @@
 ---
-{"tags":["escoladominical"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/escola-dominical/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00"}
+{"tags":["escoladominical"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/escola-dominical/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-properties":{"tags":["escoladominical"],"noteIcon":"signpost"}}
 ---
 
 # 🏫 Escola Dominical

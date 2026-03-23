@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["salvação"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Podemos perder a nossa salvação pela graça?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/podemos-perder-a-nossa-salvacao-pela-graca/"}
+{"dg-publish":true,"tags":["salvação"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Podemos perder a nossa salvação pela graça?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/podemos-perder-a-nossa-salvacao-pela-graca/","dg-note-properties":{"tags":["salvação"],"mature-status":"Adult","message_category":"Evangelização","created":"March 11, 2021 21:16","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Podemos perder a nossa salvação pela graça?","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["anonovo"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/resolucoes-de-ano-novo/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00"}
+{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["anonovo"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/resolucoes-de-ano-novo/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00","dg-note-properties":{"created":"June 11, 2021 10:43 PM","tags":["anonovo"],"noteIcon":"adult","message_category":"Devocional"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

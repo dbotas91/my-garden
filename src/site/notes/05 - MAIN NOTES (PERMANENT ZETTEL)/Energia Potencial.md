@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["energiapotencial"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Energia Potencial","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/energia-potencial/"}
+{"dg-publish":true,"tags":["energiapotencial"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.209+00:00","title":"Energia Potencial","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/energia-potencial/","dg-note-properties":{"tags":["energiapotencial"],"mature-status":"Adult","message_category":"Devocional","created":"23 October, 2020 00:02","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Energia Potencial","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

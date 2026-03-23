@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["leis"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.212+00:00","title":"Leis","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/leis/"}
+{"dg-publish":true,"tags":["leis"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.212+00:00","title":"Leis","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/leis/","dg-note-properties":{"tags":["leis"],"mature-status":"Adult","message_category":"Doutrinal","created":"February 10, 2021 15:09","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Leis","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

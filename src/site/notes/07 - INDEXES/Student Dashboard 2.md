@@ -1,5 +1,5 @@
 ---
-{"tags":["studentdashboard"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/student-dashboard-2/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.224+00:00","updated":"2026-02-03T09:43:48.224+00:00"}
+{"tags":["studentdashboard"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/student-dashboard-2/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.224+00:00","updated":"2026-02-03T09:43:48.224+00:00","dg-note-properties":{"tags":["studentdashboard"],"noteIcon":"signpost"}}
 ---
 
 # 🎓 Student Dashboard

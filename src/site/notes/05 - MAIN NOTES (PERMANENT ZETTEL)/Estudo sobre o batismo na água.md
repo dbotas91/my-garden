@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["batismonaágua"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.210+00:00","title":"Estudo sobre o batismo na água","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estudo-sobre-o-batismo-na-agua/"}
+{"dg-publish":true,"tags":["batismonaágua"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-02-03T09:43:48.210+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.210+00:00","title":"Estudo sobre o batismo na água","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/estudo-sobre-o-batismo-na-agua/","dg-note-properties":{"tags":["batismonaágua"],"mature-status":"Teen","message_category":"Doutrinal","created":"March 19, 2025","speech-status":"Proferido","local":"iqc-jovens","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Estudo sobre o batismo na água","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

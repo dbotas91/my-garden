@@ -1,5 +1,5 @@
 ---
-{"tags":["estudobiblico"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/estudo-biblico-microscopico/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-03-04T12:07:00.426+00:00"}
+{"tags":["estudobiblico"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/estudo-biblico-microscopico/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-03-04T12:07:00.426+00:00","dg-note-properties":{"tags":["estudobiblico"],"noteIcon":"signpost"}}
 ---
 
 ![](https://iqc.pt/images/page-1_slide1.jpg)

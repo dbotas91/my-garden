@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["presenteverdade","dispensacional","divisaodabiblia"],"mature-status":"Adult","message_category":"dispensacional","created":"2026-02-03T09:43:48.204+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2026-02-03T09:43:48.205+00:00","title":"A Presente Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-presente-verdade/","noteIcon":"adult"}
+{"dg-publish":true,"tags":["presenteverdade","dispensacional","divisaodabiblia"],"mature-status":"Adult","message_category":"dispensacional","created":"2026-02-03T09:43:48.204+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteI":"adult","updated":"2026-02-03T09:43:48.205+00:00","title":"A Presente Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-presente-verdade/","noteIcon":"adult","dg-note-properties":{"tags":["presenteverdade","dispensacional","divisaodabiblia"],"mature-status":"Adult","message_category":"dispensacional","created":"August 13, 2020 17:50","speech-status":"Proferido","local":"iqc","noteI":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"A Presente Verdade","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

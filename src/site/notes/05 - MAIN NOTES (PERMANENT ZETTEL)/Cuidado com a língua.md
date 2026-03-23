@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["maledicência"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.207+00:00","title":"Cuidado com a língua","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/cuidado-com-a-lingua/"}
+{"dg-publish":true,"tags":["maledicência"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.207+00:00","title":"Cuidado com a língua","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/cuidado-com-a-lingua/","dg-note-properties":{"tags":["maledicência"],"mature-status":"Adult","message_category":"Devocional","created":"July 10, 2021","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Cuidado com a língua","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

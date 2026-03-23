@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["obra"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.214+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.215+00:00","title":"Obra de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/obra-de-deus/"}
+{"dg-publish":true,"tags":["obra"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.214+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.215+00:00","title":"Obra de Deus","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/obra-de-deus/","dg-note-properties":{"tags":["obra"],"mature-status":"Adult","message_category":"Devocional","created":"March 25, 2018 00:25","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Obra de Deus","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

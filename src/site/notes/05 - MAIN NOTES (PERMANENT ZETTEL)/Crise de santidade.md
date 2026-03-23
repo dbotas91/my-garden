@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Proferido","local":["iqc","zoom"],"dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.207+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/"}
+{"dg-publish":true,"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.207+00:00","speech-status":"Proferido","local":["iqc","zoom"],"dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.207+00:00","title":"Crise de Santidade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/crise-de-santidade/","dg-note-properties":{"tags":["santidade"],"mature-status":"Adult","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":["iqc","zoom"],"noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Crise de Santidade","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

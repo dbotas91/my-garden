@@ -1,5 +1,5 @@
 ---
-{"tags":["videos"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/videos/rare-genes-people-have-you-tube-video/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.198+00:00","updated":"2026-02-03T09:43:48.198+00:00"}
+{"tags":["videos"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/videos/rare-genes-people-have-you-tube-video/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.198+00:00","updated":"2026-02-03T09:43:48.198+00:00","dg-note-properties":{"tags":["videos"],"noteIcon":"lackluster"}}
 ---
 
 # Rare genes people have YouTube video

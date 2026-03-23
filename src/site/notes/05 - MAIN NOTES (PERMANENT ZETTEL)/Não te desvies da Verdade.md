@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["presenteverdade"],"mature-status":"Teen","message_category":"dispensacional","created":"2026-02-03T09:43:48.213+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.213+00:00","title":"Não te desvies da Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/nao-te-desvies-da-verdade/"}
+{"dg-publish":true,"tags":["presenteverdade"],"mature-status":"Teen","message_category":"dispensacional","created":"2026-02-03T09:43:48.213+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.213+00:00","title":"Não te desvies da Verdade","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/nao-te-desvies-da-verdade/","dg-note-properties":{"tags":["presenteverdade"],"mature-status":"Teen","message_category":"dispensacional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":"iqc","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Não te desvies da Verdade","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

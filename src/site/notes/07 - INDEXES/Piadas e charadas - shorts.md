@@ -1,5 +1,5 @@
 ---
-{"tags":["piadas"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/piadas-e-charadas-shorts/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00"}
+{"tags":["piadas"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/piadas-e-charadas-shorts/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-properties":{"tags":["piadas"],"noteIcon":"signpost"}}
 ---
 
 ![](Dashboard/Attachments/photo-1542204625-ca960ca44635%201.jpeg)

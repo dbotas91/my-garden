@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.212+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/"}
+{"dg-publish":true,"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Calado","local":"iqc-jovens","dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.212+00:00","title":"Ingratidão e murmúrio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/ingratidao-e-murmurio/","dg-note-properties":{"tags":["ingratidão","murmúrio"],"mature-status":"Child","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":"iqc-jovens","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Ingratidão e murmúrio","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

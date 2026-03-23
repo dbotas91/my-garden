@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["silêncio"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.211+00:00","title":"Guardar Silêncio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/guardar-silencio/"}
+{"dg-publish":true,"tags":["silêncio"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.211+00:00","title":"Guardar Silêncio","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/guardar-silencio/","dg-note-properties":{"tags":["silêncio"],"mature-status":"Teen","message_category":"Devocional","created":"May 18, 2019 19:23","speech-status":"Proferido","local":"iqc","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Guardar Silêncio","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

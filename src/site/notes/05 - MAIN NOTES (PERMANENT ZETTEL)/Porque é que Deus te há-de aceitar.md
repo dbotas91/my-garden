@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["evangelização"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Porque é que Deus te há-de aceitar?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/porque-e-que-deus-te-ha-de-aceitar/"}
+{"dg-publish":true,"tags":["evangelização"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.217+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.217+00:00","title":"Porque é que Deus te há-de aceitar?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/porque-e-que-deus-te-ha-de-aceitar/","dg-note-properties":{"tags":["evangelização"],"mature-status":"Adult","message_category":"Evangelização","created":"May 28, 2021","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Porque é que Deus te há-de aceitar?","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

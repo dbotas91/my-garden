@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2026-02-03T09:43:48.209+00:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen"}
+{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.209+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2026-02-03T09:43:48.209+00:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen","dg-note-properties":{"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":"iqc","noteI":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Economia na Bíblia","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

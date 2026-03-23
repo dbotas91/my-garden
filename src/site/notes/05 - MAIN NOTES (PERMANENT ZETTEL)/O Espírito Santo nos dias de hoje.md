@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["EspíritoSanto"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.213+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.214+00:00","title":"O Espírito Santo nos dias de hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-espirito-santo-nos-dias-de-hoje/"}
+{"dg-publish":true,"tags":["EspíritoSanto"],"mature-status":"Adult","message_category":"Doutrinal","created":"2026-02-03T09:43:48.213+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.214+00:00","title":"O Espírito Santo nos dias de hoje","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-espirito-santo-nos-dias-de-hoje/","dg-note-properties":{"tags":["EspíritoSanto"],"mature-status":"Adult","message_category":"Doutrinal","created":"March 1, 2019 21:10","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"O Espírito Santo nos dias de hoje","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

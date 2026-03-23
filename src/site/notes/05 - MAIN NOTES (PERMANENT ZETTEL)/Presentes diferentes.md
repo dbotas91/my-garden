@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["dispensacional"],"message_category":"Doutrinal","dg-note-icon":"adult","noteIcon":"adult","permalink":"/05-main-notes-permanent-zettel/presentes-diferentes/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00"}
+{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["dispensacional"],"message_category":"Doutrinal","dg-note-icon":"adult","noteIcon":"adult","permalink":"/05-main-notes-permanent-zettel/presentes-diferentes/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00","dg-note-properties":{"created":null,"tags":["dispensacional"],"message_category":"Doutrinal","noteIcon":"adult"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

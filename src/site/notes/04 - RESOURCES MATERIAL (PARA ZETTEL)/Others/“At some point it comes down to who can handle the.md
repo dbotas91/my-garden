@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/at-some-point-it-comes-down-to-who-can-handle-the/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.198+00:00","updated":"2026-02-03T09:43:48.198+00:00"}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/at-some-point-it-comes-down-to-who-can-handle-the/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.198+00:00","updated":"2026-02-03T09:43:48.198+00:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
 ---
 
 # “At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over.”

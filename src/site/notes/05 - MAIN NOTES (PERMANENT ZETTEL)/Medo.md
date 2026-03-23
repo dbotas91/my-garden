@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fobias"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.213+00:00","title":"Medo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/medo/"}
+{"dg-publish":true,"tags":["fobias"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.213+00:00","title":"Medo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/medo/","dg-note-properties":{"tags":["fobias"],"mature-status":"Adult","message_category":"Devocional","created":"October 23, 2020 00:05","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Medo","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

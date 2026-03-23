@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["seminário"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.219+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.219+00:00","title":"Seminário","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/seminarios/"}
+{"dg-publish":true,"tags":["seminário"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.219+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.219+00:00","title":"Seminário","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/seminarios/","dg-note-properties":{"tags":["seminário"],"mature-status":"Adult","message_category":"Devocional","created":"Semptember 28, 2019 13:41","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Seminário","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

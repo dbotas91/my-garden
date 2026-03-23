@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["coração"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.206+00:00","title":"Bens do coração","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/bens-do-coracao/"}
+{"dg-publish":true,"tags":["coração"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.206+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.206+00:00","title":"Bens do coração","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/bens-do-coracao/","dg-note-properties":{"tags":["coração"],"mature-status":"Adult","message_category":"Devocional","created":"June 29, 2020 10:06","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Bens do coração","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
