@@ -1,5 +1,5 @@
 ---
-{"tags":["livros","livroscristaos"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/livros-cristaos/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-properties":{"tags":["livros","livroscristaos"],"noteIcon":"signpost"}}
+{"tags":["livros","livroscristaos"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/livros-cristaos/","dgPassFrontmatter":true,"created":"2025-10-24T17:08:46.215+01:00","updated":"2025-10-27T14:37:23.704+00:00","dg-note-properties":{"tags":["livros","livroscristaos"],"noteIcon":"signpost"}}
 ---
 
 

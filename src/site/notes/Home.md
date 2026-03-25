@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-02-03T09:43:49.150+00:00","updated":"2026-02-03T09:43:49.150+00:00","dg-note-properties":{"noteIcon":"signpost"}}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-10-20T18:54:49.797+01:00","updated":"2025-10-27T14:37:14.824+00:00","dg-note-properties":{"noteIcon":"signpost"}}
 ---
 
 > [!WARNING] Atenção / Warning

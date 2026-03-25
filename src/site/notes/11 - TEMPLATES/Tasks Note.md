@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-02-03T09:43:49.150+00:00","dg-note-icon":"stone","noteIcon":"stone","updated":"2026-02-03T09:43:49.150+00:00","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"stone","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2025-10-13T20:17:13.910+01:00","dg-note-icon":"stone","noteIcon":"stone","updated":"2025-10-25T17:07:15.498+01:00","dgPassFrontmatter":true,"permalink":"/11-templates/tasks-note/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"stone","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["2025-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/culto-de-domingo/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.221+00:00","updated":"2026-02-03T09:43:48.221+00:00","dg-note-properties":{"tags":["2025-02"],"noteIcon":"chest"}}
+{"tags":["2025-02"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/culto-de-domingo/","dgPassFrontmatter":true,"created":"2025-10-16T10:26:59.893+01:00","updated":"2025-10-25T17:52:05.745+01:00","dg-note-properties":{"tags":["2025-02"],"noteIcon":"chest"}}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

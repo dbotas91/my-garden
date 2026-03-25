@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/obra/","created":"2026-02-03T09:43:49.147+00:00","updated":"2026-02-03T09:43:49.147+00:00","dg-note-properties":{"dgPassFrontmatter":"true","noteIcon":"signpost"}}
+{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/obra/","created":"2025-11-01T13:12:00.704+00:00","updated":"2025-11-01T13:12:05.605+00:00","dg-note-properties":{"dgPassFrontmatter":"true","noteIcon":"signpost"}}
 ---
 
 [[Home\|Back home]]

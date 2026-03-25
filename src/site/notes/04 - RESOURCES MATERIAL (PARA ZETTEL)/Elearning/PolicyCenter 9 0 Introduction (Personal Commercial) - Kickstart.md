@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/policy-center-9-0-introduction-personal-commercial-kickstart/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.192+00:00","updated":"2026-02-03T09:43:48.192+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/policy-center-9-0-introduction-personal-commercial-kickstart/","dgPassFrontmatter":true,"created":"2025-10-16T10:24:33.488+01:00","updated":"2025-10-24T16:08:27.798+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons_notes--outline%2012.png)

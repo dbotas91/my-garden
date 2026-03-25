@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/virus-mortal/","created":"2026-02-03T09:43:49.149+00:00","updated":"2026-02-03T09:43:49.149+00:00","dg-note-properties":{"dgPassFrontmatter":"true","noteIcon":"signpost"}}
+{"dg-publish":true,"dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","permalink":"/10-tags/virus-mortal/","created":"2025-10-30T14:59:51.844+00:00","updated":"2025-10-30T14:59:59.336+00:00","dg-note-properties":{"dgPassFrontmatter":"true","noteIcon":"signpost"}}
 ---
 
 [[Home\|Back home]]

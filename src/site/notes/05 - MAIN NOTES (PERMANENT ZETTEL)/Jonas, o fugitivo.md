@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.212+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.212+00:00","title":"Jonas, o fugitivo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/jonas-o-fugitivo/","dg-note-properties":{"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"July 27, 2019 19:07","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Jonas, o fugitivo","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"2025-10-16T10:29:28.698+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-30T17:26:24.952+00:00","title":"Jonas, o fugitivo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/jonas-o-fugitivo/","dg-note-properties":{"tags":["jonas"],"mature-status":"Adult","message_category":"Devocional","created":"July 27, 2019 19:07","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Jonas, o fugitivo","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"legacy","noteIcon":"legacy","permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.218+00:00","updated":"2026-02-03T09:43:48.219+00:00","dg-note-properties":{"noteIcon":"legacy"}}
+{"dg-publish":true,"dg-note-icon":"legacy","noteIcon":"legacy","permalink":"/05-main-notes-permanent-zettel/s-o-a-p-method/","dgPassFrontmatter":true,"created":"2025-10-16T10:04:53.291+01:00","updated":"2025-10-22T13:28:43.469+01:00","dg-note-properties":{"noteIcon":"legacy"}}
 ---
 
  

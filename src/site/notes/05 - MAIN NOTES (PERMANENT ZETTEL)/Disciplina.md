@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"2026-02-03T09:43:48.208+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-02-03T09:43:48.208+00:00","title":"Disciplina","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/disciplina/","dg-note-properties":{"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"December 4, 2020 23:52","speech-status":"Proferido","local":"iqc","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Disciplina","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:06.296+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2025-10-30T10:38:48.070+00:00","title":"Disciplina","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/disciplina/","dg-note-properties":{"tags":["disciplina"],"mature-status":"Teen","message_category":"Devocional","created":"December 4, 2020 23:52","speech-status":"Proferido","local":"iqc","noteIcon":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Disciplina","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

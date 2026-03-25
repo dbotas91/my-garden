@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/web-design/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.194+00:00","updated":"2026-02-03T09:43:48.194+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/web-design/","dgPassFrontmatter":true,"created":"2025-10-16T10:12:31.881+01:00","updated":"2025-10-24T15:59:33.901+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons8-design.svg)

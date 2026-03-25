@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/11-tips-to-save-money-in-tough-times/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.194+00:00","updated":"2026-02-03T09:43:48.194+00:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/11-tips-to-save-money-in-tough-times/","dgPassFrontmatter":true,"created":"2025-10-16T10:12:54.188+01:00","updated":"2025-10-24T16:11:24.440+01:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
 ---
 
 # 11 Tips to save money in tough times

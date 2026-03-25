@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c3-how-to-build/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.196+00:00","updated":"2026-02-03T09:43:48.196+00:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/c3-how-to-build/","dgPassFrontmatter":true,"created":"2025-10-16T10:15:39.423+01:00","updated":"2025-10-24T16:17:31.976+01:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
 ---
 
 # C3 - How to Build
