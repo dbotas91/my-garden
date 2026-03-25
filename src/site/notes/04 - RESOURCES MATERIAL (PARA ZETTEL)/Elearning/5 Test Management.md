@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/5-test-management/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.183+00:00","updated":"2026-02-03T09:43:48.184+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/5-test-management/","dgPassFrontmatter":true,"created":"2025-10-16T10:22:41.665+01:00","updated":"2025-10-24T12:39:12.065+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fraqueza"],"mature-status":"Adult","message_category":"Devocional","created":"2026-02-03T09:43:48.211+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.211+00:00","title":"Fraquezas","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/fraquezas/","dg-note-properties":{"tags":["fraqueza"],"mature-status":"Adult","message_category":"Devocional","created":"October 22, 2020 23:51","speech-status":"Proferido","local":"iqc-jovens","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Fraquezas","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["fraqueza"],"mature-status":"Adult","message_category":"Devocional","created":"2025-11-07T17:06:17.366+00:00","speech-status":"Proferido","local":"iqc-jovens","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-11-07T18:04:40.634+00:00","title":"Fraquezas","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/fraquezas/","dg-note-properties":{"tags":["fraqueza"],"mature-status":"Adult","message_category":"Devocional","created":"October 22, 2020 23:51","speech-status":"Proferido","local":"iqc-jovens","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Fraquezas","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

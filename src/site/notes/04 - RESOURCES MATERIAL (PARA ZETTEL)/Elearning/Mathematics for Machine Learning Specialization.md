@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/mathematics-for-machine-learning-specialization/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.190+00:00","updated":"2026-02-03T09:43:48.190+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/mathematics-for-machine-learning-specialization/","dgPassFrontmatter":true,"created":"2025-10-16T09:50:41.857+01:00","updated":"2025-10-24T16:07:45.956+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 # ➕ Mathematics for Machine Learning Specialization

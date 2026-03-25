@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["graçadeDeus"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","created":"2026-02-03T09:43:48.220+00:00","permalink":"/05-main-notes-permanent-zettel/valorizar-a-graca-de-deus/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.220+00:00","dg-note-properties":{"tags":["graçadeDeus"],"noteIcon":"adult","message_category":"Devocional","created":"October 13, 2023 6:14 PM"}}
+{"dg-publish":true,"tags":["graçadeDeus"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","created":"2025-10-16T10:29:55.591+01:00","permalink":"/05-main-notes-permanent-zettel/valorizar-a-graca-de-deus/","dgPassFrontmatter":true,"updated":"2025-10-22T13:31:11.661+01:00","dg-note-properties":{"tags":["graçadeDeus"],"noteIcon":"adult","message_category":"Devocional","created":"October 13, 2023 6:14 PM"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

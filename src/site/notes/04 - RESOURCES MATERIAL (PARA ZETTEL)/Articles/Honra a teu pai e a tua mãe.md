@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["paiemãe"],"mature-status":"Child","created":"2026-02-03T09:43:48.178+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-02-03T09:43:48.178+00:00","dgPassFrontmatter":true,"permalink":"/04-resources-material-para-zettel/articles/honra-a-teu-pai-e-a-tua-mae/","dg-note-properties":{"tags":["paiemãe"],"mature-status":"Child","created":"31-10-2025","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["paiemãe"],"mature-status":"Child","created":"2025-10-31T12:06:29.335+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2025-10-31T12:09:45.717+00:00","dgPassFrontmatter":true,"permalink":"/04-resources-material-para-zettel/articles/honra-a-teu-pai-e-a-tua-mae/","dg-note-properties":{"tags":["paiemãe"],"mature-status":"Child","created":"31-10-2025","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

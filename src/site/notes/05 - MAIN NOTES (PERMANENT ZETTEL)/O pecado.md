@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["pecado"],"mature-status":"Adult","message_category":"Evangelização","created":"2026-02-03T09:43:48.214+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-02-03T09:43:48.214+00:00","title":"O pecado","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-pecado/","dg-note-properties":{"tags":["pecado"],"mature-status":"Adult","message_category":"Evangelização","created":"September 29, 2023","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"O pecado","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["pecado"],"mature-status":"Adult","message_category":"Evangelização","created":"2025-10-16T10:29:33.571+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2025-10-29T14:57:44.455+00:00","title":"O pecado","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/o-pecado/","dg-note-properties":{"tags":["pecado"],"mature-status":"Adult","message_category":"Evangelização","created":"September 29, 2023","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"O pecado","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

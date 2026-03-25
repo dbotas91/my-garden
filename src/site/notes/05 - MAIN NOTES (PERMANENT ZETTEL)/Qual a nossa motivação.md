@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["motivação"],"noteIcon":"adult","dg-note-icon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/qual-a-nossa-motivacao/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00","dg-note-properties":{"created":"July 6, 2021 7:48 PM","tags":["motivação"],"noteIcon":"adult","message_category":"Devocional"}}
+{"dg-publish":true,"created":"2025-10-16T10:29:40.945+01:00","tags":["motivação"],"noteIcon":"adult","dg-note-icon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/qual-a-nossa-motivacao/","dgPassFrontmatter":true,"updated":"2025-10-22T13:27:24.646+01:00","dg-note-properties":{"created":"July 6, 2021 7:48 PM","tags":["motivação"],"noteIcon":"adult","message_category":"Devocional"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

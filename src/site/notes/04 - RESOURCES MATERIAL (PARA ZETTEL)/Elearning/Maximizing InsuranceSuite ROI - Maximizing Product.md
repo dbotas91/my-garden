@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/maximizing-insurance-suite-roi-maximizing-product/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.190+00:00","updated":"2026-02-03T09:43:48.191+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/maximizing-insurance-suite-roi-maximizing-product/","dgPassFrontmatter":true,"created":"2025-10-18T23:21:56.775+01:00","updated":"2025-10-24T16:07:49.393+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](HTML%20import/Attachments/icons_notes--outline.png)

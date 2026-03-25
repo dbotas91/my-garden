@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/","dg-note-properties":{"tags":["areas","ongoingprojects"],"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["areas","ongoingprojects"],"created":"2025-10-27T13:14:31.935+00:00","updated":"2025-10-27T14:41:56.123+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/areas/","dg-note-properties":{"tags":["areas","ongoingprojects"],"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

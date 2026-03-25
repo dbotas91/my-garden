@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-testing-throughout-the-software-development-lifecycle/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.181+00:00","updated":"2026-02-03T09:43:48.181+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2-testing-throughout-the-software-development-lifecycle/","dgPassFrontmatter":true,"created":"2025-10-16T10:21:58.956+01:00","updated":"2025-10-24T12:37:44.413+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons_notes--sentence%208.png)

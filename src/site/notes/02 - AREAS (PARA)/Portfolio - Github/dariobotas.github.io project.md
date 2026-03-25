@@ -1,5 +1,5 @@
 ---
-{"kanban-plugin":"board","dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/02-areas-para/portfolio-github/dariobotas-github-io-project/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.173+00:00","updated":"2026-02-03T09:43:48.173+00:00","dg-note-properties":{"kanban-plugin":"board","noteIcon":"teen"}}
+{"kanban-plugin":"board","dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","permalink":"/02-areas-para/portfolio-github/dariobotas-github-io-project/","dgPassFrontmatter":true,"created":"2025-10-16T17:55:24.826+01:00","updated":"2025-10-23T12:45:49.456+01:00","dg-note-properties":{"kanban-plugin":"board","noteIcon":"teen"}}
 ---
 
 

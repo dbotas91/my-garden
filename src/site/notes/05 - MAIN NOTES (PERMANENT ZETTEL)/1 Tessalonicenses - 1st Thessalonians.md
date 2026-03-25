@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-02-03T09:43:48.199+00:00","tags":["1tessalonicenses"],"noteIcon":"teen","message_category":"Doutrinal","dg-note-icon":"teen","language":"pt","permalink":"/05-main-notes-permanent-zettel/1-tessalonicenses-1st-thessalonians/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.199+00:00","dg-note-properties":{"created":"November 7, 2021 7:53 PM","tags":["1tessalonicenses"],"noteIcon":"teen","message_category":"Doutrinal","language":"pt"}}
+{"dg-publish":true,"created":"2025-10-16T10:28:13.007+01:00","tags":["1tessalonicenses"],"noteIcon":"teen","message_category":"Doutrinal","dg-note-icon":"teen","language":"pt","permalink":"/05-main-notes-permanent-zettel/1-tessalonicenses-1st-thessalonians/","dgPassFrontmatter":true,"updated":"2025-10-24T17:17:25.157+01:00","dg-note-properties":{"created":"November 7, 2021 7:53 PM","tags":["1tessalonicenses"],"noteIcon":"teen","message_category":"Doutrinal","language":"pt"}}
 ---
 
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Proferido\|Proferido]]

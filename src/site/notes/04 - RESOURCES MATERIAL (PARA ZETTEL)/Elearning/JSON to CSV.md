@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/json-to-csv/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.189+00:00","updated":"2026-02-03T09:43:48.189+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/json-to-csv/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:34.054+01:00","updated":"2025-10-24T16:07:30.963+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 # JSON to CSV

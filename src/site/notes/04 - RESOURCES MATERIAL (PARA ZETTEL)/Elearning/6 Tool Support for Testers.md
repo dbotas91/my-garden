@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/6-tool-support-for-testers/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.184+00:00","updated":"2026-02-03T09:43:48.185+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/6-tool-support-for-testers/","dgPassFrontmatter":true,"created":"2025-10-16T10:23:04.208+01:00","updated":"2025-10-24T16:04:34.319+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 

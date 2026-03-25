@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/11-templates/estudos-biblicos/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:49.150+00:00","updated":"2026-03-04T12:07:00.427+00:00","dg-note-properties":{"tags":null,"noteIcon":"stone"}}
+{"tags":null,"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/11-templates/estudos-biblicos/","dgPassFrontmatter":true,"created":"2026-03-23T09:32:56.617+00:00","updated":"2026-03-23T09:32:56.617+00:00","dg-note-properties":{"tags":null,"noteIcon":"stone"}}
 ---
 
 Status: 

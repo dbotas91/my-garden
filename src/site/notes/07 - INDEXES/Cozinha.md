@@ -1,5 +1,5 @@
 ---
-{"tags":["cozinhar"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/cozinha/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.223+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-properties":{"tags":["cozinhar"],"noteIcon":"signpost"}}
+{"tags":["cozinhar"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/cozinha/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:31.420+01:00","updated":"2025-10-24T16:40:12.239+01:00","dg-note-properties":{"tags":["cozinhar"],"noteIcon":"signpost"}}
 ---
 
 # 👩🏼‍🍳 Cozinha

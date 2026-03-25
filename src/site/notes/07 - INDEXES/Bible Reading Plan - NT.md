@@ -1,5 +1,5 @@
 ---
-{"tags":["bibleplan"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/bible-reading-plan-nt/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.222+00:00","updated":"2026-02-03T09:43:48.223+00:00","dg-note-properties":{"tags":["bibleplan"],"noteIcon":"signpost"}}
+{"tags":["bibleplan"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/07-indexes/bible-reading-plan-nt/","dgPassFrontmatter":true,"created":"2025-10-16T10:09:40.687+01:00","updated":"2025-10-24T16:35:43.528+01:00","dg-note-properties":{"tags":["bibleplan"],"noteIcon":"signpost"}}
 ---
 
 

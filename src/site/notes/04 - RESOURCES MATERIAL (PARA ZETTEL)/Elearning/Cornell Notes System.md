@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cornell-notes-system/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.186+00:00","updated":"2026-02-03T09:43:48.187+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/cornell-notes-system/","dgPassFrontmatter":true,"created":"2025-10-16T09:48:14.262+01:00","updated":"2025-10-24T16:05:32.735+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 # 📍Cornell Notes System
