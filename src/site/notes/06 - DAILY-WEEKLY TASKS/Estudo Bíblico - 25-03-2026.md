@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-25-03-2026/","dgPassFrontmatter":true,"created":"2026-03-25T18:14:22.920+00:00","updated":"2026-03-25T18:17:39.746+00:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"stone"}}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-25-03-2026/","dgPassFrontmatter":true,"created":"2026-03-25T18:14:22.920+00:00","updated":"2026-03-28T16:05:41.837+00:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-03\|2026-03]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
  
 # Passagem em estudo
