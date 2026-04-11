@@ -16,7 +16,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida?\|Corrompida?]]
-- [ ] [[03 - ROUGH NOTES (FLEETING ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
 
 
 ## A falar
