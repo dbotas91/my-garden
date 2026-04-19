@@ -1,14 +1,14 @@
 ---
-{"tags":["2026-04"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-19-04-2025/","dgPassFrontmatter":true,"created":"2026-03-25T13:35:47.528+00:00","updated":"2026-04-19T19:16:21.712+01:00","dg-note-properties":{"tags":["2026-04"],"noteIcon":"chest"}}
+{"tags":["2026-04"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-19-04-2025/","dgPassFrontmatter":true,"created":"2026-03-25T13:35:47.528+00:00","updated":"2026-04-19T21:57:46.559+01:00","dg-note-properties":{"tags":["2026-04"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
-Tags: [[03 - ROUGH NOTES (FLEETING ZETTEL)/2026-04\|2026-04]], [[09 - STATUS NOTES/Zoom\|Zoom]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
+Tags: [[10 - TAGS/2026-04\|2026-04]], [[09 - STATUS NOTES/Zoom\|Zoom]]
  
 # Músicas
 Tesouro
 Eu me Rendo
-
+Amigo incomparável
 
 # Leitura da Bíblia 
 > [!quote] Salmo 19:7-11
@@ -22,6 +22,7 @@ Eu me Rendo
 
 - [ ] Orar pelo Nando e a Família e a mãe dele
 - [ ] Orar pelos pais que têm sido instruídos na educação dos filhos;
+- [ ] Orar pelo pai do Paulo, Adolfo, Paulo Ribeiro
 - [ ] Pela obra em Angola e os irmãos que se reunem nas várias localidades;
 - [ ] Agradecer pela conferência da Páscoa em Oiã
 - [ ] Orar pelo pregador - José Carvalho
