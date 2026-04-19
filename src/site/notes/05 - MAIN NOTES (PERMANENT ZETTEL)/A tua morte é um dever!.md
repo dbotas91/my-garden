@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["morte","pecado"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-23T09:32:56.600+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-04-11T22:49:25.617+01:00","title":"A tua morte é um dever!","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-tua-morte-e-um-dever/","dg-note-properties":{"tags":["morte","pecado"],"mature-status":"Child","message_category":"Evangelização","created":"April 09, 2026","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-04-09 13:37","title":"A tua morte é um dever!","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["morte","pecado"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-23T09:32:56.600+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-04-12T22:45:23.189+01:00","title":"A tua morte é um dever!","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-tua-morte-e-um-dever/","dg-note-properties":{"tags":["morte","pecado"],"mature-status":"Child","message_category":"Evangelização","created":"April 09, 2026","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-04-09 13:37","title":"A tua morte é um dever!","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -392,3 +392,4 @@ Mas se face à informação que temos acerca dos dois, se continuam a negar que 
 
 # Referências
 
+[William Lane Craig Reacts! to Physicist Brian Cox and Wanting More from Life.](https://fb.watch/GrOVLRQNkp/)

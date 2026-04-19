@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-03-23T09:32:56.612+00:00","updated":"2026-03-23T09:32:56.612+00:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-03-23T09:32:56.612+00:00","updated":"2026-04-17T09:06:38.237+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -15,12 +15,12 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida?\|Corrompida?]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida\|Corrompida]]
 
 
 ## A falar
 
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Eu acredito no Batismo]]
 - [ ] [[07 - INDEXES/Sunday Preaching#^sahlyp\|1 Tessalonicenses - 1st Thessalonians]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A má doutrina corrompe o comportamento\|A má doutrina corrompe o comportamento]]
