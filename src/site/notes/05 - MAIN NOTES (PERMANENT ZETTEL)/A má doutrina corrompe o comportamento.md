@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:27:54.708+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2025-10-27T12:22:57.098+00:00","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-ma-doutrina-corrompe-o-comportamento/","noteIcon":"teen","dg-note-properties":{"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":"iqc","noteI":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"2025-10-16T10:27:54.708+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2026-04-26T12:50:48.921+01:00","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/a-ma-doutrina-corrompe-o-comportamento/","noteIcon":"teen","dg-note-properties":{"tags":["doutrinal"],"mature-status":"Teen","message_category":"Doutrinal","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":"iqc","noteI":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"A má doutrina corrompe o comportamento","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -39,12 +39,12 @@ O mesmo vemos na Palavra de Deus. A boa doutrina leva a bom comportamento.
 
 Nas cartas de Paulo vemos uma prática comum do nosso apóstolo em falar de doutrina antes de chegar ao comportamento, à aplicação da doutrina na nossa vida:
 
-||Doutrina (41 capítulos)|Comportamento (46 capítulos)|
-|---|---|---|
-|Romanos|69% (capítulos 1-11)|31% (capítulos12-16)|
-|Cortíntios até 2 Tessalonicenses|50% (em cada carta)|50% (em cada carta)|
-|1 e 2 Timóteo|25%|75%|
-|Tito e Filemon|0|100%|
+|                                  | Doutrina (41 capítulos) | Comportamento (46 capítulos) |
+| -------------------------------- | ----------------------- | ---------------------------- |
+| Romanos                          | 69% (capítulos 1-11)    | 31% (capítulos12-16)         |
+| Cortíntios até 2 Tessalonicenses | 50% (em cada carta)     | 50% (em cada carta)          |
+| 1 e 2 Timóteo                    | 25%                     | 75%                          |
+| Tito e Filemon                   | 0                       | 100%                         |
 
 Vemos que Paulo fala bem mais acerca do comportamento, porque o comportamento é o reflexo da doutrina. E a doutrina, mesmo que menos, é muito importante. Daí falar-se primeiro da doutrina tal como o Senhor lhe entregou para que o comportamento possa ser o correto.
 

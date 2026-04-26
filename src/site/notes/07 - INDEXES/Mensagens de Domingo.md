@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-03-23T09:32:56.612+00:00","updated":"2026-04-17T09:06:38.237+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-03-23T09:32:56.612+00:00","updated":"2026-04-25T15:06:01.559+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -16,6 +16,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida\|Corrompida]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Messias sem sucesso\|Messias sem sucesso]]
 
 
 ## A falar

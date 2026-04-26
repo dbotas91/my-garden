@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-10-16T10:29:53.409+01:00","tags":["#excelência"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","dgPassFrontmatter":true,"updated":"2025-10-22T13:30:49.572+01:00","dg-note-properties":{"created":"May 10, 2024 4:07 PM","tags":["#excelência"],"noteIcon":"adult","message_category":"Devocional"}}
+{"dg-publish":true,"created":"2025-10-16T10:29:53.409+01:00","tags":["#excelência"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/testes-excelencia-na-biblia/","dgPassFrontmatter":true,"updated":"2026-04-26T12:44:00.790+01:00","dg-note-properties":{"created":"May 10, 2024 4:07 PM","tags":["#excelência"],"noteIcon":"adult","message_category":"Devocional"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]
@@ -94,7 +94,7 @@ E na nossa vida, não há melhor fonte do que a Bíblia para identificar os tra�
 
 4. **Os que alcançam excelência sustentam uma atitude positiva.** Mesmo sob pressão, enfrentando mudanças ou exigências inimagináveis, eles não se deixam abalar pela negativa. Os queixosos jamais se distinguem em coisa alguma a não ser em se lamentar. “Fazei todas as coisas sem murmurações nem contendas; para que sejais irrepreensíveis e sinceros, filhos de Deus inculpáveis no meio duma geração corrompida e perversa, entre a qual resplandeceis como astros no mundo” (Filipenses 2:14, 15). E lembre-se: “Levantando-se contra ti o espírito do governador, não deixes o teu lugar, porque o acordo é um remédio que aquieta grandes pecados.” (Eclesiastes 10:4).     
 
-5. **Os que alcançam excelência vão mais além do que se espera deles.**Este é o segredo que as pessoas de sucesso descobriram. Nunca seremos distinguidos fazendo apenas o que nos é solicitado, ou seja, o mínimo. Jesus disse: “E, se qualquer te obrigar a caminhar uma milha, vai com ele duas.” (Mateus 5:41).     
+5. **Os que alcançam excelência vão mais além do que se espera deles.** Este é o segredo que as pessoas de sucesso descobriram. Nunca seremos distinguidos fazendo apenas o que nos é solicitado, ou seja, o mínimo. Jesus disse: “E, se qualquer te obrigar a caminhar uma milha, vai com ele duas.” (Mateus 5:41).     
 
 O compositor e produtor musical Oscar Hammerstein contou sobre quando olhou o alto da cabeça da Estátua da Liberdade, numa viagem que fez de helicóptero. Oscar ficou impressionado com os detalhes incríveis que Frederic-Auguste Bartholdi, artista francês que criou a famosa estátua, esculpiu naquela área e que, talvez, jamais esperasse que alguém fosse lá ver tão próximo. Ele não tinha a mínima ideia que alguém, algum dia, fosse capaz de voar por cima de sua estátua e estudá-la!
 
@@ -125,11 +125,9 @@ A sua garganta _é um_
  sepulcro aberto; com a língua tratam enganosamente; peçonha de áspides _está_  
  debaixo de seus lábios;
 
-Fontes:
+# Referências
 
-[
-
-Strong's #1381 - δοκιμάζω - Old & New Testament Greek Lexical Dictionary - StudyLight.org
+[Strong's #1381 - δοκιμάζω - Old & New Testament Greek Lexical Dictionary - StudyLight.org
 
 I assay, test, πορφύραν καὶ χρυσόν Isoc. 12.39; τοὺς οἴνους Arist. EN 1118a28; τὰ νομίσματα Id. HA 491a21: - 1. Med., prove for oneself, choose, χώραν X. Oec. 8.10, cf. Men. 532.11 (dub.): - Pass., ἐπειδὰν τὸ ἔργον.. δοκιμασθῇ CIG 2266.15 (Delos). 2. of persons, δ.
 
