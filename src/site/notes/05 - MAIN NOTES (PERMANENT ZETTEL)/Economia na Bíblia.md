@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:08.704+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2026-04-26T19:44:12.467+01:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen","dg-note-properties":{"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":"iqc","noteI":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Economia na Bíblia","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:08.704+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"teen","noteI":"teen","updated":"2026-04-26T22:09:32.986+01:00","title":"Economia na Bíblia","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/economia-na-biblia/","noteIcon":"teen","dg-note-properties":{"tags":["economia","economianabiblia"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Proferido","local":"iqc","noteI":"teen","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Economia na Bíblia","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -48,6 +48,8 @@ Se repararmos, as palavras em cada uma destas passagens é a palavra oikonomia/o
 A palavra oikonomia que é junção de duas: oikos que normalmente é traduzido por casa/agregado familiar/família/governo e _nemein_, que é normalmente traduzido como gestão/administração/dispensação/plano/leis/normas.
 
 Assim, a palavra oikonomia traduzida ficaria como “administração/gestão da casa”, “normas/leis da casa”, “edificação da casa”, “plano de governo”, “dispensação da casa” ou apenas dispensação.
+
+**A administração pode ser dos recursos, da obra, do tempo, de pessoas (ou servos), da família, da igreja, da saúde (a nossa ou de outros).**
 
 Em relação à pessoa responsável pela aplicação da gestão, dispensação, normas ou plano, a palavra é traduzida como, mordomo, gestor, administrador, despenseiro.
 
@@ -211,7 +213,7 @@ Enquanto o povo provavelmente estava desperdiçando o excesso (como é comum em 
 
 Você percebe como a "tecnologia" de José não foi criar algo novo, mas sim aplicar **disciplina e logística** sobre o que já existia?
 
-## José como referência na mordomia durante a crise
+## José como referência na mordomia durante a crise - (falado no zoom até aqui)
 ### As Etapas da Crise (Génesis 41-47:14-26)
 
 A transição da "pobreza" para a servidão total ocorreu de forma escalonada sob a administração de José:
