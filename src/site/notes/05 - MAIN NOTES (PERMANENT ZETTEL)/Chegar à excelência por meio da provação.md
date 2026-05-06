@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:01.688+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2025-10-27T16:08:22.871+00:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/","dg-note-properties":{"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"2025-10-16T10:29:01.688+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-04-29T13:16:48.917+01:00","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/chegar-a-excelencia-por-meio-da-provacao/","dg-note-properties":{"tags":["provação"],"mature-status":"Teen","message_category":"Devocional","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Chegar à exclência por meio da provação","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -206,3 +206,6 @@ As provações de facto, são para sermos, fazermos e escolhermos o melhor. Que 
     ![](Dashboard/Attachments/cropped-eagle-192x192.jpg)http://www.sokratiko.com/words/dokimazein/
     
     ![](Dashboard/Attachments/LOGO-SOKRATIKO-150x140.png)](http://www.sokratiko.com/words/dokimazein/)
+
+# Referências
+[Is This the Hardest Objection to Christianity?](https://youtu.be/2G5iYMoNlLU?si=lvHkWbRlObKWfYyJ)
