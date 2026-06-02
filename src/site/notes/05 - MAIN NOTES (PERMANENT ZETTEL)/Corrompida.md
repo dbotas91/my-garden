@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-23T09:32:56.603+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-04-16T17:10:39.555+01:00","title":"Corrompida?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/corrompida/","dg-note-properties":{"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-19 11:34","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-03-19 11:34","title":"Corrompida?","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-05-01T20:21:26.477+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-05-01T20:21:27.090+01:00","title":"Corrompida?","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/corrompida/","dg-note-properties":{"tags":["historia","bibliacorrompida"],"mature-status":"Child","message_category":"Evangelização","created":"2026-03-19 11:34","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-03-19 11:34","title":"Corrompida?","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

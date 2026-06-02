@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2025-10-15T12:32:49.928+01:00","updated":"2025-10-30T09:17:12.969+00:00","dg-note-properties":{"noteIcon":"signpost","dgPassFrontmatter":"true","tags":["mensagens"]}}
+{"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"tags":["mensagens"],"permalink":"/00-maps-of-content/mensagens-escritas/","created":"2026-06-02T15:44:47.599+01:00","updated":"2026-06-02T15:44:47.599+01:00","dg-note-properties":{"noteIcon":"signpost","dgPassFrontmatter":"true","tags":["mensagens"]}}
 ---
 
 [[Home\|Back home]]
@@ -8,6 +8,7 @@
 > # [[07 - INDEXES/Mensagens de Domingo\|Mensagens de Domingo]]
 > # [[07 - INDEXES/Estudo Bíblico - microscópico\|Estudo Bíblico - microscópico]]
 > # [[07 - INDEXES/Meditações\|Meditações]]
+> # [[07 - INDEXES/Reunião de Homens\|Reunião de Homens]]
 > # [[07 - INDEXES/Reunião de Natal\|Reunião de Natal]]
 > # [[07 - INDEXES/Reuniões de Jovens\|Reuniões de Jovens]]
 >
