@@ -1,23 +1,23 @@
 ---
-{"tags":["2026-05"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-10-05-2025/","dgPassFrontmatter":true,"created":"2026-06-02T15:44:47.602+01:00","updated":"2026-06-14T16:20:46.421+01:00","dg-note-properties":{"tags":["2026-05"],"noteIcon":"chest"}}
+{"tags":["2026-06"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-14-06-2025/","dgPassFrontmatter":true,"created":"2026-06-14T16:20:05.059+01:00","updated":"2026-06-14T17:27:55.368+01:00","dg-note-properties":{"tags":["2026-06"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
-Tags: [[10 - TAGS/2026-05\|2026-05]], [[09 - STATUS NOTES/Zoom\|Zoom]]
+Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Tags: [[10 - TAGS/2026-06\|2026-06]], [[09 - STATUS NOTES/Zoom\|Zoom]]
 
 # Ordem
 1. Oração e Leitura
 2. Música 1
 3. Motivos de oração
-4. Vídeo das crianças
+4. Música 2
 5. mensagem
-6. Música 2
+6. Música 3
 7. final - oração
 
 # Músicas
-Como agradecer
-ED - Vídeo
-Bondade de Cristo
+A Rocha Inabalável
+Cordeiro de Deus
+Cuido dos detalhes
 
 # Leitura da Bíblia 
 > [!quote]- Salmo 42
@@ -35,10 +35,8 @@ Bondade de Cristo
 
 # Motivos de oração 
 
-- [ ] Orar pelas Filomenas: Inglaterra, São João da Madeira, 2 IQC (da Mariquinha e minha mãe), Viseu
 - [ ] Orar pela irmã Gabriela e irmã Aninhas, Cipriano, Dorin, Pedro
-- [ ] Orar pelo pai do Paulo, Adolfo, Paulo Ribeiro, Dinita
-- [ ] Agradecer pela ED e a atividade que fizeram
+- [ ] Orar pelo pai do Paulo, Adolfo, Paulo Ribeiro, Dinita, Umberto (pai da irmã Paula Gomes), Irene (operação dela), irmão José (marido da irmã Celeste)
 - [ ] Pela obra em Angola e os irmãos que se reunem nas várias localidades;
-- [ ] Orar pelo pregador - Fernando Quental
+- [ ] Orar pelo pregador - David Gomes
 - [ ] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-02-18T19:39:58.004+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-03-11T11:58:11.715+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/","dg-note-properties":{"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"April 25, 2020 00:04","speech-status":"A fazer","local":"iqc","noteIcon":"teen","updated":"2026-01-28 14:24","title":"1 Timóteo","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-02-18T19:39:58.004+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-06-09T16:21:40.041+01:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/","dg-note-properties":{"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"April 25, 2020 00:04","speech-status":"A fazer","local":"iqc","noteIcon":"teen","updated":"2026-01-28 14:24","title":"1 Timóteo","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -487,6 +487,17 @@ A avó Loide e a mãe Eunice não eram líderes de igreja e muito menos pregador
 # Capítulo 3
 
 ## Verso 1
+
+## Verso 4-5
+> [!quote] Verso 4
+> que governe bem a sua própria casa, tendo _seus_ filhos em sujeição, com toda a modéstia
+
+
+
+> [!quote] Verso 5
+> (porque, se alguém não sabe governar a sua própria casa, terá cuidado da igreja de Deus?);
+
+
 
 # Referências
 
