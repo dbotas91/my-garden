@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-05-01T20:21:26.479+01:00","updated":"2026-06-14T21:17:27.924+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-06-30T19:48:29.205+01:00","updated":"2026-06-30T19:48:29.205+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -14,10 +14,11 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Vários Batismos\|Vários Batismos]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O lugar\|O lugar]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entenda a sua Bíblia\|Entenda a sua Bíblia]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida\|Corrompida]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Messias sem sucesso\|Messias sem sucesso]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/As promessas de Deus para nós hoje\|As promessas de Deus para nós hoje]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que dividir a Bíblia corretamente\|Por que dividir a Bíblia corretamente]]
+- [ ] Por que não sou islâmico
 
 
 ## A falar
@@ -32,6 +33,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Provados\|Provados]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Secularismo e a maldição das nações\|Secularismo e a maldição das nações]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Entendimento e compreensão\|Entendimento e compreensão]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Abraão, o pai da fé\|Abraão, o pai da fé]]
 
 
 ## Finalizado
