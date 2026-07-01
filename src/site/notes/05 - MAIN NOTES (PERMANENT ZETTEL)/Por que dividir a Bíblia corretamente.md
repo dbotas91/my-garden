@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-06-30T19:48:29.204+01:00","speech-status":"Calado","local":"fontaínhas","dg-note-icon":"child","noteIcon":"child","updated":"2026-06-30T19:48:29.595+01:00","title":"Por que dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas","noteIcon":"child","updated":"2026-06-29 18:16","title":"Por que dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-01T08:31:02.744+01:00","speech-status":"Calado","local":"fontaínhas","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-07-01T08:31:02.744+01:00","title":"Por que dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
-Status: [[09 - STATUS NOTES/Child\|Child]], [[09 - STATUS NOTES/Calado\|Calado]]
+Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Calado\|Calado]]
 Local: [[09 - STATUS NOTES/Fontainhas\|Fontainhas]]
 Tags: [[10 - TAGS/divisão da Bíblia\|divisão da Bíblia]]
 
 # Por que dividir a Bíblia corretamente
+
+>[!quote] 1 Timóteo 2:15
+> Procura apresentar-te a Deus, aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade;
+
 Na cristandade a maioria das pessoas parece **seguir a vida cristã perfeitamente bem** sem entender **como dividir a Bíblia corretamente** e mesmo até sem entenderem por que é importante dividir corretamente. 
 Não entendem, não querem entender, não acham importante, relevante e dizem que pessoas como eu são a minoria a falar desta necessidade (sim por que é uma necessidade). 
 
