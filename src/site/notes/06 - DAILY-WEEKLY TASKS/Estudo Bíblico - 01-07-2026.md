@@ -3,7 +3,7 @@
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
-Tags: [[03 - ROUGH NOTES (FLEETING ZETTEL)/2026-07\|2026-07]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
+Tags: [[10 - TAGS/2026-07\|2026-07]], [[10 - TAGS/1 Timóteo\|1 Timóteo]]
  
 # Passagem em estudo
 [[05 - MAIN NOTES (PERMANENT ZETTEL)/1 Timóteo#Verso 6\|1 Timóteo 3:6]]

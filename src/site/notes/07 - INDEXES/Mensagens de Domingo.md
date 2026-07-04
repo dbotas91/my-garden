@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-06-30T19:48:29.205+01:00","updated":"2026-06-30T19:48:29.205+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-06-30T19:48:29.205+01:00","updated":"2026-07-02T22:19:06.513+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -19,6 +19,7 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/As promessas de Deus para nós hoje\|As promessas de Deus para nós hoje]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que dividir a Bíblia corretamente\|Por que dividir a Bíblia corretamente]]
 - [ ] Por que não sou islâmico
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que não sou ateu\|Por que não sou ateu]]
 
 
 ## A falar
