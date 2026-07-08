@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-05-01T20:21:26.479+01:00","updated":"2026-06-14T16:20:00.133+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2026-05-01T20:21:26.479+01:00","updated":"2026-07-08T19:25:54.636+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -14,6 +14,9 @@ Estão organizados por ano-mês com referências às Tags.
 - [[10 - TAGS/2026-02\|2026-02]]
 - [[10 - TAGS/2026-03\|2026-03]]
 - [[10 - TAGS/2026-04\|2026-04]]
+- [[10 - TAGS/2026-05\|2026-05]]
+- [[10 - TAGS/2026-06\|2026-06]]
+- [[10 - TAGS/2026-07\|2026-07]]
 
 ### Todas as notas (ordenadas por data ascendente)
 - [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 01-02-2025\|Reunião Zoom IQC - 01-02-2025]]
@@ -24,12 +27,14 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 04-03-2026\|Estudo Bíblico - 04-03-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 11-03-2026\|Estudo Bíblico - 11-03-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 18-03-2026\|Estudo Bíblico - 18-03-2026]]
-- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 22-03-2025\|Reunião Zoom IQC - 22-03-2025]]
+- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 22-03-2026\|Reunião Zoom IQC - 22-03-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 25-03-2026\|Estudo Bíblico - 25-03-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Ceia e culto - 29-03-2026\|Ceia e culto - 29-03-2026]]
-- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 19-04-2025\|Reunião Zoom IQC - 19-04-2025]]
-- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 10-05-2025\|Reunião Zoom IQC - 10-05-2025]]
-- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 14-06-2025\|Reunião Zoom IQC - 14-06-2025]]
+- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 19-04-2026\|Reunião Zoom IQC - 19-04-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 10-05-2026\|Reunião Zoom IQC - 10-05-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 14-06-2026\|Reunião Zoom IQC - 14-06-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 01-07-2026\|Estudo Bíblico - 01-07-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 08-07-2026\|Estudo Bíblico - 08-07-2026]]
 
 ## 2025
 ### Tags (Por ano-mês)
