@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["elearning","learning"],"created":"2026-02-03T09:43:48.172+00:00","updated":"2026-02-03T09:43:48.172+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/formacao/","dg-note-properties":{"tags":["elearning","learning"],"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["elearning","learning"],"created":"2026-07-11T13:25:13.864+01:00","updated":"2026-07-11T13:25:13.864+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/formacao/","dg-note-properties":{"tags":["elearning","learning"],"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

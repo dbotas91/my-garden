@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2026/","dgPassFrontmatter":true,"created":"2026-03-22T18:12:40.847+00:00","updated":"2026-03-23T10:48:53.330+00:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"chest"}}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-22-03-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.368+01:00","updated":"2026-07-11T13:25:15.368+01:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"chest"}}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

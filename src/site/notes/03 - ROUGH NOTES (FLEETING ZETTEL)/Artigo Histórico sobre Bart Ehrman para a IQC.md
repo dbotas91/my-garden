@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"child","noteIcon":"child","permalink":"/03-rough-notes-fleeting-zettel/artigo-historico-sobre-bart-ehrman-para-a-iqc/","dgPassFrontmatter":true,"created":"2026-06-30T19:48:29.202+01:00","updated":"2026-06-30T19:48:29.203+01:00","dg-note-properties":{"tags":["articles"],"noteIcon":"child"}}
+{"tags":["articles"],"dg-publish":true,"dg-note-icon":"child","noteIcon":"child","permalink":"/03-rough-notes-fleeting-zettel/artigo-historico-sobre-bart-ehrman-para-a-iqc/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:14.924+01:00","updated":"2026-07-11T13:25:14.924+01:00","dg-note-properties":{"tags":["articles"],"noteIcon":"child"}}
 ---
 
 # Artigo Histórico sobre Bart Ehrman para a IQC

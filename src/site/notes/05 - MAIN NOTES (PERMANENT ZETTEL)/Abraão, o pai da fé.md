@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2026-04-03T00:20:06.867+01:00","speech-status":"Proferido","local":"fontaínhas","updated":"2026-04-03T00:20:06.867+01:00","title":"Abraão, o pai da fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dg-note-properties":{"noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2025-10-14 18:12","speech-status":"Proferido","local":"fontaínhas","updated":"2026-03-29 15:39","title":"Abraão, o pai da fé","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2026-07-11T13:25:15.186+01:00","speech-status":"Proferido","local":"fontaínhas","updated":"2026-07-11T13:25:15.186+01:00","title":"Abraão, o pai da fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/abraao-o-pai-da-fe/","dg-note-properties":{"noteIcon":"teen","tags":["abraão","fé","secularismo"],"mature-status":"Teen","message_category":null,"created":"2025-10-14 18:12","speech-status":"Proferido","local":"fontaínhas","updated":"2026-03-29 15:39","title":"Abraão, o pai da fé","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -74,7 +74,8 @@ Independentemente de Abraão ser ou não o pai da fé ou nosso pai da fé, como 
 "Como lhe foi, pois, imputada? Estando na circuncisão ou na incircuncisão? Não na circuncisão, mas na incircuncisão. 11 E [Abraão] recebeu o sinal da circuncisão, selo da justiça da fé, quando estava na incircuncisão, para que fosse pai de todos os que creem (estando eles também na incircuncisão, a fim de que também a justiça lhes seja imputada), 12 e fosse pai da circuncisão, daqueles que não somente são da circuncisão, mas que também andam nas pisadas daquela fé de Abraão, nosso pai, que tivera na incircuncisão."
 
 #### Gálatas 3:6-9
-{ #100296}
+{ #100296}
+
 
 
 ##### Almeida Revista e Corrigida 2009

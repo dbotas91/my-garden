@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-05-01T20:21:26.479+01:00","updated":"2026-07-08T19:25:54.636+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:15.384+01:00","updated":"2026-07-11T13:25:15.384+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

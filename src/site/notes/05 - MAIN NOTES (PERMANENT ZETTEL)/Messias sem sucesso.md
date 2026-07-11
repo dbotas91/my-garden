@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"mature-status":"Child","message_category":null,"created":"2026-05-01T20:22:00.003+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-05-01T20:22:00.003+01:00","title":"Messias sem sucesso","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/messias-sem-sucesso/","dg-note-properties":{"tags":null,"mature-status":"Child","message_category":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Messias sem sucesso","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"mature-status":"Child","message_category":null,"created":"2026-07-11T13:25:15.257+01:00","speech-status":"Calado","local":null,"dg-note-icon":"child","noteIcon":"child","updated":"2026-07-11T13:25:15.257+01:00","title":"Messias sem sucesso","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/messias-sem-sucesso/","dg-note-properties":{"tags":null,"mature-status":"Child","message_category":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","speech-status":"Calado","local":null,"noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Messias sem sucesso","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

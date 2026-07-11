@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["justo"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","created":"2026-02-03T09:43:48.219+00:00","permalink":"/05-main-notes-permanent-zettel/ser-e-agir-como-justo/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.219+00:00","dg-note-properties":{"tags":["justo"],"noteIcon":"adult","message_category":"Devocional","created":"September 13, 2024 11:21 AM"}}
+{"dg-publish":true,"tags":["justo"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","created":"2026-07-11T13:25:15.320+01:00","permalink":"/05-main-notes-permanent-zettel/ser-e-agir-como-justo/","dgPassFrontmatter":true,"updated":"2026-07-11T13:25:15.320+01:00","dg-note-properties":{"tags":["justo"],"noteIcon":"adult","message_category":"Devocional","created":"September 13, 2024 11:21 AM"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

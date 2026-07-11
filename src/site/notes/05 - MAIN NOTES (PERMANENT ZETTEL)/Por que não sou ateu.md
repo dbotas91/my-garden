@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2026-07-02T22:23:56.182+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-07-04T16:27:42.932+01:00","title":"Por que não sou ateu","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-nao-sou-ateu/","dg-note-properties":{"tags":["ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2026-07-01 23:26","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-07-01 23:26","title":"Por que não sou ateu","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-07-11T13:25:15.288+01:00","title":"Por que não sou ateu","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-nao-sou-ateu/","dg-note-properties":{"tags":["ateísmo"],"mature-status":"Child","message_category":"Evangelização","created":"2026-07-01 23:26","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-07-01 23:26","title":"Por que não sou ateu","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

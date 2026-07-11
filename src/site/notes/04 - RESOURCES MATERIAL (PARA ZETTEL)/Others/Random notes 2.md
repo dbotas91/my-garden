@@ -1,5 +1,5 @@
 ---
-{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/random-notes-2/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.198+00:00","updated":"2026-02-03T09:43:48.198+00:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
+{"tags":["others"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/others/random-notes-2/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.098+01:00","updated":"2026-07-11T13:25:15.098+01:00","dg-note-properties":{"tags":["others"],"noteIcon":"lackluster"}}
 ---
 
  #  Random notes

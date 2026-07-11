@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-06-30T19:48:29.205+01:00","updated":"2026-07-02T22:19:06.513+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-11T13:25:15.386+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -17,13 +17,13 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Corrompida\|Corrompida]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Messias sem sucesso\|Messias sem sucesso]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/As promessas de Deus para nós hoje\|As promessas de Deus para nós hoje]]
-- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que dividir a Bíblia corretamente\|Por que dividir a Bíblia corretamente]]
 - [ ] Por que não sou islâmico
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que não sou ateu\|Por que não sou ateu]]
 
 
 ## A falar
 
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que dividir a Bíblia corretamente\|Por que dividir a Bíblia corretamente]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/A tua morte é um dever!\|A tua morte é um dever!]]
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Eu acredito no Batismo\|Eu acredito no Batismo]]
 - [ ] [[07 - INDEXES/Sunday Preaching#^sahlyp\|1 Tessalonicenses - 1st Thessalonians]]

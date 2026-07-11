@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-06-02T15:44:47.601+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-06-02T15:58:13.175+01:00","title":"Esforça-te e Sê Homem","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/esforca-te-e-se-homem/","dg-note-properties":{"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Doutrinal","created":"02-06-2026","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-06-02 14:24","title":"Esforça-te e Sê Homem","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Doutrinal","created":"2026-07-11T13:25:15.241+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"child","noteIcon":"child","updated":"2026-07-11T13:32:53.394+01:00","title":"Esforça-te e Sê Homem","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/esforca-te-e-se-homem/","dg-note-properties":{"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Doutrinal","created":"02-06-2026","speech-status":"Calado","local":"iqc","noteIcon":"child","updated":"2026-06-02 14:24","title":"Esforça-te e Sê Homem","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

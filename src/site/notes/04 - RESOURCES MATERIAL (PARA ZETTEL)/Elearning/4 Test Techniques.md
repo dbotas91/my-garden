@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-test-techniques/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.183+00:00","updated":"2026-02-03T09:43:48.183+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/4-test-techniques/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:14.971+01:00","updated":"2026-07-11T13:25:14.971+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons_notes--sentence%2016.png)

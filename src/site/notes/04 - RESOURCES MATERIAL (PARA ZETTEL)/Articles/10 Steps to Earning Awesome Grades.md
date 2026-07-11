@@ -1,5 +1,5 @@
 ---
-{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/10-steps-to-earning-awesome-grades/","dgPassFrontmatter":true,"created":"2026-02-03T09:43:48.177+00:00","updated":"2026-02-03T09:43:48.177+00:00","dg-note-properties":{"tags":["articles"],"noteIcon":"lackluster"}}
+{"tags":["articles"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/articles/10-steps-to-earning-awesome-grades/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:14.924+01:00","updated":"2026-07-11T13:25:14.924+01:00","dg-note-properties":{"tags":["articles"],"noteIcon":"lackluster"}}
 ---
 
 # 📕 10 Steps to Earning Awesome Grades

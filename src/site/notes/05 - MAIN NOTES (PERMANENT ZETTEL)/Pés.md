@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-02-03T09:43:48.218+00:00","tags":["ministeriodareconciliação"],"message_category":"Evangelização","dg-note-icon":"adult","noteIcon":"adult","permalink":"/05-main-notes-permanent-zettel/pes/","dgPassFrontmatter":true,"updated":"2026-02-03T09:43:48.218+00:00","dg-note-properties":{"created":"June 11, 2021 10:43 PM","tags":["ministeriodareconciliação"],"message_category":"Evangelização","noteIcon":"adult"}}
+{"dg-publish":true,"created":"2026-07-11T13:25:15.304+01:00","tags":["ministeriodareconciliação"],"message_category":"Evangelização","dg-note-icon":"adult","noteIcon":"adult","permalink":"/05-main-notes-permanent-zettel/pes/","dgPassFrontmatter":true,"updated":"2026-07-11T13:25:15.304+01:00","dg-note-properties":{"created":"June 11, 2021 10:43 PM","tags":["ministeriodareconciliação"],"message_category":"Evangelização","noteIcon":"adult"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]], [[09 - STATUS NOTES/Proferido\|Proferido]]

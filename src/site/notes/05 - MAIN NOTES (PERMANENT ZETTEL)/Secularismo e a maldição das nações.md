@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-05-01T20:21:26.478+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2026-05-01T20:21:26.478+01:00","dg-note-properties":{"created":"2025-10-14 18:09","tags":["torre-de-babel","genesis11","abraão","ninrode"],"noteIcon":"adult","message_category":"Devocional"}}
+{"dg-publish":true,"created":"2026-07-11T13:25:15.320+01:00","tags":["torre-de-babel","genesis11","abraão","ninrode"],"dg-note-icon":"adult","noteIcon":"adult","message_category":"Devocional","permalink":"/05-main-notes-permanent-zettel/secularismo-e-a-maldicao-das-nacoes/","dgPassFrontmatter":true,"updated":"2026-07-11T13:25:15.320+01:00","dg-note-properties":{"created":"2025-10-14 18:09","tags":["torre-de-babel","genesis11","abraão","ninrode"],"noteIcon":"adult","message_category":"Devocional"}}
 ---
 
 Status: [[09 - STATUS NOTES/Adult\|Adult]]
