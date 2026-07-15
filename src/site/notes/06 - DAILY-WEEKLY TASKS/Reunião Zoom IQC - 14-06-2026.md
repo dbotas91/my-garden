@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-06"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-14-06-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.368+01:00","updated":"2026-07-11T13:25:15.368+01:00","dg-note-properties":{"tags":["2026-06"],"noteIcon":"chest"}}
+{"tags":["2026-06"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-14-06-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.368+01:00","updated":"2026-07-12T17:41:48.012+01:00","dg-note-properties":{"tags":["2026-06"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-06\|2026-06]], [[09 - STATUS NOTES/Zoom\|Zoom]]
 
 # Ordem
@@ -39,4 +39,3 @@ Cuido dos detalhes
 - [ ] Orar pelo pai do Paulo, Adolfo, Paulo Ribeiro, Dinita, Umberto (pai da irmã Paula Gomes), Irene (operação dela), irmão José (marido da irmã Celeste)
 - [ ] Pela obra em Angola e os irmãos que se reunem nas várias localidades;
 - [ ] Orar pelo pregador - David Gomes
-- [ ] 
