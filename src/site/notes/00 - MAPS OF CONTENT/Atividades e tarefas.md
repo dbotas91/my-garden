@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:13.864+01:00","updated":"2026-07-11T13:25:13.864+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/atividades-e-tarefas/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:13.864+01:00","updated":"2026-07-17T19:20:56.247+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/00-maps-of-content/atividades-e-tarefas/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -8,7 +8,6 @@
 ## General Description
 Este índice cobre as atividades tarefas e outros tópicos ao longo dos anos.
 Estão organizados por ano e referências aos INDEXES.
-
 
 ## [[07 - INDEXES/Ceia do Senhor, Oração e Estudo Bíblico\|Ceia do Senhor, Oração e Estudo Bíblico]]
 
