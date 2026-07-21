@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-07-11T13:25:13.885+01:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-07-11T13:25:13.885+01:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/criacao-da-estrutura-de-menus-e-categorias-para-joomla-6/","dg-note-properties":{"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-03-28","noteIcon":"canon","updated":"2026-03-28 14:24","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-07-11T13:25:13.885+01:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-07-21T17:23:26.498+01:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/criacao-da-estrutura-de-menus-e-categorias-para-joomla-6/","dg-note-properties":{"tags":["Canon","Joomla"],"mature-status":"canon","created":"2026-03-28","noteIcon":"canon","updated":"2026-03-28 14:24","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

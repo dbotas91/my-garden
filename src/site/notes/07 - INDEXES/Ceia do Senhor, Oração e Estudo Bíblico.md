@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:15.384+01:00","updated":"2026-07-17T19:20:34.044+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:15.384+01:00","updated":"2026-07-21T17:32:23.750+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -37,6 +37,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 08-07-2026\|Estudo Bíblico - 08-07-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 12-07-2026\|Reunião Zoom IQC - 12-07-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 15-07-2026\|Estudo Bíblico - 15-07-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Estudo Bíblico - 22-07-2026\|Estudo Bíblico - 22-07-2026]]
 
 ## 2025
 ### Tags (Por ano-mês)

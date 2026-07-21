@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","created":"2026-07-11T13:25:13.896+01:00","updated":"2026-07-11T13:25:13.896+01:00","permalink":"/01-projects-para/obsidian-digital-garden-setup/","dgPassFrontmatter":true,"dg-note-properties":{"noteIcon":"teen","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>"}}
+{"dg-publish":true,"dg-note-icon":"teen","noteIcon":"teen","created":"2026-07-11T13:25:13.896+01:00","updated":"2026-07-21T17:23:45.591+01:00","permalink":"/01-projects-para/obsidian-digital-garden-setup/","dgPassFrontmatter":true,"dg-note-properties":{"noteIcon":"teen","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>"}}
 ---
 
 
