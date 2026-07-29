@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-11T13:25:15.386+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-24T11:57:44.500+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-22-07-2026/","dgPassFrontmatter":true,"created":"2026-07-21T17:32:09.909+01:00","updated":"2026-07-21T17:37:20.380+01:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
+{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-22-07-2026/","dgPassFrontmatter":true,"created":"2026-07-21T17:32:09.909+01:00","updated":"2026-07-28T17:10:13.020+01:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
-Tags: [[10 - TAGS/2026-07\|2026-07]], [[03 - ROUGH NOTES (FLEETING ZETTEL)/aliancismo\|aliancismo]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
+Tags: [[10 - TAGS/2026-07\|2026-07]], [[10 - TAGS/aliancismo\|aliancismo]]
  
 # Passagem em estudo
 O irmão Peter Cerqueira vai continuar a falar do tema acerca do Aliancismo
