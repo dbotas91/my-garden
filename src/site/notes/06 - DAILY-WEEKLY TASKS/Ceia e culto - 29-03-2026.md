@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/ceia-e-culto-29-03-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.336+01:00","updated":"2026-07-11T13:25:15.336+01:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"stone"}}
+{"tags":["2026-03"],"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/ceia-e-culto-29-03-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.336+01:00","updated":"2026-08-01T23:14:54.839+01:00","dg-note-properties":{"tags":["2026-03"],"noteIcon":"stone"}}
 ---
 
 Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
