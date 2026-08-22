@@ -1,8 +1,8 @@
 ---
-{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-12-07-2026/","dgPassFrontmatter":true,"created":"2026-07-12T17:27:16.205+01:00","updated":"2026-07-12T22:04:18.767+01:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
+{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/reuniao-zoom-iqc-12-07-2026/","dgPassFrontmatter":true,"created":"2026-07-12T17:27:16.205+01:00","updated":"2026-08-21T09:53:51.944+01:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
 ---
 
-Status: [[09 - STATUS NOTES/Por fazer\|Por fazer]]
+Status: [[09 - STATUS NOTES/Concluído\|Concluído]]
 Tags: [[10 - TAGS/2026-07\|2026-07]], [[09 - STATUS NOTES/Zoom\|Zoom]]
 
 # Ordem
