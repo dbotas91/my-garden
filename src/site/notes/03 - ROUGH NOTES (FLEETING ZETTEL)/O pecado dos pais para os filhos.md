@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"mature-status":"Child","created":"2026-07-11T13:25:14.924+01:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-07-11T13:25:14.924+01:00","dgPassFrontmatter":true,"permalink":"/03-rough-notes-fleeting-zettel/o-pecado-dos-pais-para-os-filhos/","dg-note-properties":{"tags":null,"mature-status":"Child","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"mature-status":"Child","created":"2026-07-11T13:25:14.924+01:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-09-07T19:47:02.260+01:00","dgPassFrontmatter":true,"permalink":"/03-rough-notes-fleeting-zettel/o-pecado-dos-pais-para-os-filhos/","dg-note-properties":{"tags":null,"mature-status":"Child","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

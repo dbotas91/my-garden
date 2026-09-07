@@ -126,9 +126,7 @@ s2=(x1−x‾)2+(x2−x‾)2+…+(xn−x‾)2n−1=∑i=1n(xi−x‾)2n−1=∑i
 - Em todas as definições anteriores de variância assumiu-se sempre que se estava a trabalhar com amostras (e não com todos os dados da população). Por isso representou-se a variância por s2s^2s2﻿.
 
 - Quando se calcula a variância de dados que correspondem a toda a população (e não a uma amostra), tem-se  
-    σ2=(x1−μ)2+(x2−μ)2+…+(xN−μ)2N=∑i=1N(xi−μ)2N\sigma
-{ #2}
- = \frac {(x_1-\mu)^2+(x_2-\mu)^2+…+(x_N-\mu)^2}{N}=\frac{\sum_{i=1}^N(x_i-\mu)^2}{N}σ2=N(x1​−μ)2+(x2​−μ)2+…+(xN​−μ)2​=N∑i=1N​(xi​−μ)2​﻿  
+    σ2=(x1−μ)2+(x2−μ)2+…+(xN−μ)2N=∑i=1N(xi−μ)2N\sigma ^2 = \frac {(x_1-\mu)^2+(x_2-\mu)^2+…+(x_N-\mu)^2}{N}=\frac{\sum_{i=1}^N(x_i-\mu)^2}{N}σ2=N(x1​−μ)2+(x2​−μ)2+…+(xN​−μ)2​=N∑i=1N​(xi​−μ)2​﻿  
     onde NNN﻿ é a dimensão da população e μ\muμ﻿ é a média da população.  
     (A média da população calcula-se do mesmo modo que vimos anteriormente, apenas se usa uma letra diferente para a representar.)
 

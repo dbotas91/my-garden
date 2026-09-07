@@ -310,9 +310,7 @@ X∼B(n,p)X \sim B_{(n,p)}X∼B(n,p)​﻿
 
 se a sua função de probabilidade é dada por
 
-F(x)=P(X=x)={nCxpx(1−p)n−x  ,x=0,1,…,n0                            , caso contraˊrioF(x) = P(X=x) = \begin{cases}
-{ #nC_xp}
-^x(1-p)^{n-x} \ \ , x=0,1,…,n \\ 0 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{, caso contrário} \end{cases}F(x)=P(X=x)={nCx​px(1−p)n−x  ,x=0,1,…,n0                            , caso contraˊrio​﻿
+F(x)=P(X=x)={nCxpx(1−p)n−x  ,x=0,1,…,n0                            , caso contraˊrioF(x) = P(X=x) = \begin{cases} ^nC_xp^x(1-p)^{n-x} \ \ , x=0,1,…,n \\ 0 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{, caso contrário} \end{cases}F(x)=P(X=x)={nCx​px(1−p)n−x  ,x=0,1,…,n0                            , caso contraˊrio​﻿
 
 e a sua função de distribuição é dada por
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-07-12T21:18:22.306+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-09-06T19:31:57.013+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -61,6 +61,11 @@ Vejamos:
 
 
 Aqui estão alguns motivos que quero desenvolver de porque é importante e necessário dividir a Bíblia corretamente.
+
+----
+Resumo até aqui com o ppt
+
+---
 
 # Porque dividir a Bíblia correctamente conforme o apostolado de Paulo
 ## 1 Sua Salvação

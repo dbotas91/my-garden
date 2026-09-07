@@ -245,13 +245,13 @@ Declaração de fé de igrejas batistas
 
 [https://iebcedofeita.pt/cremos/](https://iebcedofeita.pt/cremos/)
 
-[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%20159.png)](Eu%20acredito%20no%20Batismo/Untitled.png)
+[![](08%20-%20ATTACHMENTS/Attachments/Untitled%20159.png)](Eu%20acredito%20no%20Batismo/Untitled.png)
 
-[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%201%2035.png)](Eu%20acredito%20no%20Batismo/Untitled%201.png)
+[![](08%20-%20ATTACHMENTS/Attachments/Untitled%201%2035.png)](Eu%20acredito%20no%20Batismo/Untitled%201.png)
 
-[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%202%2031.png)](Eu%20acredito%20no%20Batismo/Untitled%202.png)
+[![](08%20-%20ATTACHMENTS/Attachments/Untitled%202%2031.png)](Eu%20acredito%20no%20Batismo/Untitled%202.png)
 
-[![](/img/user/08%20-%20ATTACHMENTS/Attachments/Untitled%203%2028.png)](Eu%20acredito%20no%20Batismo/Untitled%203.png)
+[![](08%20-%20ATTACHMENTS/Attachments/Untitled%203%2028.png)](Eu%20acredito%20no%20Batismo/Untitled%203.png)
 
 [https://www.youtube.com/watch?v=o8PUzBNSqmc&list=PLESaU36LHAs1Fd17HxFdQjunXaz1wY5Bm&index=4](https://www.youtube.com/watch?v=o8PUzBNSqmc&list=PLESaU36LHAs1Fd17HxFdQjunXaz1wY5Bm&index=4)
 
