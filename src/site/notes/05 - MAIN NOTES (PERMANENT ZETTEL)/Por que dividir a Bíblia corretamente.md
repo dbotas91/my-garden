@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-09-08T20:42:52.844+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas, iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-09-08T20:58:01.294+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas, iqc","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
 Status: [[09 - STATUS NOTES/Teen\|Teen]], [[09 - STATUS NOTES/Calado\|Calado]]
-Local: [[09 - STATUS NOTES/Fontainhas\|Fontainhas]]
+Local: [[09 - STATUS NOTES/Fontainhas\|Fontainhas]], [[09 - STATUS NOTES/IQC\|IQC]]
 Tags: [[10 - TAGS/divisão da Bíblia\|divisão da Bíblia]]
 
 # Por que e porque dividir a Bíblia corretamente
 
->[!quote] 1 Timóteo 2:15
+>[!quote] 2 Timóteo 2:15
 > Procura apresentar-te a Deus, aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade;
 
 Na cristandade a maioria das pessoas parece **seguir a vida cristã perfeitamente bem** sem entender **como dividir a Bíblia corretamente** e mesmo até sem entenderem por que é importante dividir corretamente. 
@@ -52,18 +52,18 @@ Sim, Deus separa certas coisas. E há coisas que ele quer ver unidas, como a Igr
 É por isso que Paulo diz em Romanos: 1.1: “chamado _para_ apóstolo, **separado** para o evangelho de Deus”. E continua a mostrar a obra de Cristo usada para revelação do mistério e a separação entre Israel (e o seu propósito) e a Igreja (e o seu propósito distinto de Israel).
 
 Por isso temos em mente as seguintes questões como:
-- Dividir corretamente a palavra da verdade é importante? 
+- Dividir correctamente a palavra da verdade é importante? 
 - Por que é importante reconhecer a importância da revelação progressiva e da dispensação especial da graça em que vivemos agora?
 
-O mistério e evangelho da Graça de Deus revelada a Paulo é a chave pela qual podemos dividir corretamente a Bíblia, compreendê-la e tirar proveito para o nosso crescimento e caminhada cristã.
+O mistério e evangelho da Graça de Deus revelada a Paulo é a chave pela qual podemos dividir correctamente a Bíblia, compreendê-la e tirar proveito para o nosso crescimento e caminhada cristã.
 
 Vejamos:
 
 
-Aqui estão alguns motivos que quero desenvolver de porque é importante e necessário dividir a Bíblia corretamente.
+Aqui estão alguns motivos que quero desenvolver de porque é importante e necessário dividir a Bíblia correctamente.
 
 ----
-Resumo até aqui com o ppt
+Resumo até aqui com o ppt para IQC
 
 ---
 
