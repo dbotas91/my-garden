@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas, iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-09-08T20:58:01.294+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas, iqc","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-07-11T13:25:15.288+01:00","speech-status":"Calado","local":"fontaínhas, iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-09-08T21:53:39.956+01:00","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/por-que-dividir-a-biblia-corretamente/","dg-note-properties":{"tags":["divisaodabiblia"],"mature-status":"Teen","message_category":"Doutrinal","created":"2026-06-29 18:16","speech-status":"Calado","local":"fontaínhas, iqc","noteIcon":"teen","updated":"2026-06-29 18:16","title":"Por que e porque dividir a Bíblia corretamente","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -200,7 +200,10 @@ Vejamos alguns pontos de contraste.
 
 - Praticar boas obras e repartir: 1 Timóteo 6:18 ("Que façam bem, que sejam ricos em boas obras, generosos, prontos a repartir").
 - Investir na mensagem cristã/futuro: 1 Timóteo 6:19 ("Assim ajuntem para si tesouro melhor para o futuro, para que se apressem a possuir a vida que é verdadeiramente vida").
+---
+Até aqui nas Fontaínhas
 
+---
 ## 6 Seu Casamento
 
 Entender a mudança dispensacional da lei para a graça mudará para sempre a maneira como você pensa sobre seu relacionamento com seu cônjuge e filhos. A face sem graça do legalismo muitas vezes habita em lares e casamentos cristãos. Quando o mistério de Cristo e da igreja é ensinado, o legalismo é despejado, e o amor pode crescer entre pessoas que de outra forma seriam incompatíveis.
