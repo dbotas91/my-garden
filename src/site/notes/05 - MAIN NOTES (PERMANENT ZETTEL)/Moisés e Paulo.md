@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["moises","paulo"],"mature-status":"Adult","message_category":"dispensacional","created":"2026-07-11T13:25:15.257+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-07-11T13:25:15.257+01:00","title":null,"dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/moises-e-paulo/","dg-note-properties":{"tags":["moises","paulo"],"mature-status":"Adult","message_category":"dispensacional","created":"November 23, 2019 21:44","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":null,"dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["moises","paulo"],"mature-status":"Adult","message_category":"dispensacional","created":"2026-11-08T16:32:40.281+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-11-08T16:32:40.281+00:00","title":null,"dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/moises-e-paulo/","dg-note-properties":{"tags":["moises","paulo"],"mature-status":"Adult","message_category":"dispensacional","created":"November 23, 2019 21:44","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":null,"dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
