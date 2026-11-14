@@ -39,6 +39,19 @@
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
       ]
+    },
+    "image-lightbox": {
+      "repo": "oleeskild/garden-plugin-image-lightbox",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-11-14T23:39:27.315Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/image-lightbox/README.md",
+        "src/plugins/image-lightbox/garden-plugin.json",
+        "src/plugins/image-lightbox/styles/lightbox.scss",
+        "src/plugins/image-lightbox/templates/lightbox.njk"
+      ]
     }
   }
 }
