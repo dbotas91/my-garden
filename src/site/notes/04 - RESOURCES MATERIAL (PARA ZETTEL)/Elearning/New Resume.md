@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/new-resume/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.035+01:00","updated":"2026-07-11T13:25:15.035+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/new-resume/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.253+00:00","updated":"2026-11-08T16:32:40.253+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 # 📄 New Resume

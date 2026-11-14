@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["carta"],"mature-status":"Child","created":"2026-08-21T09:53:51.941+01:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-08-21T09:53:53.183+01:00","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/carta-ao-fabio/","dg-note-properties":{"tags":["carta"],"mature-status":"Child","created":"2026-08-08 12:24","noteIcon":"child","updated":"2026-08-08 12:24","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["carta"],"mature-status":"Child","created":"2026-11-08T16:32:40.272+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-11-08T16:32:40.272+00:00","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/carta-ao-fabio/","dg-note-properties":{"tags":["carta"],"mature-status":"Child","created":"2026-08-08 12:24","noteIcon":"child","updated":"2026-08-08 12:24","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
