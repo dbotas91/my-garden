@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/02-areas-para/o-meu-curriculo/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:13.896+01:00","updated":"2026-07-11T13:25:13.896+01:00","dg-note-properties":{"noteIcon":"stone"}}
+{"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/02-areas-para/o-meu-curriculo/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.077+00:00","updated":"2026-11-08T16:32:40.078+00:00","dg-note-properties":{"noteIcon":"stone"}}
 ---
 
 # O meu currículo
