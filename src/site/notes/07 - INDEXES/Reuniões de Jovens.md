@@ -1,5 +1,5 @@
 ---
-{"tags":["jovens"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/reunioes-de-jovens/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-11T13:25:15.386+01:00","dg-note-properties":{"tags":["jovens"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["jovens"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/reunioes-de-jovens/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.297+00:00","updated":"2026-11-08T16:32:40.297+00:00","dg-note-properties":{"tags":["jovens"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2026-07-11T13:25:15.368+01:00","updated":"2026-08-01T22:34:29.043+01:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2026-atividades-e-tarefas/","dg-note-properties":{"tags":["tasksandactivities2025"],"created":"2026-03-04 18:34","updated":"2026-03-04 18:34","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["tasksandactivities2025"],"created":"2026-11-08T16:32:40.295+00:00","updated":"2026-11-08T16:32:40.296+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/2026-atividades-e-tarefas/","dg-note-properties":{"tags":["tasksandactivities2025"],"created":"2026-03-04 18:34","updated":"2026-03-04 18:34","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -27,10 +27,10 @@ Estão organizados por ano-mês e referências aos Tags.
 - [[10 - TAGS/2026-06\|2026-06]]
 ### Julho
 - [[10 - TAGS/2026-07\|2026-07]]
-
 ### Agosto
 - [[10 - TAGS/2026-08\|2026-08]]
 ### Setembro
+- [[10 - TAGS/2026-09\|2026-09]]
 ### Outubro
 ### Novembro
 ### Dezembro

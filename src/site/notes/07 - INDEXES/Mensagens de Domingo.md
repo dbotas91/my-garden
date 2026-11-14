@@ -1,5 +1,5 @@
 ---
-{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-24T11:57:44.500+01:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
+{"tags":["pregacao"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","kanban-plugin":"board","permalink":"/07-indexes/mensagens-de-domingo/","dgPassFrontmatter":true,"created":"2026-11-11T22:35:47.960+00:00","updated":"2026-11-11T22:35:47.960+00:00","dg-note-properties":{"tags":["pregacao"],"noteIcon":"signpost","kanban-plugin":"board"}}
 ---
 
 
@@ -19,6 +19,8 @@
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/As promessas de Deus para nós hoje\|As promessas de Deus para nós hoje]]
 - [ ] Por que não sou islâmico
 - [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Por que não sou ateu\|Por que não sou ateu]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/Estímulos\|Estímulos]]
+- [ ] [[05 - MAIN NOTES (PERMANENT ZETTEL)/O que te acontece quando morreres\|O que te acontece quando morreres]]
 
 
 ## A falar
