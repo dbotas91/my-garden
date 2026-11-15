@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-11-08T16:32:41.416+00:00","updated":"2026-11-08T16:32:41.416+00:00","dg-note-properties":{"noteIcon":"signpost"}}
+{"dg-publish":true,"dg-home":"true","dg-pinned":"true","dg-note-icon":"signpost","noteIcon":"signpost","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-07-11T13:25:20.390+01:00","updated":"2026-07-24T08:42:20.474+01:00","dg-note-properties":{"noteIcon":"signpost"}}
 ---
 
 # [[00 - MAPS OF CONTENT/Mensagens Escritas\|Mensagens Escritas]]
