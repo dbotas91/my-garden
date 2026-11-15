@@ -1,5 +1,5 @@
 ---
-{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-08-07-2026/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.291+00:00","updated":"2026-11-08T16:32:40.292+00:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
+{"tags":["2026-07"],"dg-publish":true,"dg-note-icon":"chest","noteIcon":"chest","permalink":"/06-daily-weekly-tasks/estudo-biblico-08-07-2026/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.352+01:00","updated":"2026-07-12T17:38:55.186+01:00","dg-note-properties":{"tags":["2026-07"],"noteIcon":"chest"}}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

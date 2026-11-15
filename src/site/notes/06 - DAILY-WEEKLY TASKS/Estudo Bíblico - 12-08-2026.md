@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-12-08-2026/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.292+00:00","updated":"2026-11-08T16:32:40.292+00:00","dg-note-properties":{"tags":null,"noteIcon":"stone"}}
+{"tags":null,"dg-publish":true,"dg-note-icon":"stone","noteIcon":"stone","permalink":"/06-daily-weekly-tasks/estudo-biblico-12-08-2026/","dgPassFrontmatter":true,"created":"2026-08-21T09:53:51.944+01:00","updated":"2026-09-19T22:32:08.600+01:00","dg-note-properties":{"tags":null,"noteIcon":"stone"}}
 ---
 
 Status: [[09 - STATUS NOTES/Concluído\|Concluído]]

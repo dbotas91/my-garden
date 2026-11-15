@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Devocional","created":"2026-11-08T16:32:40.280+00:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-11-08T16:32:40.280+00:00","title":"Homens de valor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/homens-de-valor/","dg-note-properties":{"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Devocional","created":"2026-07-11 13:39","speech-status":"Calado","local":"iqc","noteIcon":"teen","updated":"2026-07-11 13:39","title":"Homens de valor","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Devocional","created":"2026-07-11T13:40:32.600+01:00","speech-status":"Calado","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-07-17T22:01:31.367+01:00","title":"Homens de valor","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/homens-de-valor/","dg-note-properties":{"tags":["reuniaodehomens"],"mature-status":"Child","message_category":"Devocional","created":"2026-07-11 13:39","speech-status":"Calado","local":"iqc","noteIcon":"teen","updated":"2026-07-11 13:39","title":"Homens de valor","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
