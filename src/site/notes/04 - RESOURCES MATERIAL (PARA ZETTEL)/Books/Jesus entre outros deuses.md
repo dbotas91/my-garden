@@ -1,5 +1,5 @@
 ---
-{"tags":["books"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/books/jesus-entre-outros-deuses/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.238+00:00","updated":"2026-11-08T16:32:40.238+00:00","dg-note-properties":{"tags":["books"],"noteIcon":"lackluster"}}
+{"tags":["books"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/books/jesus-entre-outros-deuses/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:14.940+01:00","updated":"2026-07-11T13:25:14.940+01:00","dg-note-properties":{"tags":["books"],"noteIcon":"lackluster"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2022-coursera-data-science-curriculum-beginner-friendly/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.240+00:00","updated":"2026-11-08T16:32:40.240+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/2022-coursera-data-science-curriculum-beginner-friendly/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:14.956+01:00","updated":"2026-07-11T13:25:14.956+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
  
 

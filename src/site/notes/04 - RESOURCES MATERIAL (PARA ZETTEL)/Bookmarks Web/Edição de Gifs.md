@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"mature-status":"Child","created":"2026-11-12T14:35:05.519+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-11-12T14:35:27.160+00:00","dgPassFrontmatter":true,"permalink":"/04-resources-material-para-zettel/bookmarks-web/edicao-de-gifs/","dg-note-properties":{"tags":null,"mature-status":"Child","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"mature-status":"Child","created":"2026-11-15T19:34:42.779+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-11-15T19:34:55.951+00:00","dgPassFrontmatter":true,"permalink":"/04-resources-material-para-zettel/bookmarks-web/edicao-de-gifs/","dg-note-properties":{"tags":null,"mature-status":"Child","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"child","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
