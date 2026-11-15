@@ -67,7 +67,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "share-qr": {
       "repo": "palol/garden-plugin-share-qr",
