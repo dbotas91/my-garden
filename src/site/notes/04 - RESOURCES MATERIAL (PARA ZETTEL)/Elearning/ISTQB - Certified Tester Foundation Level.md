@@ -1,5 +1,5 @@
 ---
-{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/istqb-certified-tester-foundation-level/","dgPassFrontmatter":true,"created":"2026-11-08T16:32:40.251+00:00","updated":"2026-11-08T16:32:40.251+00:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
+{"tags":["elearning"],"dg-publish":true,"dg-note-icon":"lackluster","noteIcon":"lackluster","permalink":"/04-resources-material-para-zettel/elearning/istqb-certified-tester-foundation-level/","dgPassFrontmatter":true,"created":"2026-07-11T13:25:15.019+01:00","updated":"2026-07-11T13:25:15.019+01:00","dg-note-properties":{"tags":["elearning"],"noteIcon":"lackluster"}}
 ---
 
 ![](Dashboard/Attachments/icons_graduate%2030.png)

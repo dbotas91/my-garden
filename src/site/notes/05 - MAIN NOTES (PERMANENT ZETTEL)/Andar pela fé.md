@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"2026-11-08T16:32:40.270+00:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-11-08T16:32:40.271+00:00","title":"Andar pela fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/andar-pela-fe/","dg-note-properties":{"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"January 4, 2021 22:37","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Andar pela fé","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"2026-07-11T13:25:15.193+01:00","speech-status":"Proferido","local":"iqc","dg-note-icon":"adult","noteIcon":"adult","updated":"2026-07-11T13:25:15.193+01:00","title":"Andar pela fé","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/andar-pela-fe/","dg-note-properties":{"tags":["fé"],"mature-status":"Adult","message_category":"Devocional","created":"January 4, 2021 22:37","speech-status":"Proferido","local":"iqc","noteIcon":"adult","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","title":"Andar pela fé","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-11-08T16:32:40.263+00:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-11-08T16:32:40.263+00:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/","dg-note-properties":{"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"April 25, 2020 00:04","speech-status":"A fazer","local":"iqc","noteIcon":"teen","updated":"2026-01-28 14:24","title":"1 Timóteo","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"2026-07-11T13:25:15.114+01:00","speech-status":"A fazer","local":"iqc","dg-note-icon":"teen","noteIcon":"teen","updated":"2026-07-28T17:09:02.136+01:00","title":"1 Timóteo","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/1-timoteo/","dg-note-properties":{"tags":["1timoteo"],"mature-status":"Teen","message_category":"Estudo Bíblico","created":"April 25, 2020 00:04","speech-status":"A fazer","local":"iqc","noteIcon":"teen","updated":"2026-01-28 14:24","title":"1 Timóteo","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]

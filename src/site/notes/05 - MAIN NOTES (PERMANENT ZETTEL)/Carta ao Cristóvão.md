@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["carta"],"mature-status":"Child","created":"2026-11-08T16:32:40.272+00:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-11-08T16:32:40.272+00:00","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/carta-ao-cristovao/","dg-note-properties":{"tags":["carta"],"mature-status":"Child","created":"2026-08-05 22:14","noteIcon":"child","updated":"2026-08-05 22:14","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":["carta"],"mature-status":"Child","created":"2026-08-21T09:53:51.935+01:00","dg-note-icon":"child","noteIcon":"child","updated":"2026-08-21T09:53:53.171+01:00","dgPassFrontmatter":true,"permalink":"/05-main-notes-permanent-zettel/carta-ao-cristovao/","dg-note-properties":{"tags":["carta"],"mature-status":"Child","created":"2026-08-05 22:14","noteIcon":"child","updated":"2026-08-05 22:14","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
