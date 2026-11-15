@@ -1,5 +1,5 @@
 ---
-{"tags":["natal"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","created":"2026-11-08T16:32:40.297+00:00","updated":"2026-11-08T16:32:40.297+00:00","dgPassFrontmatter":true,"kanban-plugin":"board","permalink":"/07-indexes/reuniao-de-natal/","dg-note-properties":{"tags":["natal"],"noteIcon":"signpost","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true","kanban-plugin":"board"}}
+{"tags":["natal"],"dg-publish":true,"dg-note-icon":"signpost","noteIcon":"signpost","created":"2026-07-11T13:25:15.386+01:00","updated":"2026-07-11T13:25:15.386+01:00","dgPassFrontmatter":true,"kanban-plugin":"board","permalink":"/07-indexes/reuniao-de-natal/","dg-note-properties":{"tags":["natal"],"noteIcon":"signpost","created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","dgPassFrontmatter":"true","kanban-plugin":"board"}}
 ---
 
 
