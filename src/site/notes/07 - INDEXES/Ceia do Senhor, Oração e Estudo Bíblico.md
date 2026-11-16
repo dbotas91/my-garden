@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:15.384+01:00","updated":"2026-11-15T19:38:42.965+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
+{"dg-publish":true,"tags":null,"created":"2026-07-11T13:25:15.384+01:00","updated":"2026-11-16T09:58:12.311+00:00","dg-note-icon":"signpost","noteIcon":"signpost","dgPassFrontmatter":true,"permalink":"/07-indexes/ceia-do-senhor-oracao-e-estudo-biblico/","dg-note-properties":{"tags":null,"created":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","updated":"<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>","noteIcon":"signpost","dgPassFrontmatter":"true"}}
 ---
 
 [[Home\|Back home]]
@@ -20,7 +20,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[10 - TAGS/2026-08\|2026-08]]
 - [[10 - TAGS/2026-09\|2026-09]]
 - [[10 - TAGS/2026-10\|2026-10]]
-- [[03 - ROUGH NOTES (FLEETING ZETTEL)/2026-11\|2026-11]]
+- [[10 - TAGS/2026-11\|2026-11]]
 
 ### Todas as notas (ordenadas por data ascendente)
 - [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 01-02-2025\|Reunião Zoom IQC - 01-02-2025]]
@@ -49,8 +49,7 @@ Estão organizados por ano-mês com referências às Tags.
 - [[06 - DAILY-WEEKLY TASKS/Ceia e ED - 23-08-2026\|Ceia e ED - 23-08-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Reunião Zoom IQC - 06-09-2026\|Reunião Zoom IQC - 06-09-2026]]
 - [[06 - DAILY-WEEKLY TASKS/Ceia e ED - 20-09-2026\|Ceia e ED - 20-09-2026]]
-- [[03 - ROUGH NOTES (FLEETING ZETTEL)/Ceia e ED - 15-11-2026\|Ceia e ED - 15-11-2026]]
-- [[03 - ROUGH NOTES (FLEETING ZETTEL)/Reunião Zoom IQC - 15-11-2026\|Reunião Zoom IQC - 15-11-2026]]
+- [[06 - DAILY-WEEKLY TASKS/Ceia e ED - 15-11-2026\|Ceia e ED - 15-11-2026]]
 
 ## 2025
 ### Tags (Por ano-mês)

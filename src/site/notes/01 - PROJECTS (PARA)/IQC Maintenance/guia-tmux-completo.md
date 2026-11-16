@@ -1,5 +1,5 @@
 ---
-{"title":"Guia Completo e Configuração do TMUX","date":"2026-10-28","tags":["tmux","terminal","linux","wsl","produtividade","dotfiles"],"dg-publish":true,"mature-status":"canon","created":"2026-11-12T12:38:00.296+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-11-14T23:25:50.640+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-tmux-completo/","dg-note-properties":{"title":"Guia Completo e Configuração do TMUX","date":"2026-10-28","tags":["tmux","terminal","linux","wsl","produtividade","dotfiles"],"mature-status":"canon","created":"2026-03-04 11:58","noteIcon":"canon","updated":"2026-03-04 11:58","dgPassFrontmatter":"true"}}
+{"title":"Guia Completo e Configuração do TMUX","date":"2026-10-28","tags":["tmux","terminal","linux","wsl","produtividade","dotfiles"],"dg-publish":true,"mature-status":"canon","created":"2026-10-29T09:21:59.991+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-11-15T19:34:42.768+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-tmux-completo/","dg-note-properties":{"title":"Guia Completo e Configuração do TMUX","date":"2026-10-28","tags":["tmux","terminal","linux","wsl","produtividade","dotfiles"],"mature-status":"canon","created":"2026-03-04 11:58","noteIcon":"canon","updated":"2026-03-04 11:58","dgPassFrontmatter":"true"}}
 ---
 
 

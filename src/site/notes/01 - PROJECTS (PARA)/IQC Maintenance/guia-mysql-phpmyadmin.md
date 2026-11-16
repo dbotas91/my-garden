@@ -1,5 +1,5 @@
 ---
-{"title":"Guia MySQL / phpMyAdmin no Docker","date":"2026-10-29","dg-publish":true,"mature-status":"canon","created":"2026-10-30T09:34:24.634+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-11-15T20:12:52.917+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-mysql-phpmyadmin/","dg-note-properties":{"title":"Guia MySQL / phpMyAdmin no Docker","date":"2026-10-29","mature-status":"canon","created":"2026-03-04 11:58","noteIcon":"canon","updated":"2026-03-04 11:58","dgPassFrontmatter":"true"}}
+{"title":"Guia MySQL / phpMyAdmin no Docker","date":"2026-10-29","dg-publish":true,"mature-status":"canon","created":"2026-10-30T09:34:24.634+00:00","dg-note-icon":"canon","noteIcon":"canon","updated":"2026-11-16T08:45:49.196+00:00","dgPassFrontmatter":true,"permalink":"/01-projects-para/iqc-maintenance/guia-mysql-phpmyadmin/","dg-note-properties":{"title":"Guia MySQL / phpMyAdmin no Docker","date":"2026-10-29","mature-status":"canon","created":"2026-03-04 11:58","noteIcon":"canon","updated":"2026-03-04 11:58","dgPassFrontmatter":"true"}}
 ---
 
 
